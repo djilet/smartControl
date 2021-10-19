@@ -1,0 +1,202 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="19%" id=SDF>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="37%" id=SEF>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" id=SFF>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="21%" id=SGF>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SHF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SIF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SJF>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=4 valign=top id=SKF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта, (сертификат), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на партию кирпича, раствора,
+  соответствие их вида, марки и качества требованиям проекта, стандарта;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, лабораторный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку основания под кладку от мусора, грязи, снега и наледи;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SNF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность разбивки осей.</span></p>
+  </td>
+  <td width="22%" valign=top id=SOF>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=10 valign=top id=SHF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Кладка перегородок</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SIF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SJF>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=10 valign=top id=SKF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину конструкций перегородок поверхностей;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, после каждых 10 м<sup>3</sup>
+  кладки</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ширину проемов;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину швов кладки;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- смещение осей перегородок от разбивочных осей;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждая ось</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение поверхностей и углов кладки от вертикали, отклонение
+  рядов кладки от горизонтали;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, после каждых 10 м<sup>3</sup>
+  кладки</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- неровности на вертикальной поверхности кладки;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, после каждых 10м<sup>3</sup>
+  кладки</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность перевязки швов, их заполнение;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность выполнения армирования кладки;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SNF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- температуру наружного воздуха и раствора (в зимних условиях).</span></p>
+  </td>
+  <td width="22%" valign=top id=SOF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SHF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SIF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SJF>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=3 valign=top id=SKF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SLF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие качества поверхностей перегородок и перевязки швов
+  требованиям проекта;</span></p>
+  </td>
+  <td width="22%" valign=top id=SMF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SNF>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения в размерах и положении перегородок от проектных.</span></p>
+  </td>
+  <td width="22%" valign=top id=SOF>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: отвес, рулетка металлическая,
+  линейка металлическая, уровень, правило, нивелир.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoBodyText><span id=SGD>Входной
+  и операционный контроль осуществляют: мастер (прораб), геодезист - в процессе
+  работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

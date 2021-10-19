@@ -1,0 +1,283 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3.2-3.5, 3.7, табл. 2</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=200 height=166 src="x216.jpg" v:shapes="_x0000_i1132"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Вертикальные трубопроводы
+не должны отклоняться от вертикали более чем на 2 мм на 1 м длины.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Разъемные
+соединения трубопроводов, а также арматура, ревизии и прочистки должны
+располагаться в местах, доступных для обслуживания.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние от
+поверхности штукатурки или облицовки до оси неизолированных трубопроводов при
+открытой прокладке должно составлять при диаметре условного прохода:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 32 мм
+включительно - от 35 до 55 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при 40-50 мм
+- от 50 до 60 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при более чем
+50 мм - по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние от
+трубопроводов и отопительных приборов с температурой теплоносителя выше 105 °С
+до конструкции зданий и сооружений из горючих (сгораемых) материалов должно
+быть не менее 100 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средства
+крепления стояков из стальных труб в жилых и общественных зданиях при высоте
+этажа до 3 м не устанавливаются; более 3 м - устанавливаются на половине высоты
+этажа.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средства
+крепления стояков в производственных зданиях следует устанавливать через 3 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Подводки к
+отопительным приборам при длине более 1,5 м должны иметь крепление.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SKD><span id=SB>Допускаемые
+расстояния между средствами крепления стальных трубопроводов на горизонтальных
+участках указаны в таблице.</span><span id=SS></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="30%" rowspan=2 id=S2U1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Диаметр условного прохода, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="69%" colspan=2 id=S3U1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Наибольшее расстояние между средствами
+  крепления трубопроводов, м</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" id=S4U1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>неизолированных</span></b><span id=SH></span></p>
+  </td>
+  <td width="32%" id=S5U1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>изолированных</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S6U1>
+  <td width="30%" valign=top id=S7U1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+  <td width="36%" valign=top id=S8U1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=S9U1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>25</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3,5</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>32</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>40</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4,5</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>50</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>70, 80</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4,5</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SAU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>125</span></p>
+  </td>
+  <td width="36%" valign=top id=SBU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7</span></p>
+  </td>
+  <td width="32%" valign=top id=SCU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="30%" valign=top id=SDU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>150</span></p>
+  </td>
+  <td width="36%" valign=top id=SEU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span></p>
+  </td>
+  <td width="32%" valign=top id=SFU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расположение
+средств крепления в местах соединения трубопроводов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- заделка
+креплений с помощью деревянных пробок;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- приварка
+трубопроводов к средствам крепления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- примыкание
+неизолированных трубопроводов систем отопления, теплоснабжения, внутреннего
+холодного и горячего водоснабжения к поверхности строительных конструкций.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3914/index.htm" title="Трубы стальные водогазопроводные. Технические условия">ГОСТ
+3262-75</a></span><span id=S74>*. Трубы стальные водогазопроводные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Предельные отклонения по
+размерам труб не должны превышать указанные в таблице.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="41%" rowspan=2 id=SGU1>
+  <p class=MsoNormal align=center id=S46><b>Размер труб</b></p>
+  </td>
+  <td width="58%" colspan=2 id=SHU1>
+  <p class=MsoNormal align=center id=S46><b>Предельное
+  отклонение для труб точности изготовления</b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" id=SIU1>
+  <p class=MsoNormal align=center id=S46><b>обычной</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="27%" id=SJU1>
+  <p class=MsoNormal align=center id=S46><b>повышенной</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SKU1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Наружный диаметр с условным проходом:</span><span id=SI></span></p>
+  </td>
+  <td width="31%" valign=top id=SLU1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SMU1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SNU1>
+  <p class=MsoNormal id=SD3><span id=S82>до 40 мм включительно</span></p>
+  </td>
+  <td width="31%" valign=top id=SOU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+0,4 мм, -0,5 мм</span></p>
+  </td>
+  <td width="27%" valign=top id=SPU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,4 мм</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SNU1>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 40 мм</span><span id=SI></span></p>
+  </td>
+  <td width="31%" valign=top id=SOU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+0,8 мм, -1,0 мм</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SPU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,8 мм</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SQU1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина стенки</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SRU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-15 %</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SSU1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-10 %</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Предельные
+отклонения по массе труб не должны превышать +8 %.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Кривизна
+труб на 1 м длины не должна превышать:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 2 мм с
+условным проходом до 20 мм включительно;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1,5 мм с условным
+проходом свыше 20 мм.</span><span id=SS></span></p>

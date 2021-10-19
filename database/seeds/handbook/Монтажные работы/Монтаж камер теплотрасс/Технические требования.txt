@@ -1,0 +1,153 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2006/index.htm" title="Тепловые сети">СНиП 3.05.03-85</a></span>; <span id=SS12><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=185 height=240 src="x238.jpg" v:shapes="_x0000_i1143"></span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещение осей
+блоков камеры или колодца относительно разбивочных осей - 12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отклонение
+отметок основания под камеры или колодцы - 20 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отклонение от
+смещения ориентиров (рисок геометрических осей, граней) с установочными
+ориентирами (рисками геометрических осей, гранями) нижележащих элементов - 8
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отклонение
+боковых плоскостей элементов в верхнем сечении от вертикали - 10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Марка раствора,
+применяемого при монтаже конструкций для устройства постели, принимается по
+проекту. Подвижность раствора должна составлять 5-7 см по глубине погружения
+стандартного конуса.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>на поверхности
+камер и колодцев:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины, за
+исключением усадочных и других поверхностных технологических, ширина которых не
+должна превышать 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>- раковины, наплывы, околы
+бетона, размер которых превышает указанные в таблице.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="17%" id=ST12>
+  <p class=MsoNormal align=center id=S46><b>Вид поверхности</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="10%" id=SGP>
+  <p class=MsoNormal align=center id=S46><b>Категория</b></p>
+  </td>
+  <td width="11%" id=SU12>
+  <p class=MsoNormal align=center id=S46><b>Диаметр раковин</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="20%" id=SV12>
+  <p class=MsoNormal align=center id=S46><b>Высота наплыва;
+  глубина впадин</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" id=SW12>
+  <p class=MsoNormal align=center id=S46><b>Глубина окола
+  бетона на ребре элемента</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="23%" id=SX12>
+  <p class=MsoNormal align=center id=S46><b>Суммарная длина
+  околов бетона на 1 м ребра</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="17%" valign=top id=SY12>
+  <p class=MsoNormal id=SJ1><span id=SD2>лицевая </span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SWJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>А6</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SZ12>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=S022>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S122>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S222>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="17%" valign=top id=S322>
+  <p class=MsoNormal id=SJ1><span id=SD2>невидимая в условиях эксплуатации</span></p>
+  </td>
+  <td width="10%" valign=top id=S8K>
+  <p class=MsoNormal align=center id=SA1><span id=S82>А7</span></p>
+  </td>
+  <td width="11%" valign=top id=S422>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+  <td width="20%" valign=top id=S522>
+  <p class=MsoNormal align=center id=SA1><span id=S82>не регламентируется</span></p>
+  </td>
+  <td width="16%" valign=top id=S622>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+  <td width="23%" valign=top id=S722>
+  <p class=MsoNormal align=center id=SA1><span id=S82>не регламентируется</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../42/42111/index.htm" title="Изделия железобетонные и бетонные для строительства. Общие технические требования. Правила приемки, маркировки, транспортирования и хранения">ГОСТ
+13015-2003</a></span><span id=S74>. Изделия железобетонные и бетонные для строительства. Общие
+технические условия.</span><span id=S31> </span><span id=SB>Правила приемки, маркировки,
+транспортирования и хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+фактических размеров камер и колодцев от номинальных размеров не должны
+превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±15;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±12;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте -
+±10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение размеров
+ребер, вырезов, проемов не должно превышать ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+положения отверстий в элементе не должно превышать 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+прямолинейности не должны превышать 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+номинального положения стальных закладных деталей не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для закладных
+деталей длиной до 100 мм - 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для закладных
+деталей длиной свыше 100 мм - 10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из плоскости
+элемента - 3.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Закладные
+детали должны иметь антикоррозийное покрытие.</span><span id=S2></span></p>

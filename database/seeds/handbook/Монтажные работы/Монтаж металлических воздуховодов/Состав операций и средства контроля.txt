@@ -1,0 +1,166 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="22%" id=SHY1>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="36%" id=SIY1>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="18%" id=SJY1>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="22%" id=SKY1>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=5 valign=top id=SLY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="36%" valign=top id=SMY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SNY1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SOY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Сертификаты (паспорта), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве материалов, изделий;</span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие применяемых изделий проекту, стандартам и техническим
+  условиям;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку мест для прокладки воздуховодов;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SRY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соединение отдельных секций воздуховодов.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=5 valign=top id=STY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж металлических воздуховодов</span><span id=SI></span></p>
+  </td>
+  <td width="36%" valign=top id=SMY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SNY1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SUY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку средств крепления воздуховодов;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соединение воздуховодов между собой;</span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- вертикальность и горизонтальность воздуховодов;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SRY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подключение воздуховодов к оборудованию.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=3 valign=top id=STY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="36%" valign=top id=SMY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SNY1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SUY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SPY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие фактического положения смонтированных воздуховодов
+  требованиям проекта;</span></p>
+  </td>
+  <td width="18%" valign=top id=SQY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SRY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполнения соединения воздуховодов.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: штангенциркуль, отвес, рулетка
+  металлическая, уровень строительный.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

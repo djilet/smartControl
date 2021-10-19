@@ -1,0 +1,33 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Технические требования<br>
+</span></b><span id=SB><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты"><span id=SU>СНиП 3.02.01-87</span></a> пп. 4.15, 4.26</span><b><span id=SS></span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Содержание
+мерзлых комьев для наружных пазух зданий и верхних зон траншей с уложенными
+коммуникациями не должно быть более 20 % от общего объема.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размер твердых
+включений, в т.ч. мерзлых комьев, не должен превышать 2/3 толщины уплотненного
+слоя, но не более 30 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=224 height=179 src="x010.jpg" v:shapes="_x0000_i1029"></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Гранулометрический
+состав грунта должен соответствовать проекту (отклонения допускаются не более
+чем в 20 % определений).</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средняя по
+проверяемому участку плотность сухого грунта обратных засыпок должна быть не
+ниже проектной (отклонения допускаются в значениях плотности ниже проектных на
+0,06 г/см<sup>3</sup> в отдельных определениях, но не более чем в 20 %
+определений).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b><b><span id=SS></span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- содержание в
+грунте древесины, гниющего или легкосжимаемого строительного мусора;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие снега
+и льда в обратных засыпках и их основаниях;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- содержание
+мерзлых комьев для пазух внутри здания.</span><span id=SS></span></p>

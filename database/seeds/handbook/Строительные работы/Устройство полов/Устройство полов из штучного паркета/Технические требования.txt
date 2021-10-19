@@ -1,0 +1,87 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 4.34,
+табл. 23, 25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=230 height=191 src="x146.jpg" v:shapes="_x0000_i1097"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+покрытия от плоскости при проверке контрольной двухметровой рейкой не должны
+превышать 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от заданного
+уклона покрытий - 0,2 % соответствующего размера помещения, но не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+покрытия - не более 10 % от проектной.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+материалов штучного паркета не должна превышать 10 %. Толщина клеевой прослойки
+под штучный паркет должна быть не более 1 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Площадь
+приклейки паркетной планки должна быть не менее 80 %. Зазоры между смежными
+планками штучного паркета - не более 0,3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступы между
+смежными изделиями покрытий;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры и щели
+между плинтусами и покрытием пола или стенами (перегородками);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- забивка
+гвоздей в лицевую поверхность паркетной планки.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3446/index.htm" title="Детали профильные из древесины и древесных материалов для строительства. Технические условия">ГОСТ
+8242-88<span id=SB9>*</span></a></span><span id=S21>. Детали
+профильные из древесины и древесных материалов для </span><span id=SB>строительства. Технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от размеров планок:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±0,2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±0,2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±0,3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штучный паркет
+должен быть упакован в пачки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая пачка
+должна содержать планки одного типа, одной породы древесины и одного размера. В
+партии должно быть одинаковое количество правых и левых планок.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На каждой пачке
+должна быть четкая маркировка, содержащая: наименование
+предприятия-изготовителя; тип планок; породу и название древесины; количество
+щитов в шт. и м<sup>2</sup>; размеры в мм; дату изготовления; обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставляемый
+паркет должен сопровождаться документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Клеящие составы
+должны изготовляться централизованно и поступать на строительные площадки
+готовыми к употреблению. Составы не должны иметь посторонних включений, должны
+быть водостойкими.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Правила хранения</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- клеящие
+составы - в плотной закрытой таре с соблюдением правил хранения
+легковоспламеняющихся взрывоопасных материалов.</span><span id=S2></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+штучный паркет - в пачках, уложенных в правильные ряды по типам, размерам и
+породам древесины, в закрытых помещениях, не допускающих увлажнения.</span><span id=SY3></span></p>

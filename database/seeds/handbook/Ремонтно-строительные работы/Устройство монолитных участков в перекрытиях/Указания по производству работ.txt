@@ -1,0 +1,125 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 2.14, табл. 2<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=211 height=239 src="x188.jpg" v:shapes="_x0000_i1118"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстоянии
+между:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отдельно
+установленными рабочими стержнями - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- рядами сетки
+- ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от проектной
+толщины защитного слоя бетона при его толщине до 15 мм и линейных размерах
+поперечного сечения конструкции:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 100 мм -
++4 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от 101 мм до
+200 мм - +5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- местных
+неровностей поверхности бетона при проверке двухметровой рейкой - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+свободного сбрасывания бетонной смеси в опалубку перекрытий не должна превышать
+1,0 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность
+бетона (в момент распалубки конструкций) должна быть не менее 70 % проектной
+прочности.</span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- добавлять
+воду на месте укладки бетонной смеси для увеличения ее подвижности.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Армирование
+монолитных участков должно оформляться актом освидетельствования скрытых работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a></span><span id=S21>. Смеси
+бетонные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3364/index.htm" title="Сетки арматурные сварные для железобетонных конструкций и изделий. Общие технические условия">ГОСТ
+23279-85</a></span><span id=S74>. Сетки арматурные сварные для железобетонных конструкций и
+изделий. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3308/index.htm" title="Арматурные и закладные изделия сварные, соединения сварные арматуры и закладных изделий железобетонных конструкций. Общие технические условия">ГОСТ
+10922-90</a></span><span id=S74>. Арматурные и закладные изделия сварные, соединения сварные
+арматурных и закладных изделий железобетонных конструкций. Общие технические
+условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39167/index.htm" title="Опалубка. Термины и определения">ГОСТ Р 52086-2003</a>.
+Опалубка. Термины и определения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Опалубка должна
+обладать прочностью, жесткостью, неизменяемостью формы и устойчивостью в
+рабочем положении, а также в условиях монтажа и транспортирования.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины, применяемой для палубы, должна быть не более 18 %, для
+поддерживающих элементов - не более 22 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доски палубы
+должны иметь ширину не более 150 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы
+опалубки должны плотно прилегать друг к другу при сборке. Щели в стыковых
+соединениях не должны быть более 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На палубе щитов
+из фанеры не допускаются трещины, заусенцы и местные отклонения глубиной более
+2 мм, на палубе из древесины - более 3 мм в количестве не более 3 на 1 м<sup>2</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+опалубки необходимо проверить наличие паспорта с инструкцией по монтажу и
+эксплуатации опалубки, проверить геометрические размеры, качество рабочих
+поверхностей, защитной окраски поверхностей, не соприкасающихся с бетонами.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения для арматурных сеток, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины,
+размеров ячеек, разницы в длине диагоналей плоских сеток, свободных концов
+стержней - ±10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длины плоских
+сеток - ±15.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные отклонения
+от прямолинейности стержней сеток не должны превышать 6 мм на 1 м длины сетки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бетонные смеси
+должны характеризоваться следующими показателями:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- классом по
+прочности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+удобоукладываемостью;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- видом и
+количеством исходных материалов (вяжущие, заполнители, добавки);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- крупностью
+заполнителей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По согласованию
+с проектной организацией, осуществляющей авторский надзор, пробы бетонной смеси
+на месте укладки их в монолитную конструкцию допускается не отбирать, а
+оценивать прочность бетона по данным контроля предприятия-изготовителя бетонной
+смеси.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Удобоукладываемость
+бетонной смеси определяют для каждой партии не позднее чем через 20 минут после
+доставки смеси к месту укладки.</span><span id=SS></span></p>

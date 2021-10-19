@@ -1,0 +1,263 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 3.46,
+3.47, табл. 15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S46><span id=SB><img border=0 width=240 height=196 src="x166.jpg" v:shapes="_x0000_i1107"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Замазка после
+образования на поверхности твердой пленки не должна иметь трещины, отставать от
+поверхности стекла и фальца.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Обрез замазки в
+месте соприкосновения со стеклом должен быть ровным и параллельным кромке
+фальца, без выступающих крепежных приборов.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Наружные фаски
+штапиков должны плотно прилегать к внешней грани фальцев, не выступая за их
+пределы и не образуя впадин.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штапики,
+установленные на стекольной замазке, должны быть прочно соединены между собой и
+с фальцем переплета.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Резиновые
+прокладки, применяемые для остекления, должны быть плотно защемлены стеклом и
+плотно прилегать к поверхности фальца, стекла и штапиков, не выступать над
+гранью штапика, не иметь трещин и разрывов.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Резиновые
+профили при применении любых крепежных приборов должны быть плотно пригнаны к
+стеклу и пазу фальца, крепежные приборы должны соответствовать проектным и быть
+плотно запасованными в пазах фальца.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стекло должно
+перекрывать фальцы переплетов не более чем на 3/4 ширины.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стыкование
+стекол, а также установка стекол с дефектами (трещины, выколы более 10 мм,
+несмывающиеся пятна, инородные включения) при остеклении жилых домов и объектов
+культурно-бытового назначения;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- следы
+замазки, раствора, краски и т.п. на поверхности стекол.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../10/10113/index.htm" title="Стекло листовое. Технические условия">ГОСТ 111-2001</a></span><span id=S21>. Стекло
+листовое. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стекло должно
+поступать на строительную площадку нарезанным по размерам согласно заказным
+спецификациям, комплектно с уплотнителями, герметиками и крепежными
+материалами. Мерное стекло должно быть скомплектовано по группам однотипных
+помещений.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Раскроенное
+стекло по геометрическим размерам должно отвечать требованиям, приведенным в
+таблице 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="13%" rowspan=2 id=SFH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Толщина, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="10%" rowspan=2 id=SGH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Длина, мм</span></b><span id=SI></span></p>
+  </td>
+  <td width="12%" rowspan=2 id=SHH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Ширина, мм</span></b><span id=SI></span></p>
+  </td>
+  <td width="62%" colspan=2 id=SIH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Отклонения размеров по длине и ширине листов
+  при длине, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" id=SJH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>до 1000</span></b><span id=SI></span></p>
+  </td>
+  <td width="32%" id=SKH1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>св. 1000</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SLH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SMH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>500</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1600</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SNH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>800</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SOH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SPH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SQH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SRH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1800</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SSH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1200</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=STH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SUH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SQH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SRH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>2200</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SSH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1300</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=STH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SUH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SQH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SRH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>2500</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SSH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1600</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=STH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SUH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SQH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SRH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>2500</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SSH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1600</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=STH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SUH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="13%" valign=top id=SVH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SWH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>2500</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SXH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SXB1><span id=ST1>&cedil;</span></span><span id=S82>1600</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SYH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+  <td width="32%" valign=top id=SZH1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Отклонения размеров
+по длине и ширине для листов стекла, поставляемого в заводском ассортименте, -
+±10 мм.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Листы стекла
+должны иметь прямоугольную форму. Разность длин диагоналей листов стекла не
+должна превышать значения, указанные в таблице 2.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="22%" rowspan=2 id=S0I1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Толщина, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="77%" colspan=2 id=S1I1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Разность длин диагоналей листов стекла при
+  длине, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" id=S2I1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>до 1000</span></b><span id=SI></span></p>
+  </td>
+  <td width="39%" id=S3I1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>св. 1000</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SPI>
+  <td width="22%" valign=top id=S4I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,0; 2,5; 3,0 и 4,0</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=S5I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="39%" valign=top id=S6I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SUI>
+  <td width="22%" valign=top id=S7I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5,0 и 6,0</span></p>
+  </td>
+  <td width="37%" valign=top id=S8I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7</span></p>
+  </td>
+  <td width="39%" valign=top id=S9I1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Листы стекла должны
+иметь ровные кромки и целые углы. Сколы и щербины в кромках листа не
+допускаются длиной (считая от края к центру листа) более 3 мм.</span><span id=SY3></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Листы
+стекла должны храниться в ящиках или распакованными в сухих закрытых
+помещениях, установленными на пирамиды или стеллажи на резиновые, войлочные или
+деревянные прокладки в наклонном положении, с углом наклона к вертикали 10-15°.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Замазку следует
+хранить в закрытой таре (упаковке) при положительной температуре, предохраняя
+от высыхания и попадания прямых солнечных лучей.</span><span id=S2></span></p>

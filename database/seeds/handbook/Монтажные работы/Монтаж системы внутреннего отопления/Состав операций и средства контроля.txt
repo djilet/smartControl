@@ -1,0 +1,185 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="23%" id=SDY1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="39%" id=SEY1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SIO1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=S5Q1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=5 valign=top id=SFY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SIX>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SMO1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" rowspan=5 valign=top id=S8Q1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Сертификаты (паспорта), журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве изделия;</span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие применяемых материалов проекту, стандартам и
+  техническим условиям;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку мест для прокладки трубопроводов, установки отопительных
+  приборов;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- сборку секций чугунных радиаторов.</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SVO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=7 valign=top id=SGY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж трубопроводов Монтаж отопительных приборов</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SIX>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SMO1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" rowspan=7 valign=top id=SCQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество соединений трубопроводов и их крепление;</span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- уклоны подводок к отопительным приборам;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- вертикальность трубопроводов;</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- расстояние от поверхности стены до оси трубопроводов, от
+  прокладываемого стояка до кромки оконного проема и длины подводок к
+  отопительным приборам;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- число и способ крепления кронштейнов под отопительные приборы;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- расстояние установки отопительных приборов от пола, стены,
+  подоконных досок и т.д.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=3 valign=top id=SFY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SIX>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SMO1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" rowspan=3 valign=top id=S8Q1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SLX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие фактического положения смонтированных трубопроводов и
+  отопительных приборов требованиям проекта;</span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение требований проекта и нормативных документов к качеству
+  выполнения соединения труб, крепежу отопительных приборов.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVO1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: штангенциркуль, отвес, рулетка
+  металлическая, уровень строительный.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

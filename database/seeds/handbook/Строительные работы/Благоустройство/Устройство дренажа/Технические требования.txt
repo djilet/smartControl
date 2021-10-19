@@ -1,0 +1,119 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../1/1999/index.htm" title="Наружные сети и сооружения водоснабжения и канализации">СНиП 3.05.04-85</a>*</span>,
+раздел 3, <span id=SO9><a href="../../2/2006/index.htm" title="Тепловые сети">СНиП 3.05.03-85</a></span> пп. 3.10, 3.6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=226 height=246 src="x176.jpg" v:shapes="_x0000_i1112"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- продольных
+уклонов песчаного основания под трубы от проектных - ±0,0005;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+основания под трубы от проектных - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ровности
+поверхности основания под трубы при проверке трехметровой рейкой - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уклона труб
+дренажа от проектного - ±0,0005;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от формы
+круга (прямолинейность участков труб):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+горизонтали - 1/4 диаметра трубы, но не более 50 мм в каждую сторону; - по
+вертикали - не допускаются;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+лотков труб в колодцах от проектных - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При устройстве
+дренажа подлежат приемке с составлением акта освидетельствования скрытых работ,
+следующие этапы работ: подготовка основания под трубы, укладка труб и
+устройство колодцев, засыпка дренирующего материала.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3222/index.htm" title="Трубы керамические дренажные. Технические условия">ГОСТ
+8411-74</a></span><span id=S74>*. Трубы керамические дренажные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3193/index.htm" title="Трубы и муфты асбестоцементные для безнапорных трубопроводов. Технические условия">ГОСТ
+1839-80*</a>. Трубы и муфты асбестоцементные для безнапорных трубопроводов.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=SZJ1><b><span id=S0K1>Асбоцементные
+трубы</span></b><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров асбоцементных труб от номинальных не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по наружному
+диаметру обточенного конца трубы - -3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+трубы - -50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+стенки - +3 мм - -4 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров асбоцементных муфт от номинальных не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - +5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+внутреннему диаметру и диаметру канавки - +3 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы и муфты
+не должны иметь трещин, обломов и расслоений.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Концы труб и
+внутренняя поверхность муфт должны быть обточены.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы должны
+быть прямыми, отклонение от прямолинейности не должно превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для труб
+длиной 2950 и 3950 мм - 12 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы должны
+поставляться комплектно с муфтами и резиновыми кольцами.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=SZJ1><b><span id=S0K1>Керамические
+трубы</span></b><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+размеров каждого из взаимно перпендикулярных диаметров на концах трубы
+(овальность трубы) не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для труб
+диаметром: 50 мм - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>75 мм - 3 мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>100-150 мм - 4
+мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>175-200 мм - 5
+мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>250 мм - 6 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+перпендикулярности плоскости торцов труб (перекос) не должен превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для труб
+диаметром: 50 мм - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>75 мм - 4 мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>100-150 мм - 5
+мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>175-200 мм - 6
+мм;</span></p>
+
+<p class=MsoNormal id=S1K1><span id=SB>250 мм - 8 мм.</span><span id=SH></span></p>

@@ -1,0 +1,52 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 2.6,
+2.7, табл. 2, 3<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=243 height=180 src="x096.jpg" v:shapes="_x0000_i1072"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+поверхности основания кровли и при рулонной и безрулонной изоляции:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вдоль уклона
+и на горизонтальной поверхности - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поперек
+уклона и на вертикальной поверхности - ±10 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+элемента от заданного уклона (по всей поверхности) - 0,2 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+элемента конструкции – 10 % от проектной;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по числу
+неровностей (плавного очертания протяженностью не более 150 мм) на площади
+поверхности 4 м<sup>2</sup> - не более 2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- влажность
+основания перед нанесением грунтовки не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных, гипсовых и гипсово-песчаных – 5 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- любых
+оснований при нанесении составов на водной основе - до появления
+поверхностно-капельной влаги.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина
+грунтовки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для кровель
+из наплавляемых материалов - 0,7 мм, предельное отклонение - 5%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+огрунтовке отвердевшей стяжки - 0,3 мм, предельное отклонение – 5 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+огрунтовке стяжек в течение 4 ч. после нанесения раствора - 0,6 мм, предельное
+отклонение 10 %.</span><span id=SS></span></p>

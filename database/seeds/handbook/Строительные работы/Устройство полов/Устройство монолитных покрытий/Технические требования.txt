@@ -1,0 +1,100 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 21,
+25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=237 height=177 src="x132.jpg" v:shapes="_x0000_i1090"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+покрытия от плоскости при проверке контрольной двухметровой рейкой не должны
+превышать для:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+асфальтобетонных покрытий - 6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-бетонных, цементно-песчаных и других видов бетонных покрытий - 4 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от заданного
+уклона покрытий - 0,2 % соответствующего размера помещения, но не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+покрытия - не более 10 % от проектной.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Уступы между
+покрытиями и элементами окаймления пола - не более 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Максимальная
+крупность щебня и гравия для бетонных покрытий не должна превышать 15 мм и 0,6
+толщины покрытий (</span><span  id=SID>h</span><span id=SJD>).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность на
+сжатие мраморной крошки для покрытий:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- мозаичных -
+не менее 600 МПа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+поливинилацетатно-цементно-бетонных и латексно-цементно-бетонных не менее 800
+МПа.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При проверке
+сцепления монолитных покрытий с нижележащими элементами пола простукиванием не
+должно быть изменения характера звучания.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры и щели
+между плинтусами и покрытием пола или стенами (перегородками);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- выбоины,
+трещины, волны на поверхности покрытий;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разрезка
+монолитных покрытий на отдельные карты, за исключением многоцветных покрытий (с
+установкой разделительных жилок).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a></span><span id=S21>. Смеси
+бетонные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3589/index.htm" title="Бетоны. Правила контроля прочности">ГОСТ 18105-86*</a></span><span id=S21>. Бетоны.
+Правила контроля прочности.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Бетонные
+смеси должны характеризоваться показателями:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- классом по
+прочности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+удобоукладываемостью;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- видом и
+количеством исходных материалов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- крупностью
+заполнителей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бетонные смеси
+должны быть приняты техническим контролем изготовителя, а при отправке
+потребителю сопровождаться документом о качестве.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При контроле по
+образцам для определения прочности бетона из произвольно выбранных замесов
+отбирают не менее одной пробы в одни сутки на строительной площадке.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По согласованию
+с проектной организацией, осуществляющей авторский надзор, пробы бетонной смеси
+на месте укладки допускается не отбирать, а оценивать прочность по данным
+контроля предприятия-изготовителя бетонной смеси.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Удобоукладываемость
+бетонной смеси определяют для каждой партии не позднее чем через 20 минут после
+доставки к месту укладки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бетонные смеси
+на месте укладки принимают по объему.</span><span id=SS></span></p>

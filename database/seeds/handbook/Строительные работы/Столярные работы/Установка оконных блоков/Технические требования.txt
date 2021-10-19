@@ -1,0 +1,169 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 5.6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=248 height=176 src="x114.jpg" v:shapes="_x0000_i1081"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхности
+оконных блоков, примыкающие к каменным и бетонным стенам, должны быть
+антисептированы и защищены гидроизоляционными материалами.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Зазоры
+между коробкой и кладкой наружных стен должны заделываться термоизоляционными
+материалами.</span><span id=SY3></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Каждый
+вертикальный брусок коробки должен крепиться не менее чем в двух местах,
+расстояние между креплениями не должно превышать 1 м.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка оконных
+блоков, вмонтированных в проемы, должна сопровождаться проверкой плотности
+пригонки оконных переплетов между собой, правильности установки и крепления уплотняющих
+прокладок, остекления световых проемов, установки скобяных изделий, наличников
+с составлением акта освидетельствования скрытых работ по креплению коробок, их
+теплоизоляции и защитной обработке.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3491/index.htm" title="Окна стальные. Общие технические условия">ГОСТ 23344-78</a></span><span id=S21>. Окна стальные.
+Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../7/7540/index.htm" title="Блоки оконные. Общие технические условия">ГОСТ 23166-99</a></span><span id=S21>. Окна и
+балконные двери деревянные. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../10/10626/index.htm" title="Блоки оконные деревоалюминиевые. Технические условия">ГОСТ
+25097-2002</a></span><span id=S74>. Окна и балконные двери деревоалюминиевые. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Типы и
+номинальные размеры окон и их элементов должны соответствовать чертежам
+заказчика.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины деталей должна быть:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- коробок - 12
+± 3 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- переплетов -
+9 ± 3 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Зазор в
+притворах должен быть 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Окна должны
+иметь правильную геометрическую форму. Наличие пороков и дефектов обработки
+древесины оценивают визуально.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Предельные отклонения от
+номинальных размеров изделий и их сборочных единиц не должны превышать данные,
+приведенные в таблице:</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="48%" id=S231>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Параметры</span></b><span id=SI></span></p>
+  </td>
+  <td width="31%" id=S331>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Номинальные размеры, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" id=S431>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Отклонения, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" rowspan=4 valign=top id=S531>
+  <p class=MsoNormal id=SJ1><span id=SD2>Внутренние размеры коробок и створок</span><span id=SI></span></p>
+  </td>
+  <td width="31%" valign=top id=S631>
+  <p class=MsoNormal align=center id=SA1><span id=S82>до 250</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S731>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 1,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250-630</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 1,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>630-1600</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+2,0</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>более 1600</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+2,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" rowspan=4 valign=top id=SA31>
+  <p class=MsoNormal id=SJ1><span id=SD2>Внешние размеры створок, фрамуг, форточек</span></p>
+  </td>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>до 250</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-1,0</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250-630</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-1,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S831>
+  <p class=MsoNormal align=center id=SA1><span id=S82>630-1600</span></p>
+  </td>
+  <td width="19%" valign=top id=S931>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-2,0</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SB31>
+  <p class=MsoNormal align=center id=SA1><span id=S82>более 1600</span></p>
+  </td>
+  <td width="19%" valign=top id=SC31>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-2,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SA31>
+  <p class=MsoNormal id=SJ1><span id=SD2>Свободные размеры деталей створок</span></p>
+  </td>
+  <td width="31%" valign=top id=SB31>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10-80</span></p>
+  </td>
+  <td width="19%" valign=top id=SC31>
+  <p class=MsoNormal align=center id=SA1><span id=S38><span id=S48>±</span></span><span id=S82>0,5</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Провесы по торцам
+шиповых соединений не допускаются. Допуск плоскостности изделий и их элементов
+не должен превышать 2 мм по длине и диагонали. Створки окон должны быть
+навешены на 2 петли. Оконные блоки должны быть проолифлены. Пласть коробки,
+примыкающая к стенке, должна быть проантисептирована или окрашена.</span><span id=SY3></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Каждая
+партия блоков должна сопровождаться документом о качестве.</span><span id=SY3></span></p>

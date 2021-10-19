@@ -1,0 +1,225 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.5-3.7, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=237 height=183 src="x058.jpg" v:shapes="_x0000_i1053"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разности
+отметок лицевых поверхностей двух смежных непреддапряженных панелей (плит)
+перекрытий в шве при длине плит, м:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 4 - 8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 4 до 8 -
+10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 до 16 -
+12 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+симметричности (половина разности глубины опирания концов элемента) при
+установке плит в направлении перекрываемого пролета при длине элемента, м:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 4 - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 4 до 8 -
+6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 до 16 -
+8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 16 до 25-
+10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+раствора под плитами перекрытий должна быть не более 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Марка раствора
+- по проекту, подвижность - 5-7 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхности
+смежных плит перекрытий вдоль шва со стороны потолка должны быть совмещены.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Глубина
+опирания плит - по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение не
+предусмотренных проектом подкладок для выравнивания укладываемых элементов по
+отметкам без согласования с проектной организацией;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+применение раствора, процесс схватывания которого уже начался, а также
+восстановление его пластичности путем добавления воды.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3305/index.htm" title="Плиты перекрытий железобетонные многопустотные для зданий и сооружений. Технические условия">ГОСТ
+9561-91</a></span><span id=S74>. Плиты перекрытий железобетонные многопустотные для перекрытий
+зданий и сооружений. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3314/index.htm" title="Плиты перекрытий железобетонные сплошные для крупнопанельных зданий. Общие технические условия">ГОСТ
+12767-94</a></span><span id=S74>. Плиты перекрытий железобетонные сплошные для крупнопанельных
+зданий. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+номинальных размеров плит, указанных в рабочих чертежах, не должны превышать
+следующих значений:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+плит:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 4 м - ±8
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 4 до 8 м
+- ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 м - ±12
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+плит - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине
+плит:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 2,5 м - ±6
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 2,5 м -
+±8 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Неплоскостность
+нижней поверхности плиты не должна превышать для плит длиной:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 8 м - 8
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 м - 13
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+номинального положения стальных закладных изделии не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в плоскости
+плиты - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из плоскости
+плиты - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Качество
+поверхностей и внешний вид плит в зависимости от установленной категории
+поверхностей должны отвечать требованиям, приведенным в таблице.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="24%" id=SNK>
+  <p class=MsoNormal align=center id=S46><b>Характеристика
+  бетонной поверхности</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="10%" id=SQJ>
+  <p class=MsoNormal align=center id=S46><b>Категория</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="13%" id=SOK>
+  <p class=MsoNormal align=center id=S46><b>Диаметр раковин,
+  мм</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="21%" id=SPK>
+  <p class=MsoNormal align=center id=S46><b>Высота (глубина)
+  наплыва (впадин), мм</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="13%" id=SQK>
+  <p class=MsoNormal align=center id=S46><b>Глубина сколов,
+  мм</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" id=SRK>
+  <p class=MsoNormal align=center id=S46><b>Длина сколов в
+  мм на 1 м ребра</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=SSK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Нижняя, потолочная </span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=STK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А2</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SUK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SVK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SWK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SXK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=SYK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Верхняя, под линолеум </span></p>
+  </td>
+  <td width="10%" valign=top id=SZK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А4</span></p>
+  </td>
+  <td width="13%" valign=top id=S0L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>10</span></p>
+  </td>
+  <td width="21%" valign=top id=S1L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span></p>
+  </td>
+  <td width="13%" valign=top id=S2L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span></p>
+  </td>
+  <td width="16%" valign=top id=S3L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>50</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=S4L>
+  <p class=MsoNormal id=SJ1><span id=SUH>Боковая</span></p>
+  </td>
+  <td width="10%" valign=top id=S5L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А7</span></p>
+  </td>
+  <td width="13%" valign=top id=S6L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="21%" valign=top id=S7L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>-</span></p>
+  </td>
+  <td width="13%" valign=top id=S8L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="16%" valign=top id=S9L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>-</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Поставленные на монтаж плиты перекрытий не должны
+иметь:<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жировых и
+ржавых пятен на лицевых поверхностях плит;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещин на
+поверхностях плит, за исключением усадочных и других поверхностных
+технологических шириной не более 0,1 мм;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наплывов
+бетона на открытых поверхностях стальных закладных изделий, выпусках арматуры и
+монтажных петлях.</span><span id=SS></span></p>

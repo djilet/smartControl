@@ -1,0 +1,64 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты">СНиП 3.02.01-87</a></span>
+пп. 11.6, 11.53, табл. 18<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Смещение
+относительно разбивочных осей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- фундаменты
+жилых и общественных зданий - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- фундаменты
+промышленных зданий - ±20 мм.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Смещение
+осей оголовка относительно осей свай - ±10 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение в
+отметках поверхностей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- фундаменты
+жилых и общественных зданий - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- фундаменты
+промышленных зданий - ±10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина
+растворного шва между ростверком и оголовком не должна превышать 30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><img border=0 width=240 height=199 src="x024.jpg" v:shapes="_x0000_i1036"><b><span id=S31></span></b></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+не заполненный раствором промежуток между ростверком и оголовком.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых изделий</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3321/index.htm" title="Блоки бетонные для стен подвалов. Технические условия">ГОСТ
+13579-78*</a></span><span id=S74>. Блоки бетонные для стен подвалов. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения размеров блоков:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±13 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине и
+высоте - ±8 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+по размерам вырезов - ±5 мм.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямолинейности профиля поверхностей блока не должно превышать 3 мм на всю
+длину и ширину блока. Категория поверхностей блоков: А6, А7.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины, за
+исключением местных поверхностных усадочных шириной не более 0,1 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+обнажение арматуры, за исключением выпусков.</span><span id=SS4></span></p>

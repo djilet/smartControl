@@ -1,0 +1,222 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=S7J1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Этапы
+  работ</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="33%" id=S8J1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контролируемые
+  операции</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="21%" id=S9J1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контроль
+  (метод, объем)</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="26%" id=SAJ1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Документация</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=7 valign=top id=SBJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SCJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SDJ1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=7 valign=top id=SEJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт освидетельствования скрытых работ, общий
+  журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве облицовки;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выноску на стены и колонны проектных отметок монтируемого чистого
+  потолка;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- сортировку (форму и размеры плит) и обрезку плит;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку деталей рабочего каркаса;</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку и закрепление элементов каркаса;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение работ по антикоррозионной защите металлических элементов
+  каркаса и обработке антисептическими составами деревянных элементов каркаса.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SHJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Установка плит</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SIJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SJJ1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=6 valign=top id=SKJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность примыкания плит друг к другу, ширину швов;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления плит к элементам каркаса;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности подвесного потолка;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, не менее 5
+  измерений на 50-70 м<sup>2</sup> поверхности</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- однородность рисунка подвесного потолка;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение требований проекта и качество примыкания плит к элементам
+  вентиляционных решеток, светильникам (отсутствие сколов, щелей в местах
+  примыкания).</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SLJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SIJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SJJ1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=6 valign=top id=SMJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления плит к каркасу;</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности подвесного потолка по всей площади;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, визуальный, не менее 5
+  измерений на 50-70 м<sup>2</sup> поверхности</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- однородность рисунка поверхности потолка;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполнения примыкания плит к вентиляционным решеткам,
+  светильникам;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- прямолинейность и ширину швов, величину уступов.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SGJ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=ST51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, линейка
+  металлическая, уровень гибкий водяной, рейка двухметровая, шнур разметочный.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе выполнения работ.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

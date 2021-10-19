@@ -1,0 +1,157 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SXI1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="32%" id=SYI1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" id=S8D1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="21%" id=SZI1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=S0J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="32%" valign=top id=S1J1>
+  <p class=MsoNormal id=SJ1>Проверить:<span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SCD1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=4 valign=top id=S2J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество подготовки основания;</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S4J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие применяемых материалов проекту, стандартам и
+  техническим условиям.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SHD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=S5J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Облицовка стен панелями</span><span id=SH></span></p>
+  </td>
+  <td width="32%" valign=top id=S1J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SCD1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=5 valign=top id=S6J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- монтаж, крепление листов и панелей к основанию;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения и расположения стыков;</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на 50-70
+  м<sup>2</sup> поверхности</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- уступы между плитами и панелями;</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S4J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение плоскости всего поля отделки.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SHD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=S0J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="32%" valign=top id=S1J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SCD1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=3 valign=top id=S2J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S3J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид поверхности;</span></p>
+  </td>
+  <td width="26%" valign=top id=SFD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" valign=top id=S4J1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения плоскости отделки от вертикали, горизонтали.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SHD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: уровень строительный, рейка-отвес,
+  штангенциркуль.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб) - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

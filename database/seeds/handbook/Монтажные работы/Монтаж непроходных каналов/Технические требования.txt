@@ -1,0 +1,125 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span>; <span id=SO9><a href="../../2/2006/index.htm" title="Тепловые сети">СНиП 3.05.03-85</a></span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=202 height=259 src="x240.jpg" v:shapes="_x0000_i1144"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещения осей
+лотков канала относительно разбивочных осей - 12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщина
+основания под канал и степень уплотнения - по проекту;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в размерах
+стыков лотков и плит перекрытий - по проекту, в случае отсутствия указаний - не
+более 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+симметричности (половина разности свесов концов плит) опирания плит перекрытия -
+5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+раствора, процесс схватывания которого уже начался;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- омолаживание
+раствора водой;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины, за
+исключением усадочных и других поверхностных технологических, ширина которых не
+должна превышать 0,1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../42/42111/index.htm" title="Изделия железобетонные и бетонные для строительства. Общие технические требования. Правила приемки, маркировки, транспортирования и хранения">ГОСТ
+13015-2003</a></span><span id=S74>. Изделия железобетонные и бетонные для строительства. Общие
+технические условия.</span><span id=S31> </span><span id=SB>Правила приемки, маркировки,
+транспортирования и хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от основных размеров элементов каналов (лотков каналов, плит
+перекрытий, опорных подушек) не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±8;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте -
+±8.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямолинейности в любом сечении не должно превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при длине
+изделия до 2500 - 3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при длине
+изделия свыше 2500 - 5.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+плоскости не должно превышать 5 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Разница длин диагоналей
+лицевых плоскостей плит не должна превышать, мм:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при длине
+плиты до 2500 - 10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при длине
+плиты свыше 2500 - 13.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+номинальных размеров ребер, полок, выступов и отверстий не должно превышать ±5
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от номинального
+положения отверстий в изделиях не должно превышать 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+размеры дефектов не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- диаметр
+раковин - 15;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- глубина
+раковин - 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- высота
+наплывов и глубина впадин - 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- глубина
+околов ребер бетона - 13;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длина околов
+на 1 м ребра - 100.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На боковой
+поверхности плиты, лотка должны быть нанесены маркировочные надписи:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+изделия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- краткое
+наименование предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата
+изготовления.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия изделий
+должна сопровождаться документом о качестве.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При хранении
+должны укладываться в рабочем положении в штабель высотой не более 2 м на
+деревянные прокладки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Монтажные петли
+должны быть очищены от наплывов бетона и раствора.</span><span id=SH></span></p>

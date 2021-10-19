@@ -1,0 +1,118 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 4.34,
+4.38, табл. 23, 25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=236 height=169 src="x144.jpg" v:shapes="_x0000_i1096"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+покрытия от плоскости при проверке контрольной двухметровой рейкой - +2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от заданного
+уклона покрытий - 0,2 % соответствующего размера помещения, но не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+покрытия - не более 10 % от проектной;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоров между
+досками дощатого покрытия - не более 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Длина стыкуемых
+торцами досок покрытия должна быть не менее 2 м, а паркетных досок - не менее
+1,2 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стыки торцов досок
+дощатых покрытий следует располагать на лагах.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Все доски
+покрытия должны крепиться к каждой лаге гвоздями длиной в 2-2,5 раза больше
+толщины покрытия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Все доски
+(кроме лицевой стороны) должны быть антисептированы.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+материалов досок не должна превышать 12 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступы между
+смежными изделиями дощатых покрытий;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры и щели
+между плинтусами и покрытием пола или стенами (перегородками).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3446/index.htm" title="Детали профильные из древесины и древесных материалов для строительства. Технические условия">ГОСТ
+8242-88<span id=SB9>*</span></a></span><span id=S21>. Детали
+профильные из древесины и древесных материалов для строительства. Технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Детали должны
+поставляться длиной 2,1 и более с градацией 0,1 м. По соглашению сторон могут
+поставляться детали меньшей длины, а также детали, прирезанные по длине.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от установленных размеров деталей не должны превышать, в мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+неприрезанных деталей - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+прирезанных деталей - ±3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±1;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по глубине и
+высоте шпунта - ±0.5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине и
+ширине гребня - -0.5.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отщепы, задиры
+и выщербины на поверхностях деталей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- лицевых - не
+допускаются;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- нелицевых -
+не допускаются для плинтусов и досок глубиной более 5 мм и длиной более 1/10
+длины детали.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Детали должны
+поставляться партиями. В партии должны быть детали одного типа, изготовленные
+из древесины одной породы.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В паспорте на
+каждую партию досок должно быть указано:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+деталей;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размеры;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество в
+м<sup>3</sup>;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- порода
+древесины;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+соответствующего стандарта (ГОСТ).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Хранить</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>в
+сухих закрытых помещениях уложенными в штабеля по типам и размерам. Под
+штабелями в 2-3 местах по их длине должны быть уложены деревянные прокладки
+одинаковой толщины.</span><span id=SY3></span></p>

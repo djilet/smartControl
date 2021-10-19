@@ -1,0 +1,179 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SCA>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="34%" id=SDA>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="19%" id=SEA>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="26%" id=SFA>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SGA>
+  <p class=MsoNormal><span id=S82>Подготовительные
+  работы</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SHA>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIA>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=5 valign=top id=SJA>
+  <p class=MsoNormal><span id=S82>Паспорта
+  (сертификаты), исполнительная геодезическая схема</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности и внешнего вида блоков, точность их
+  геометрических параметров;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие расположения свай в плане свайного поля проекту;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SMA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие отметок оголовков свай проекту.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SNA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=SGA>
+  <p class=MsoNormal><span id=S82>Монтаж сборных
+  ростверков</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SHA>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIA>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=6 valign=top id=SJA>
+  <p class=MsoNormal><span id=S82>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- смещение относительно разбивочных осей;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый ростверк</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения в отметках поверхностей;</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- смещение осей оголовка относительно осей свай;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый оголовок</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину растворного шва между ростверком и оголовком;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SMA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину шва после монтажа при платформенном опирании.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SNA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SOA>
+  <p class=MsoNormal><span id=S82>Приемка выполненных
+  работ</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SHA>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIA>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=3 valign=top id=SPA>
+  <p class=MsoNormal><span id=S82>Исполнительная
+  геодезическая схема</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактические отклонения отметок поверхностей ростверка;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый ростверк</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SQA>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое смешение относительно разбивочных осей</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SRA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, отвес,
+  нивелир, теодолит.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб),
+  геодезист - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

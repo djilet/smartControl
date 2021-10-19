@@ -1,0 +1,333 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.7, 3.22, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=239 height=180 src="x056.jpg" v:shapes="_x0000_i1052"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от совмещения ориентиров (рисок геометрических осей, граней) в нижнем сечении
+установленных элементов с установочными ориентирами - 8 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от совмещения
+ориентиров в верхнем сечении установленных элементов с установочными
+ориентирами при высоте элемента на опоре, м:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 1 - 6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 1 до 1,6
+- 8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 16 до 2,5
+- 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 2,5 - 12
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+симметричности (половина разности глубины опирания концов элемента) в
+направлении перекрываемого пролета при длине элемента, м:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 4 - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 4 до 8 -
+6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 до 16 -
+8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 16 до 25
+- 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстоянии
+между осями верхних поясов ферм и балок в середине пролета - 60 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+применение не предусмотренных проектом подкладок для выравнивания монтируемых
+элементов по отметкам без согласования с проектной организацией.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3344/index.htm" title="Фермы железобетонные. Технические условия">ГОСТ 20213-89</a></span><span id=S21>. Фермы
+железобетонные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3330/index.htm" title="Ригели железобетонные для многоэтажных зданий. Технические условия">ГОСТ
+18980-90</a></span><span id=S74>. Ригели железобетонные для многоэтажных зданий. Технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3375/index.htm" title="Балки обвязочные железобетонные для зданий промышленных предприятий. Технические условия">ГОСТ
+24893.0-81*</a>. Балки обвязочные железобетонные для зданий промышленных
+предприятий. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Значения
+действительных отклонений геометрических параметров ригелей не должны превышать
+предельных, мм, указанных в таблице 1.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="37%" id=SDJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Вид отклонения геометрического параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="42%" id=SEJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Геометрический параметр</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" id=SFJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Предельные отклонения</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" rowspan=5 valign=top id=SGJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от номинального линейного размера</span><span id=SH></span></p>
+  </td>
+  <td width="42%" valign=top id=SHJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Длина ригеля, балки:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIJ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>от 2500 до 4000 мм;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>от 4000 до 8000 мм;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±6</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 8000 мм</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Размер поперечного сечения ригеля и размеры вырезов и выступов</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" rowspan=4 valign=top id=SLJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от проектного положения закладных изделий</span><span id=SH></span></p>
+  </td>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>В плоскости поверхности:</span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SI3></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>опорные закладные изделия;</span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>прочие изделия</span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Из плоскости поверхности</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" rowspan=4 valign=top id=SMJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от прямолинейности</span><span id=SI></span></p>
+  </td>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Профиль лицевой поверхности ригеля, балки длиной:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>от 2500 до 4000 мм;</span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SJJ>
+  <p class=MsoNormal id=SD3><span id=S82>от 4000 до 8000 мм;</span></p>
+  </td>
+  <td width="19%" valign=top id=SKJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNJ>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 8000 мм</span></p>
+  </td>
+  <td width="19%" valign=top id=SOJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>12</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Категория бетонной поверхности должна указываться в
+заказе на изготовление конструкций.<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Требования к
+поверхности конструкций приведены в таблице 2.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="34%" id=SPJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Характеристика бетонной
+  поверхности</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="10%" id=SQJ>
+  <p class=MsoHeading9>Категория<span id=SH></span></p>
+  </td>
+  <td width="12%" id=SRJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Диаметр раковин, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="17%" id=SSJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Высота (глубина) наплыва
+  (впадин)</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="11%" id=STJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Глубина сколов, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="13%" id=SUJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Длина сколов на 1 м ребра</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SVJ>
+  <p class=MsoNormal id=SJ1><span id=SUH>Предназначенная под окраску, выходящая внутрь жилых и
+  общественных зданий</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SWJ>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А2</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SXJ>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SYJ>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SZJ>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=S0K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=S1K>
+  <p class=MsoNormal id=SJ1><span id=SUH>То же, выходящая внутрь производственных и вспомогательных
+  зданий</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=S2K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>A3</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S3K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>4</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S4K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>2</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S5K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=S6K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=S1K>
+  <p class=MsoNormal id=SJ1><span id=SUH>Лицевые неотделываемые </span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S2K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А6</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S3K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>15 </span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S4K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S5K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>10 </span><span id=SH></span></p>
+  </td>
+  <td width="13%" valign=top id=S6K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>100</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=S7K>
+  <p class=MsoNormal id=SJ1><span id=SUH>Нелицевые, невидимые в условиях эксплуатации</span></p>
+  </td>
+  <td width="10%" valign=top id=S8K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А7</span></p>
+  </td>
+  <td width="12%" valign=top id=S9K>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="17%" valign=top id=SAK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>-</span></p>
+  </td>
+  <td width="11%" valign=top id=SBK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="13%" valign=top id=SCK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>-</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Поставленные на монтаж конструкции не должны иметь:<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жировых и
+ржавых пятен на лицевых поверхностях ригелей;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещин на
+внешней поверхности ригелей, за исключением местных поверхностных усадочных,
+ширина которых не должна превышать 0,1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наплывов
+бетона на открытых поверхностях стальных закладных изделий, выпусках арматуры и
+монтажных петлях.</span><span id=SS></span></p>

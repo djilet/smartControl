@@ -1,0 +1,38 @@
+<p class=a2>Указания по производству работ<br>
+<span id=SST><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span><span id=STT> пп. 6.3-6.6</span><span id=SH></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Панели
+перегородок в многоэтажных зданиях следует монтировать после монтажа несущих
+элементов на этаже с применением специальных приспособлений (кантователей,
+вышек с лебедками и др.) без использования монтажных кранов; в одноэтажных
+зданиях - с помощью монтажных кранов или специальных приспособлений.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Установка
+панелей и плит в плане и по высоте должна выполняться путем совмещения рисок,
+нанесенных на монтируемых и опорных конструкциях. Верх панелей необходимо
+выделять относительно разбивочных осей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Уплотняющие
+прокладки в стыки панелей необходимо укладывать до установки панелей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Законченные
+конструкции следует принимать поэтажно, посекционно.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3464/index.htm" title="Плиты гипсовые для перегородок. Технические условия">ГОСТ
+6428-83</a></span><span id=S74>. Плиты гипсовые для перегородок. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения размеров плит пазовых, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±4;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±2.</span><span id=SS></span></p>

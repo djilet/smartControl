@@ -1,0 +1,56 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3,18, 3.20, 3.23- 3.25, 3.27<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=230 height=186 src="x228.jpg" v:shapes="_x0000_i1138"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Уклоны подводок
+к радиаторам - от 5 до 10 мм на длину подводки в сторону движения
+теплоносителя.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При длине
+подводки до 500 мм уклон труб не выполняется.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В однотрубной
+системе отопления с односторонним присоединением отопительных приборов открыто
+прокладываемый стояк должен быть расположен на расстоянии 150±50 мм от кромки
+оконного проема, а длина подводок должна быть не более 400 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Радиаторы всех
+типов устанавливаются на расстояниях не менее:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от пола - 60
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от нижней
+поверхности подоконных досок (при отсутствии доски - от низа оконного проема) -
+50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+поверхности штукатурки стен - 25 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В помещениях
+лечебно-профилактических и детских учреждений радиаторы устанавливаются на
+расстоянии не менее:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от пола - 100
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+поверхности стены - 60 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Число
+кронштейнов - не менее 3 на радиатор (кроме радиаторов в две секции).
+Кронштейны следует устанавливать под шейки радиаторов.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Число подставок
+под радиаторы:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>2 - при числе
+секций до 10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>3 - при числе
+секций более 10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При этом верх
+радиатора должен быть закреплен.</span><span id=SS></span></p>

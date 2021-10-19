@@ -1,0 +1,362 @@
+<p class=MsoNormal align=center id=S03><span id=S11><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты">СНиП 3.02.01-87</a></span><span id=S13> пп. 1.11, 3.1-3.6, 3.29</span></p>
+
+<p class=MsoNormal align=center id=S4><span id=SS><img border=0 width=220 height=172 src="x004.jpg" v:shapes="_x0000_i1026"></span><span id=SB></span></p>
+
+<p class=MsoNormal id=SP><span id=SB>Размеры выемок по дну в натуре
+должны быть не менее установленных проектом.</span></p>
+
+<p class=MsoBodyTextIndent>Минимальная ширина выемок должна быть не менее
+ширины конструкции +0,2 м с каждой стороны, при необходимости передвижения
+людей в пазухе - не менее 0,6 м.</p>
+
+<p class=MsoNormal id=SP><span id=S13>Отклонения от проектного
+продольного уклона дна траншей, выемок с уклонами не должны превышать ±0,0005.</span><span id=SB></span></p>
+
+<p class=MsoNormal id=SP><span id=S13>Выемки следует
+разрабатывать, как правило, до проектной отметки с сохранением природного
+сложения грунтов основания.</span><span id=S62></span></p>
+
+<p class=MsoNormal id=SP><span id=S13>Отклонения отметок дна
+выемок в местах устройства фундаментов и укладки конструкций:</span><span id=SB></span></p>
+
+<p class=MsoNormal id=SP><span id=S13>- при окончательной
+разработке не должны превышать ±5 см;</span></p>
+
+<p class=MsoNormal id=SP><span id=S13>- при черновой разработке не
+должны превышать данные, приведенные в таблицах 1, 2.</span></p>
+
+<p class=MsoNormal align=right id=S23><i id=S9><span id=S33>Таблица 1</span></i><i id=SP1><span id=SB></span></i></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Отклонения отметок дна
+выемок от проектных (кроме выемок в валунных, скальных и вечномерзлых грунтах)
+при черновой разработке</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="69%" id=S43>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Вид механизма для разработки грунта</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="17%" id=S53>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Предельные отклонения, см</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="13%" id=S63>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Число измерений</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S73>
+  <p class=MsoNormal id=SJ1><span id=SD2>1) одноковшовыми экскаваторами, оснащенными ковшами с зубьями:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S83>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="13%" valign=top id=S93>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SJ1><span id=SD2>а) с механическим приводом по видам оборудования:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SD3><span id=S82>драглайн;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+25</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SD3><span id=S82>прямого копания;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 10</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SD3><span id=S82>обратная лопата;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 15</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SJ1><span id=SD2>б) с гидравлическим приводом;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 10</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SJ1><span id=SD2>2) одноковшовыми экскаваторами, оснащенными планировочными ковшами,
+  зачистным оборудованием и др. специальным оборудованием для планировочных
+  работ, экскаваторами-планировщиками;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+5</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SJ1><span id=SD2>3) бульдозерами;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 10</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SA3>
+  <p class=MsoNormal id=SJ1><span id=SD2>4) траншейными экскаваторами;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SB3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 10</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SC3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SE3>
+  <p class=MsoNormal id=SJ1><span id=SD2>5) скреперами.</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SF3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+ 10</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SG3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=right id=S23><i id=S9><span id=S33>Таблица 2</span></i></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Отклонения отметок дна
+выемок от проектных в скальных н вечномерзлых грунтах при черновой разработке</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="52%" id=SH3>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Технические требования</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" id=SJ3>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Предельные отклонения, см</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SK3>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Число измерений</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SL3>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонения отметок дна выемок от проектных, кроме планировочных
+  выемок:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SM3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SN3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SJ1><span id=SD2>а) недоборы;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Не допускаются</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SJ1><span id=SD2>б) переборы при рыхлении:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SD3><span id=S82>- взрывным способом методом скважинных
+  зарядов:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочных грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочих скальных и вечномерзлых грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>40</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SD3><span id=S82>- взрывным способом методом шпуровых
+  зарядов:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочных грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочих скальных и вечномерзлых грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SD3><span id=S82>- механическим способом:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочных грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SR3><span id=S82>прочих скальных и вечномерзлых грунтов;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонения отметок дна планировочных выемок от проектных:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SO3>
+  <p class=MsoNormal id=SD3><span id=S82>- недоборы;</span></p>
+  </td>
+  <td width="29%" valign=top id=SP3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SQ3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=SS3>
+  <p class=MsoNormal id=SD3><span id=S82>- переборы.</span></p>
+  </td>
+  <td width="29%" valign=top id=ST3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SU3>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SV3><span id=SB>На устройство оснований под
+конструкции следует составлять акт освидетельствования скрытых работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+размыв, размягчение, разрыхление или промерзание верхнего слоя грунта основания
+толщиной более 3 см.</span><span id=SY3></span></p>

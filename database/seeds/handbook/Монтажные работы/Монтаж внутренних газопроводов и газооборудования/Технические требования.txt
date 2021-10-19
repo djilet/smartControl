@@ -1,0 +1,165 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Технические требования<br>
+</span></b><span id=SB>ГОСТ
+4201-2002<b>.</b></span><b><span id=SS></span></b></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=226 height=173 src="x232.jpg" v:shapes="_x0000_i1140"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стояков и
+прямолинейных участков газопровода от проектного положения - не более 2 мм на 1
+м длины.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояния между
+трубой и стеной устанавливаются по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При отсутствии
+в проекте этих данных расстояние должно быть не менее радиуса трубы (</span><span  id=SS5>r</span><span id=SB>).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При прокладке
+газопровода через стену расстояние от сварного шва до футляра должно быть не
+менее 50 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к установке
+отключающего крана</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+горизонтальной подводке газопровода к плите - на расстоянии не менее 20 см
+сбоку от плиты;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при верхней
+разводке - на высоте 1,5-1,6 м от пола;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- после крана
+(считая по ходу газа) должен быть установлен сгон;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- краны должны
+быть установлены так, чтобы ось пробки крана была параллельна стене.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- заделка
+соединений трубопроводов и арматуры в стены или перекрытия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размещение
+стыковых соединений на участке газопровода, проложенного в футляре.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На законченные строительством
+газовые вводы, внутридомовое газооборудование следует составлять строительные
+паспорта.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SW>ГОСТ Р 50696-94</a></span>.
+Плиты газовые бытовые. Общие технические условия.</p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3914/index.htm" title="Трубы стальные водогазопроводные. Технические условия">ГОСТ
+3262-75</a></span><span id=S74>*. Трубы стальные водогазопроводные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Предельные отклонения по
+размерам труб не должны превышать указанные в таблице.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="41%" rowspan=2 id=S102>
+  <p class=MsoNormal align=center id=S46><b>Размер труб</b></p>
+  </td>
+  <td width="58%" colspan=2 id=S202>
+  <p class=MsoNormal align=center id=S46><b>Предельное
+  отклонение для труб точности изготовления</b><b><span id=SI></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" id=S302>
+  <p class=MsoNormal align=center id=S46><b>обычной</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="34%" id=S402>
+  <p class=MsoNormal align=center id=S46><b>повышенной</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SKU1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Наружный диаметр с условным проходом:</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S502>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=S602>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=SPI>
+  <td width="41%" rowspan=2 valign=top id=S702>
+  <p class=MsoNormal><span id=S82>до 40 мм
+  включительно</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S802>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+0,4 мм</span><span id=SI></span></p>
+  </td>
+  <td width="34%" rowspan=2 valign=top id=S902>
+  <p class=MsoNormal align=center id=S46><span id=S82>±0,4 мм</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SUI>
+  <td width="23%" valign=top id=SA02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-0,5 мм</span></p>
+  </td>
+ </tr>
+ <tr id=SPI>
+  <td width="41%" rowspan=2 valign=top id=SB02>
+  <p class=MsoNormal id=SJ1><span id=SD2>свыше 40 мм</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S802>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+0,8 мм</span><span id=SI></span></p>
+  </td>
+  <td width="34%" rowspan=2 valign=top id=SC02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,8 мм</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SUI>
+  <td width="23%" valign=top id=SA02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-1,0 мм</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SQU1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина стенки</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=SD02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-15 %</span><span id=SI></span></p>
+  </td>
+  <td width="34%" valign=top id=SE02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-10 %</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Предельные
+отклонения по массе труб не должны превышать +8 %.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Кривизна труб
+на 1 м длины не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 2 мм - с
+условным проходом до 20 мм включительно;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1,5 мм - с условным
+проходом свыше 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При
+транспортировании автомобильным транспортом, а также при хранении плиты
+устанавливают в один ярус.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для плит,
+оснащенных электрооборудованием, дополнительно должен быть нанесен
+манипуляционный знак «Боится сырости».</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты перевозятся
+и хранятся в таре. На маркировке должны быть нанесены знаки: «Верх»,
+«Осторожно, хрупкие».</span><span id=SS></span></p>
+

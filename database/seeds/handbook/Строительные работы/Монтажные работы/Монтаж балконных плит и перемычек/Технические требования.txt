@@ -1,0 +1,176 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> табл. 12<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=250 height=221 src="x062.jpg" v:shapes="_x0000_i1055"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Балконные плиты:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разность
+уровней плоскости плиты балкона и пола помещения должна быть не более 80-100
+мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+уклон балконной плиты от наружной стены – 2 %.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Перемычки:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- допускаемые
+отклонения отметок опорных поверхностей стены - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- величина
+опирания перемычек на стены - по проекту;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- боковая
+поверхность перемычек не должна выходить за плоскость стены.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3383/index.htm" title="Плиты балконов и лоджий железобетонные. Общие технические условия">ГОСТ
+25697-83*</a>. Плиты балконов и лоджий железобетонные. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3295/index.htm" title="Перемычки железобетонные для зданий с кирпичными стенами. Технические условия">ГОСТ
+948-84</a>. Перемычки железобетонные для зданий с кирпичными стенами.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Перемычки
+железобетонные допускается изготовлять с технологическим уклоном боковых и
+торцевых граней. Размеры нижней грани перемычки могут быть меньше
+соответствующих размеров верхней грани:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - до
+20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+до 8 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Значения действительных
+отклонений геометрических параметров перемычек и балконных плит не должны
+превышать предельные, указанные в таблице.</span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="42%" id=SZL>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Наименование отклонения от геометрического
+  параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="35%" id=S0M>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Наименование геометрического
+  параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" id=S1M>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Предельное отклонение, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" rowspan=5 valign=top id=S2M>
+  <p class=MsoNormal id=SJ1><span id=SUH>Отклонение от линейного размера</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=S3M>
+  <p class=MsoBodyText><span id=SGD>Длина
+  изделий, мм:</span><span id=S4M></span></p>
+  </td>
+  <td width="22%" valign=top id=S5M>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S6M>
+  <p class=MsoNormal id=SD3><span id=SSH>до 2500</span></p>
+  </td>
+  <td width="22%" valign=top id=S7M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>±6</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S6M>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 2500 до 4000</span></p>
+  </td>
+  <td width="22%" valign=top id=S7M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>±8</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S6M>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 4000</span></p>
+  </td>
+  <td width="22%" valign=top id=S7M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>±10</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S8M>
+  <p class=MsoNormal id=SJ1><span id=SUH>Ширина и высота</span></p>
+  </td>
+  <td width="22%" valign=top id=S9M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>±5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" rowspan=3 valign=top id=S2M>
+  <p class=MsoNormal id=SJ1><span id=SUH>Отклонение положения закладных деталей</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=S3M>
+  <p class=MsoNormal id=SJ1><span id=SUH>Положение закладных деталей:</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=S5M>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S6M>
+  <p class=MsoNormal id=SD3><span id=SSH>в плоскости</span></p>
+  </td>
+  <td width="22%" valign=top id=S7M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>3</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=S8M>
+  <p class=MsoNormal id=SD3><span id=SSH>из плоскости</span></p>
+  </td>
+  <td width="22%" valign=top id=S9M>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=S2M>
+  <p class=MsoNormal id=SJ1><span id=SUH>Отклонение от прямолинейности</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SAM>
+  <p class=MsoNormal id=SJ1><span id=SUH>Прямолинейность лицевой поверхности по длине</span><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SBM>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>±3</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SM><span id=SB>На
+лицевых поверхностях железобетонных изделий не допускаются жировые и ржавые
+пятна.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Маркировочные
+надписи и знаки наносятся на торцевой стороне перемычки, а на балконной плите -
+на торцевой стороне, скрываемой в стене.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Маркировочная
+надпись должна содержать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марку
+изделия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- краткое
+наименование предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дату
+изготовления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- величину
+массы изделия.</span><span id=SS></span></p>

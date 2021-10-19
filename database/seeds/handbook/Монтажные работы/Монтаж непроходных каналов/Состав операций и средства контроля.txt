@@ -1,0 +1,172 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=S822>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="37%" id=S922>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SA22>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" id=SB22>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SC22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SD22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить: </span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SE22>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=5 valign=top id=SF22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки, общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве;</span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность разбивки осей трассы и соответствие отметок дна траншей
+  проекту;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество наружной гидроизоляции;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SI22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество основания под лотки (толщину, ровность).</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SJ22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SK22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж непроходных каналов</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SD22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SE22>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=4 valign=top id=SL22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие положения сборных элементов канала проекту;</span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество заделки стыков раствором;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SI22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполненной гидроизоляции.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SJ22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SC22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SD22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SE22>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="26%" rowspan=5 valign=top id=SF22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину подстилающего слоя;</span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое положение смонтированных конструкций (отклонение от
+  разметки, определяющей проектное положение элементов);</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SG22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество заделки стыков;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SH22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SI22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество гидроизоляции.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SJ22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: металлический метр, теодолит,
+  нивелир, рулетка.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), геодезист, главный инженер РСУ, представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

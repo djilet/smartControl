@@ -1,0 +1,202 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SVA1>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="28%" id=SWA1>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="23%" id=SXA1>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="29%" id=SYA1>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SZA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S0B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S1B1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=6 valign=top id=S2B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорт (сертификат), акт освидетельствования скрытых работ, общий
+  журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве и внешний вид паркета;</span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку основания от мусора, грязи;</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность основания, горизонтальность или заданный уклон;</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 10 измерений на
+  50-70 м<sup>2</sup> поверхности</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие огрунтовки (при настилке по бетону или цементной стяжке);</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S5B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разбивку площади пола и разметку осей.</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S6B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=S7B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Настилка</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S0B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S1B1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=6 valign=top id=S8B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- равномерность нанесения и толщину слоя мастики (при наклейке
+  штучного паркета);</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность приклейки паркетных планок;</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность соединения паркетных планок между собой;</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- шлифовку поверхности пола;</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S5B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки плинтусов.</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S6B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SZA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка готового пола</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S0B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S1B1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=5 valign=top id=S2B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид покрытия, качество циклевки, зазоры и уступы между
+  смежными планками;</span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- сцепление покрытия с нижележащим элементом пола;</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, поднятие не менее 3 планок на
+  50 м<sup>2</sup> поверхности пола</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S3B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности пола;</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=S4B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S5B1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность примыкания пола к другим конструкциям.</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=S6B1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, линейка
+  металлическая, уровень строительный, двухметровая рейка.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SY2>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

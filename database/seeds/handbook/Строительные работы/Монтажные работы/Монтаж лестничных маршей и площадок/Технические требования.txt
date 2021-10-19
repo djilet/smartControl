@@ -1,0 +1,228 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.6, 3.7, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=216 height=193 src="x060.jpg" v:shapes="_x0000_i1054"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S13>- ступеней от
+горизонтали - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- защитных
+решеток от вертикали - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- отметок верха
+лестничной площадки от проектной - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- площадок
+лестниц от горизонтали - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- от
+симметричности (половина разности глубины опирания концов площадки) в
+направлении перекрываемого пролета при длине площадки до 4 м - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- размеры
+глубины опирания площадок в направлении перекрываемого пролета - по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S13>- применение
+раствора, процесс схватывания которого уже начался;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>-
+восстановление пластичности раствора путем добавления воды.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3306/index.htm" title="Марши и площадки лестниц железобетонные. Технические условия">ГОСТ
+9818-85*</a></span><span id=S74>. Марши и площадки лестниц железобетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../42/42111/index.htm" title="Изделия железобетонные и бетонные для строительства. Общие технические требования. Правила приемки, маркировки, транспортирования и хранения">ГОСТ
+13015-2003</a></span><span id=S74>. Изделия железобетонные и бетонные для строительства. Общие
+технические условия. Правила приемки, маркировки, транспортирования и хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения размеров маршей и площадок от указанных в рабочих чертежах не должны
+превышать следующих значений:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине для
+маршей и площадок длиной до 4000 мм - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же, длиной
+свыше 4000 мм - ±6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по размерам
+ребер, полок, выступов, отверстий и каналов - ±5;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по положению
+выступов, выемок и отверстий - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+проектного положения стальных закладных изделий не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в плоскости
+поверхности для закладных изделий размерами до 100 мм - 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же для
+закладных изделий размерами св. 100 мм - 10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из плоскости
+поверхности - 3.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения размеров накладных проступей не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±2.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+прямолинейности профиля лицевой поверхности не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ступеней
+марша, площадок или накладных проступей длиной до 2500 мм на участке 1000 мм -
+2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- маршей или
+площадок длиной св. 2500 мм до 4000 мм на всей длине - ±3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же, длиной
+св. 4000 мм на всей длине - ±4.</span></p>
+
+<p class=MsoBodyTextIndent id=SML>Качество поверхностей и
+внешний вид конструкций должны отвечать требованиям, приведенным в таблице.<span id=SH></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="24%" id=SNK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Характеристика бетонной
+  поверхности</span></b><span id=SH></span></p>
+  </td>
+  <td width="10%" id=SQJ>
+  <p class=MsoHeading9><span id=S82>Категория</span></p>
+  </td>
+  <td width="13%" id=SOK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Диаметр раковин, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="21%" id=SPK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Высота (глубина) наплыва
+  (впадин), мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="13%" id=SQK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Глубина сколов, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SRK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Длина сколов в мм на 1 м ребра</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=SSK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Лицевая, верхняя</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=STK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>А2</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SUK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>1</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SVK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>1</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SWK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SXK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=SYK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Лицевая, нижняя и боковая </span></p>
+  </td>
+  <td width="10%" valign=top id=SZK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>А4</span></p>
+  </td>
+  <td width="13%" valign=top id=S0L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>4</span></p>
+  </td>
+  <td width="21%" valign=top id=S1L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>2</span></p>
+  </td>
+  <td width="13%" valign=top id=S2L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>5</span></p>
+  </td>
+  <td width="16%" valign=top id=S3L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>50</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=SYK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Лицевая, верхняя под плитку</span></p>
+  </td>
+  <td width="10%" valign=top id=SZK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>А5</span></p>
+  </td>
+  <td width="13%" valign=top id=S0L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-</span></p>
+  </td>
+  <td width="21%" valign=top id=S1L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>3</span></p>
+  </td>
+  <td width="13%" valign=top id=S2L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>10</span></p>
+  </td>
+  <td width="16%" valign=top id=S3L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>100</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" valign=top id=S4L>
+  <p class=MsoNormal id=SJ1><span id=SUH>Нелицевая, невидимая</span></p>
+  </td>
+  <td width="10%" valign=top id=S5L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>А7</span></p>
+  </td>
+  <td width="13%" valign=top id=S6L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>20</span></p>
+  </td>
+  <td width="21%" valign=top id=S7L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-</span></p>
+  </td>
+  <td width="13%" valign=top id=S8L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>20</span></p>
+  </td>
+  <td width="16%" valign=top id=S9L>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SV3><span id=SB>Поставленные на монтаж марши
+и площадки лестниц не должны иметь:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жировых и
+ржавых пятен на лицевой поверхности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещин, за
+исключением усадочных и других поверхностных технологических трещин на нижней и
+торцевых поверхностях элементов, ширина которых не должна превышать 0,2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наплывов
+бетона на открытых поверхностях стальных закладных изделий и монтажных петлях.</span><span id=SS></span></p>

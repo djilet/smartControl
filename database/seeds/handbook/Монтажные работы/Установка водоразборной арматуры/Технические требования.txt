@@ -1,0 +1,51 @@
+<p class=a><b>Технические требования</b><br>
+<a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3.4, 3.6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=228 height=183 src="x222.jpg" v:shapes="_x0000_i1135"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допустимые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при установке
+арматуры - ±20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+установки кранов от уровня чистого пола, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- водоразборных
+кранов в банях, смывных кранов унитазов, смесителей моек в общественных и
+лечебных учреждениях, смесителей для ванн - 800;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смесителей
+для видуаров с косым выпуском - 800;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же, с
+прямым выпуском - 1000;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смесителей и
+моек клеенок в лечебных учреждениях, смесителей общих ванн и умывальников -
+1100;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- кранов для
+мытья полов в туалетных комнатах общественных зданий - 600;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смесителей
+для душа - 1200.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высоту
+установки водоразборной арматуры (расстояние от горизонтальной оси арматуры до
+санприборов) следует принимать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- водоразборных
+кранов и смесителей от бортов раковин - на 250 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от бортов
+моек на 200 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- туалетных
+кранов и смесителей от бортов умывальников - на 200 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+установки кранов для раковин со спинками, имеющими отверстия для кранов, а
+также для моек и умывальников с настольной арматурой определяется конструкцией
+прибора.</span><span id=SS></span></p>

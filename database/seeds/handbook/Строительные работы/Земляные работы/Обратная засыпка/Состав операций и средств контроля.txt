@@ -1,0 +1,182 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=S57>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="33%" id=S67>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="21%" id=S77>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="24%" id=S87>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=S97>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SA7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SB7>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=4 valign=top id=SC7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- освидетельствование ранее выполненных земляных работ;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- чистоту основания и промерзания грунта (в зимнее время);</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SF7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие в проекте данных о типах и характеристиках фунтов для
+  обратных засыпок, указаний по опытному уплотнению.</span></p>
+  </td>
+  <td width="21%" valign=top id=SG7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=8 valign=top id=S97>
+  <p class=MsoNormal id=SJ1><span id=SD2>Засыпка пазух котлована и траншей</span><span id=SI></span></p>
+  </td>
+  <td width="33%" valign=top id=SA7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SB7>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=8 valign=top id=SC7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- гранулометрический состав фунта, предназначенного для устройства
+  обратных засыпок (при необходимости);</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный и регистрационный по указаниям
+  проекта</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- содержание в фунте древесины, волокнистых материалов, гниющего или
+  легкосжимаемого строительного мусора;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, ежесменный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- содержание мерзлых комьев в обратных засыпках;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- размер твердых включений, в т. ч. мерзлых комьев;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие снега и льда в обратных засыпках и их основаниях;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SD7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- температуру грунта, отсыпаемого и уплотняемого при отрицательной
+  температуре воздуха;</span></p>
+  </td>
+  <td width="21%" valign=top id=SE7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, периодический</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SF7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- среднюю по проверяемому участку плотность сухого фунта обратных
+  засыпок.</span></p>
+  </td>
+  <td width="21%" valign=top id=SG7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=2 valign=top id=SH7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span></p>
+  </td>
+  <td width="33%" valign=top id=SA7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span></p>
+  </td>
+  <td width="21%" valign=top id=SB7>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=S82></span></p>
+  </td>
+  <td width="24%" valign=top id=SI7>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SJ7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие физико-механических характеристик отсыпаемого и
+  уплотненного грунта требованиям проекта.</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SK7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Лабораторный контроль</span><span id=SH></span></p>
+  </td>
+  <td width="24%" valign=top id=SL7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир; плотномер ГРПТ-2,
+  ППГР-1; влагомер ПННВ-1, ВПГР-1.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

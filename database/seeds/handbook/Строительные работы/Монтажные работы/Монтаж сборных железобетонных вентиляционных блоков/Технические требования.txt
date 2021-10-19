@@ -1,0 +1,236 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.5-3.7, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=222 height=296 src="x070.jpg" v:shapes="_x0000_i1059"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от совмещения
+ориентиров (рисок геометрических осей, граней) в нижнем сечении установленных
+блоков с установочными ориентирами (рисками геометрических осей или гранями
+нижележащих элементов, рисками разбивочных осей) - 8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+верха плоскостей объемных блоков - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Марка раствора,
+применяемого при монтаже блоков, должна быть указана в проекте.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Подвижность
+раствора - 5-7 см по глубине погружения стандартного конуса.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+раствора, процесс схватывания которого уже начался;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- омолаживание
+раствора.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3324/index.htm" title="Блоки вентиляционные железобетонные. Технические условия">ГОСТ
+17079-88</a></span><span id=S74>. Блоки вентиляционные железобетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../42/42111/index.htm" title="Изделия железобетонные и бетонные для строительства. Общие технические требования. Правила приемки, маркировки, транспортирования и хранения">ГОСТ
+13015-2003</a></span><span id=S74>. Изделия железобетонные и бетонные для строительства. Общие
+технические условия. Правила приемки, маркировки, транспортирования и хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SKD><span id=SB>Значения
+действительных отклонений геометрических параметров блоков не должны превышать
+предельные, указанные в таблице, мм.</span><span id=SS></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="47%" id=SCQ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Наименование отклонения от геометрического
+  параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="35%" id=SDQ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Наименование геометрического параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="17%" id=SEQ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Предельные отклонения</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="47%" rowspan=10 valign=top id=SFQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от линейного размера</span><span id=SI></span></p>
+  </td>
+  <td width="35%" valign=top id=SGQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Длина блока:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SHQ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SD3><span id=S82>до 1600</span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SD3><span id=S82>св. 1600</span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина блока</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Высота блока</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Поперечное сечение каналов, размеры выступов, вырезов и отверстий</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Положение каналов</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Положение закладных изделий:</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SD3><span id=S82>в плоскости блока</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SD3><span id=S82>из плоскости блока</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="47%" valign=top id=SKQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от прямолинейности профиля лицевых поверхностей в любом
+  сечении на длине 1600 мм</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SIQ>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SJQ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="47%" valign=top id=SLQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от равенства диагоналей лицевых поверхностей блоков (кроме
+  крышных и чердачных)</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SMQ>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SNQ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>16</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Трещины на поверхностях панелей и в стенах каналов
+не допускаются, за исключением единичных местных поверхностных усадочных
+шириной не более 0,1 мм.<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Обнажение
+арматуры не допускается, за исключением выпусков арматуры, предназначенных для
+сварки и замоноличивания при монтаже.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На лицевых
+поверхностях конструкций не допускаются жировые и ржавые пятна.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На лицевой
+поверхности каждой панели должны быть нанесены несмываемой краской при помощи
+трафарета или разных штампов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>а) товарный
+знак предприятия-изготовителя или его краткое наименование;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>б) марка
+панели;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>в) дата
+изготовления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>г) масса панели
+в тоннах.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предприятие-изготовитель
+должно сопровождать (или высылать) каждую партию с документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Блоки при
+транспортировании и хранении следует устанавливать в вертикальном положении в
+кассеты.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускается
+транспортировать и хранить блоки в горизонтальном положении в штабелях. Высота
+штабеля - не более 2,5 м. Подкладки под блоками и прокладки между ними в
+штабеле следует располагать на расстоянии 500 мм от торцов блока.</span><span id=SS></span></p>
+
+<p class=a><b>Указания по производству работ</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 3.29<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При установке
+вентиляционных блоков необходимо следить за совмещением каналов и тщательностью
+заполнения горизонтальных швов раствором.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Выверку
+вентиляционных блоков следует выполнять, совмещая оси двух взаимно
+перпендикулярных граней устанавливаемых блоков в уровне нижнего сечения с
+рисками осей нижестоящего блока.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Относительно
+вертикальной плоскости блоки следует устанавливать, выверяя плоскости двух
+взаимно перпендикулярных граней.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стыки
+вентиляционных каналов блоков следует тщательно очищать от раствора и не допускать
+попадания его и других посторонних предметов в каналы.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Следует
+тщательно заделывать бетоном остающиеся после монтажа вентиляционных блоков
+отверстия в панелях перекрытия.</span><span id=SS></span></p>
+
+<h3><a name="i842455"><span ><b><span id=S42>Монтаж
+объемных блоков</span></b></span></a><span ></span><span ></span><b><span id=SP9></span></b></h3>

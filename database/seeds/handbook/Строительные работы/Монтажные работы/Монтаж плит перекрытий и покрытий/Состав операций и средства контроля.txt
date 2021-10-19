@@ -1,0 +1,175 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="18%" id=S4I>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="36%" id=SDK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SEK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="27%" id=SFK>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=S8I>
+  <p class=MsoNormal id=SJ1><span id=SUH>Подготовительные работы</span><span id=SI></span></p>
+  </td>
+  <td width="36%" valign=top id=SGK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SHK>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=6 valign=top id=SIK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Паспорта (сертификаты), общий журнал работ, акт
+  освидетельствования (приемки) ранее выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- качество поверхности, точность геометрических
+  параметров, внешний вид плит;</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный, измерительный,
+  каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- очистку опорных поверхностей ранее смонтированных
+  конструкций (ригелей, диафрагм жесткости, опорных столиков колонн) и
+  монтируемых плит от мусора, грязи, снега и наледи;</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие акта освидетельствования (приемки) ранее
+  выполненных работ;</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SLK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие разметки, определяющей проектное положение плит
+  на опорах.</span></p>
+  </td>
+  <td width="18%" valign=top id=SMK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=S8I>
+  <p class=MsoNormal id=SJ1><span id=SUH>Монтаж плит перекрытий</span><span id=SI></span></p>
+  </td>
+  <td width="36%" valign=top id=SGK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контролировать:</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHK>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=4 valign=top id=SIK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- установку плит в проектное положение (отклонение от
+  симметричности глубины опирания плит в направлении перекрываемого пролета,
+  разность отметок лицевых поверхностей двух смежных плит);</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- глубину опирания плит;</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SLK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- толщину слоя раствора под плитами.</span></p>
+  </td>
+  <td width="18%" valign=top id=SMK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=S8I>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемка выполненных работ</span><span id=SI></span></p>
+  </td>
+  <td width="36%" valign=top id=SGK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SHK>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=3 valign=top id=SIK>
+  <p class=MsoNormal id=SJ1><span id=SUH>Акт освидетельствования (приемки) выполненных работ,
+  исполнительная геодезическая схема</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SJK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- фактическое положение смонтированных плит (отклонение от
+  разметки, определяющей проектное положение плит на опорах, разность отметок
+  лицевых поверхностей смежных плит, глубину опирания плит);</span></p>
+  </td>
+  <td width="18%" valign=top id=SKK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SLK>
+  <p class=MsoNormal id=SJ1><span id=SUH>- внешний вид лицевых поверхностей.</span></p>
+  </td>
+  <td width="18%" valign=top id=SMK>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контрольно-измерительный инструмент: рулетка, линейка
+  металлическая, нивелир.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Операционный контроль осуществляют: мастер (прораб),
+  геодезист - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемочный контроль осуществляют: работники службы
+  качества, мастер (прораб), представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

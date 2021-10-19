@@ -1,0 +1,186 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="23%" valign=top id=SGO1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SHO1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SIO1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SJO1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=7 valign=top id=SKO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Подготовительные работы</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SLO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SMO1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=7 valign=top id=SNO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Паспорт (сертификат), общий журнал работ; акт
+  освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие документа о качестве на деревянные изделия;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- качество и размеры элементов;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- обработку древесины антисептиком и антипиренами;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие болтовых и гвоздевых соединений в соответствии с
+  типовыми чертежами;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- соответствие геометрических размеров собираемых ферм,
+  затяжку болтов проектным;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие изоляции под мауэрлатом, соответствие отметок
+  проектным.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=5 valign=top id=SQO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Устройство стропильной системы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контролировать:</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SSO1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=5 valign=top id=STO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие врубки конца стропильной ноги в мауэрлат,
+  изоляции конца ноги рубероидом;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие прокладки из обрезной доски под стойками и
+  подкосами;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- вертикальность ферм, расстояния между фермами и отметки
+  конька;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный, каждый элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие анкеровки концов ног к стенам и ветровых связей.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" rowspan=3 valign=top id=SGO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемка выполненных работ</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SRO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSO1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=3 valign=top id=SJO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SOO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- фактическое положение установленной стропильной системы;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SUO1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- внешний вид элементов.</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SVO1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контрольно-измерительный инструмент: рулетка
+  металлическая, отвес, нивелир, линейка.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Операционный контроль осуществляют: мастер (прораб),
+  геодезист - в процессе работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемочный контроль осуществляют: работники службы
+  качества, мастер (прораб), представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

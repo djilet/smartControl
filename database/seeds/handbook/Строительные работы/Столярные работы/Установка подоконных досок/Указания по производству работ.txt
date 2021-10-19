@@ -1,0 +1,39 @@
+<p class=a2><span id=SX3>Указания по производству работ</span><br>
+<span id=SST><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span><span id=STT> п. 5.5</span><span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При контакте
+деревянных подоконных досок с кирпичной кладкой, бетоном и т. д. до начала
+монтажа необходимо выполнить предусмотренные проектом изоляционные работы</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Приемка
+установки подоконных досок должна сопровождаться актом освидетельствования скрытых
+работ по их теплоизоляции и защитной обработке.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3446/index.htm" title="Детали профильные из древесины и древесных материалов для строительства. Технические условия">ГОСТ
+8242-88</a></span><span id=S74>*. Детали профильные из древесных материалов для строительства.
+Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3298/index.htm" title="Плиты подоконные железобетонные. Технические условия">ГОСТ
+6785-80*</a></span><span id=S74>. Плиты подоконные железобетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина
+деревянных досок должна быть 42 ± 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Отклонения
+от номинальных размеров:</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - ±3
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины должна быть 12 + 3 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+плоскостности - не более 1,5 мм на 1 м длины.</span><span id=S2></span></p>

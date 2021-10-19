@@ -1,0 +1,158 @@
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="20%" valign=top id=SD4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SE4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SF4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SG4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=3 valign=top id=SH4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SI4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SJ4>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SK4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение вертикальной планировки поверхности строительной площадки
+  (при необходимости);</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SN4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разбивку осей сооружения и границ котлована.</span></p>
+  </td>
+  <td width="29%" valign=top id=SO4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=5 valign=top id=SH4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Механизированная разработка фунта</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SI4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SJ4>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SK4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения отметок дна котлована от проектных;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Измерительный, точки измерений устанавливаются случайным образом; на
+  принимаемый участок 10-20 измерений</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- вид и характеристики вскрытого грунта естественных оснований;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Технический осмотр всей поверхности основания</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- размеры котлована в плане;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SN4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крутизну откосов.</span></p>
+  </td>
+  <td width="29%" valign=top id=SO4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=5 valign=top id=SH4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SI4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SJ4>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SK4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- геометрические размеры котлована;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отметки и уклоны дна котлована;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SL4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крутизну откосов котлована;</span></p>
+  </td>
+  <td width="29%" valign=top id=SM4>
+  <p class=MsoNormal align=center id=SA1><span id=S82>- » -</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SN4>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество фунтов основания (при необходимости).</span></p>
+  </td>
+  <td width="29%" valign=top id=SO4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Технический осмотр всей поверхности основания</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, рулетка, теодолит,
+  шаблон.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>

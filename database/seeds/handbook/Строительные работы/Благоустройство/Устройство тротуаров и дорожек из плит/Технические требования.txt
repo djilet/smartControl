@@ -1,0 +1,90 @@
+<p class=a><b>Технические требования <br>
+</b><a href="../../1/1903/index.htm" title="Благоустройство территории">СНиП <span  >III</span>-10-75</a> пп. 3.23, 3.25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=197 height=304 src="x180.jpg" v:shapes="_x0000_i1114"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в
+вертикальных смещениях в швах между плитами - не более 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- швов между
+плитами- 15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- швов между
+бортовыми камнями - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ровности
+песчаного основания при проверке двухметровой рейкой - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Песчаное
+основание должно быть толщиной не менее 3 см и уплотнено до плотности с
+коэффициентом не ниже 0,98.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Швы между
+плитами должны быть заполнены герметизирующими материалами (асфальтобетонной
+смесью), а между бортовыми камнями цементно-песчаным раствором.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступы в
+стыках бортовых камней в плане и профиле;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- просветы
+между плитами и песчаным основанием;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- устройства
+криволинейного борта радиусом </span><span id=STK1><span id=ST1>&pound;</span></span><span id=SB>15 м из прямолинейных
+камней.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3297/index.htm" title="Камни бетонные и железобетонные бортовые. Технические условия">ГОСТ
+6665-91</a></span><span id=S74>. Камни бетонные и железобетонные бортовые. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3326/index.htm" title="Плиты бетонные тротуарные. Технические условия">ГОСТ
+17608-91</a>. Плиты бетонные тротуарные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+геометрических параметров камней бортовых не должны превышать предельные:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - ±6
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине и
+высоте - ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Непрямолинейность
+профиля камней допускается не более 3 мм на всю длину.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Не допускаются
+трещины, за исключением усадочных шириной не более 0,1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+геометрических параметров плит тротуарных не должны превышать предельные по
+ширине, толщине и длине - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Непрямолинейность
+лицевой поверхности плит допускается не более 3 мм по длине и ширине.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставка и
+приемка железобетонных изделий должна производиться партиями. Каждая партия
+должна сопровождаться документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размеры и
+геометрическая форма проверяются выборочно.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Объем выборки
+зависит от объема партии изделий:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 5 шт. - при
+объеме партии до 25 шт.;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 8 шт. -<span id=SY22>              </span>»<span id=SY22>                  </span>от 25 до 90 шт.;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 13 шт. -<span id=SY22>            </span>»<span id=SY22>                  </span>более 90 шт.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Изделия должны
+храниться в штабелях высотой не более 2<i> </i>м. Между изделиями должны быть
+проложены деревянные прокладки.</span><span id=SS></span></p>

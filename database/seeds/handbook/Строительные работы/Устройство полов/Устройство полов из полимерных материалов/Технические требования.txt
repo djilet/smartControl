@@ -1,0 +1,183 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 24,
+25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=231 height=184 src="x138.jpg" v:shapes="_x0000_i1093"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+поверхности покрытия от плоскости при проверке контрольной двухметровой рейкой
+- 2 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от заданного
+уклона покрытий - 0,2 % соответствующего размера помещения, но не более 50 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+клеевой прослойки должна быть не более 0,8 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+оснований перед устройством полимерных покрытий не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стяжек на
+основе цементного вяжущего – 5 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стяжек из
+древесноволокнистых плит – 12 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры и щели
+между плинтусами и покрытием пола или стенами (перегородками), между смежными
+кромками полотнищ линолеума, ковров рулонных материалов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступы между
+смежными полотнищами ковра;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- волны,
+вздутия, приподнятие кромок на поверхности покрытия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- устройство
+поперечных (перпендикулярно направлению движения) швов в покрытиях из
+линолеума, ковров в зонах интенсивного движения.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3715/index.htm" title="Материалы и изделия полимерные для покрытия полов. Классификация">ГОСТ
+17241-71</a>. Материалы и изделия полимерные для покрытия полов. Классификация.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3733/index.htm" title="Ковры сварные из поливинилхлоридного линолеума на теплозвукоизолирующей подоснове. Технические условия">ГОСТ
+27023-86</a>. Ковры сварные из поливинилхлоридного линолеума на
+теплозвукоизолирующей подоснове. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Предельные отклонения от
+номинальных размеров линолеума и ковров из него.</span><span id=SS4></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="46%" rowspan=2 id=SY81>
+  <p class=MsoNormal align=center id=S46><b>Материалы</b></p>
+  </td>
+  <td width="53%" colspan=3 id=SZ81>
+  <p class=MsoNormal align=center id=S46><b><span id=SSH>Предельные отклонения, мм</span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" id=S091>
+  <p class=MsoNormal align=center id=S46><b><span id=SSH>по длине</span></b></p>
+  </td>
+  <td width="18%" id=S191>
+  <p class=MsoNormal align=center id=S46><b><span id=SSH>по ширине</span></b></p>
+  </td>
+  <td width="19%" id=S291>
+  <p class=MsoNormal align=center id=S46><span id=SSH>по <b>толщине</b></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="46%" valign=top id=S391>
+  <p class=MsoNormal><span id=SSH>линолеум
+  по <a href="../../3/3706/index.htm" title="Линолеум поливинилхлоридный на тканой и нетканой подоснове. Технические условия">ГОСТ
+  7251-77</a></span></p>
+  </td>
+  <td width="15%" valign=top id=S491>
+  <p class=MsoNormal align=center id=S46><span id=SSH>не норм.</span></p>
+  </td>
+  <td width="18%" valign=top id=S591>
+  <p class=MsoNormal align=center id=S46><span id=SSH>не норм.</span></p>
+  </td>
+  <td width="19%" valign=top id=S691>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±0,2</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="46%" valign=top id=S791>
+  <p class=MsoNormal><span id=SSH>линолеум
+  по ГОСТ
+  14632-79</a></span></p>
+  </td>
+  <td width="15%" valign=top id=S891>
+  <p class=MsoNormal align=center id=S46><span id=SSH>не норм.</span></p>
+  </td>
+  <td width="18%" valign=top id=S991>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±10</span></p>
+  </td>
+  <td width="19%" valign=top id=SA91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±0,1</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="46%" valign=top id=S791>
+  <p class=MsoNormal><span id=SSH>линолеум
+  по ГОСТ
+  16914-71</a></span></p>
+  </td>
+  <td width="15%" valign=top id=S891>
+  <p class=MsoNormal align=center id=S46><span id=SSH>не норм.</span></p>
+  </td>
+  <td width="18%" valign=top id=S991>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±30</span></p>
+  </td>
+  <td width="19%" valign=top id=SA91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±0,2</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="46%" valign=top id=S791>
+  <p class=MsoNormal><span id=SSH>линолеум
+  по <a href="../../3/3716/index.htm" title="Линолеум поливинилхлоридный на теплозвукоизолирующей подоснове. Технические условия">ГОСТ
+  18108-80</a>*</span></p>
+  </td>
+  <td width="15%" valign=top id=S891>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±100</span></p>
+  </td>
+  <td width="18%" valign=top id=S991>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±10</span></p>
+  </td>
+  <td width="19%" valign=top id=SA91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±0,2</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="46%" valign=top id=SB91>
+  <p class=MsoNormal><span id=SSH>ковры
+  по <a href="../../3/3733/index.htm" title="Ковры сварные из поливинилхлоридного линолеума на теплозвукоизолирующей подоснове. Технические условия">ГОСТ
+  27023-86</a></span></p>
+  </td>
+  <td width="15%" valign=top id=SC91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>+ 10</span></p>
+  </td>
+  <td width="18%" valign=top id=SD91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±10</span></p>
+  </td>
+  <td width="19%" valign=top id=SE91>
+  <p class=MsoNormal align=center id=S46><span id=SSH>±0,2</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Кромки линолеума и
+ковров должны быть ровными и параллельными, не иметь заусенцев и щербин.
+Допускаемое отклонение от параллельности кромок не должно превышать 3 мм на
+один метр (для релина - 2 мм на один метр).</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На лицевой
+поверхности линолеума не допускаются царапины, раковины, складки, пузыри,
+пятна, полосы, искажения рисунка и брызги от краски, видимые с расстояния 1 м
+по вертикали от поверхности пола. Наплывы и вмятины площадью не свыше 0,2 см<sup>2</sup>
+более 3 шт.<span id=S31> на 1 м<sup>2 </sup>допускаются только в
+линолеумах по <a href="../../3/3706/index.htm" title="Линолеум поливинилхлоридный на тканой и нетканой подоснове. Технические условия"><span id=SF91><span id=SG91><u><span id=SH91>ГОСТ 7251-77</span></u></span></span></a>.</span></span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Длина полотнища
+линолеума в рулоне не должна быть менее 12 м, рулоны могут состоять из двух
+кусков, причем длина одного из них не должна быть менее 3 м. Размеры ковров по
+длине и ширине устанавливаются картами раскроя, разработанными, согласованными
+и утвержденными в установленном порядке.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждый рулон
+или бобина линолеума, каждая упаковка рулона, каждое упакованное место или
+каждый ковер должны сопровождаться этикеткой.</span><span id=S2></span></p>

@@ -1,0 +1,124 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 3.7, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=236 height=188 src="x068.jpg" v:shapes="_x0000_i1058"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от совмещения
+ориентиров (рисок геометрических осей, граней) в нижнем сечении установленных
+объемных блоков с установочными ориентирами (рисками геометрических осей или
+гранями нижележащих элементов, рисками разбивочных осей) - 8 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от перпендикулярности внутренней поверхности стен ствола шахты относительно
+горизонтальной плоскости (пола приямка) - 30 мм;</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+порога дверного проема объемного элемента шахты лифта относительно посадочной
+площадки - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+верха плоскостей блоков - 10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+разрывы по высоте при монтаже более чем на один этаж.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../42/42111/index.htm" title="Изделия железобетонные и бетонные для строительства. Общие технические требования. Правила приемки, маркировки, транспортирования и хранения">ГОСТ
+13015-2003</a></span><span id=SDP>. Изделия железобетонные и бетонные для строительства. Общие
+технические условия. Правила приемки, маркировки, транспортирования и хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3325/index.htm" title="Конструкции и изделия железобетонные для шахт лифтов жилых зданий. Технические условия">ГОСТ
+17538-82*</a></span><span id=SDP>. Конструкции и изделия железобетонные для шахт лифтов жилых
+зданий. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>Значения
+предельных отклонений геометрических параметров блоков не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- по длине -
++10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- по ширине -
+±8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>- по толщине
+стен - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent3 id=SXC><span id=SEP>Неплоскостность
+лицевых поверхностей - не более 3 мм.</span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="26%" id=SFP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Характеристика бетонной поверхности</span></b><span id=SH></span></p>
+  </td>
+  <td width="10%" id=SGP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Категория</span></b><span id=SI></span></p>
+  </td>
+  <td width="13%" id=SHP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Диаметр раковин, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="20%" id=SIP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Высота (глубина) наплыва (впадин), мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="12%" id=SJP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Глубина сколов, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SKP>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Длина сколов в мм на 1 м ребра</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SLP>
+  <p class=MsoNormal id=SJ1><span id=SD2>Лицевая, под окраску</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SWJ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>A3</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SMP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SNP>
+  <p class=MsoNormal align=center id=SA1><span id=SU>2</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SOP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SPP>
+  <p class=MsoNormal align=center id=SA1><span id=SU>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQP>
+  <p class=MsoNormal id=SJ1><span id=SD2>Нелицевая, невидимая в условиях эксплуатации</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=S8K>
+  <p class=MsoNormal align=center id=SA1><span id=S82>А7</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=SRP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SSP>
+  <p class=MsoNormal align=center id=S46><span id=SH>-</span></p>
+  </td>
+  <td width="12%" valign=top id=STP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SUP>
+  <p class=MsoNormal align=center id=S46><span id=SH>-</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SV3><span id=S13>Маркировочные надписи и
+знаки должны быть нанесены на торцевой поверхности, невидимой в процессе эксплуатации.</span></p>

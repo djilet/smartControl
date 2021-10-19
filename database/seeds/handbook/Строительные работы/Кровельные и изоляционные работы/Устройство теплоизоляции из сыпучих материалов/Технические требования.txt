@@ -1,0 +1,83 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.38,
+табл. 5, 6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=250 height=191 src="x098.jpg" v:shapes="_x0000_i1073"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SR5><span id=SB>-влажности оснований:</span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- сборных – 4
+%;</span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- монолитных –
+5 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>-плоскости изоляции:</span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- от заданного
+уклона - 0,2 %;</span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- по
+горизонтали - ±5 мм;</span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- по вертикали
+- ±10 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+изоляции от проектной - ±10 %;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- коэффициента
+уплотнения от проектного - ±5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3621/index.htm" title="Гравий, щебень и песок искусственные пористые. Технические условия">ГОСТ
+9757-90*</a></span><span id=S74>. Гравий, щебень и песок искусственные пористые. Технические
+условия</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3623/index.htm" title="Песок и щебень перлитовые вспученные. Технические условия">ГОСТ 10832-91</a></span><span id=S21>. Песок и щебень
+перлитовые вспученные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гравий,
+применяемый для устройства теплоизоляции, подразделяют:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на фракции:
+от 5 до 10 мм; свыше 10 до 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+на марки в зависимости от насыпной плотности: 250, 300, 350, 400, 450, 500.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Песок в
+зависимости от насыпной плотности подразделяют на марки 500-900.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку и
+поставку насыпных материалов производят партиями. Размер партии одной фракции и
+марки устанавливают в количестве сменной выработки предприятия-изготовителя, но
+не более 300 м<sup>3</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для контрольной
+проверки от партии гравия и песка отбирают не менее пяти проб.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+материалов должна сопровождаться документом о качестве, в котором указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+и адрес предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер и дата
+выдачи документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+продукции и ее количество;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размер
+фракции, марка по насыпной плотности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гравий должен
+храниться раздельно по фракциям, а песок - по маркам.</span><span id=SS></span></p>

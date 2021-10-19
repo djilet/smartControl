@@ -1,0 +1,182 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="20%" id=SKM1>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="37%" id=SLM1>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="21%" id=SHK1>
+  <p class=MsoNormal align=center id=S46><b>Контроль </b><b><span id=S82>(метод, объем)</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="20%" id=SMM1>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=4 valign=top id=SNM1>
+  <p class=MsoNormal><span id=S82>Подготовительные
+  работы</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SOM1>
+  <p class=MsoNormal><span id=S82>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SLK1>
+  <p class=MsoNormal>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="20%" rowspan=4 valign=top id=SPM1>
+  <p class=MsoNormal><span id=S82>Паспорта
+  (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- наличие
+  документов о качестве на элементы опалубки и арматурные изделия, бетонную
+  смесь;</span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=10 id=S26><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- точность
+  установки и соединение отдельных элементов, качество креплений и внутренней
+  поверхности опалубки;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SRM1>
+  <p class=MsoNormal><span id=S82>- точность
+  установки арматурных изделий в плане и по высоте, надежность их фиксации.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SQK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Технический осмотр всех элементов</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=6 valign=top id=SSM1>
+  <p class=MsoNormal><span id=S82>Устройство
+  монолитных участков</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SOM1>
+  <p class=MsoNormal><span id=S82>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SLK1>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="20%" rowspan=6 valign=top id=STM1>
+  <p class=MsoNormal><span id=S82>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- качество бетонной
+  смеси;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Лабораторный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- состояние
+  опалубки;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- порядок укладки
+  бетонной смеси, заполнения пазух, достаточного уплотнения;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>-
+  температурно-влажностный режим твердения бетона согласно требованиям ППР;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SRM1>
+  <p class=MsoNormal><span id=S82>- прочность бетона
+  и сроки распалубки.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SQK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=3 valign=top id=SSM1>
+  <p class=MsoNormal><span id=S82>Приемка выполненных
+  работ</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=SOM1>
+  <p class=MsoNormal><span id=S82>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SLK1>
+  <p class=MsoNormal>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="20%" rowspan=3 valign=top id=STM1>
+  <p class=MsoNormal><span id=S82>Акт приемки
+  выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SQM1>
+  <p class=MsoNormal><span id=S82>- фактическую
+  прочность бетона;</span></p>
+  </td>
+  <td width="21%" valign=top id=SOK1>
+  <p class=10 id=S26><span id=S82>Лабораторный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SRM1>
+  <p class=MsoNormal><span id=S82>- качество
+  поверхности конструкций, соответствие проектному положению отверстий,
+  каналов, проемов, закладных деталей.</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=SQK1>
+  <p class=MsoNormal align=center id=S46><span id=S82>Визуальный, измерительный, каждый элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal><span id=S82>Контрольно-измерительный
+  инструмент: отвес, двухметровая рейка, рулетка, линейка металлическая.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal><span id=S82>Операционный
+  контроль осуществляют: мастер (прораб), инженер лаборатории - в процессе
+  выполнения работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal><span id=S82>Приемочный контроль
+  осуществляют: работники службы качества, мастер (прораб), представители
+  технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>

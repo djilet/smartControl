@@ -1,0 +1,40 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 7.90, табл. 34<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=222 height=210 src="x192.jpg" v:shapes="_x0000_i1120"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхностей
+и углов от вертикали на всю высоту столба или простенка - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных стягивающих полос от горизонтали на 1 м плоскости в любом
+направлении - ±5 мм.</span><span id=SS></span></p>
+
+<p class=a><b>Указания по производству работ<br>
+</b>Альбом 24 НТ-2/75 Ленжилпроекта<span id=SH></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Перед
+установкой обоймы углы кирпичной кладки и зоны установки поперечных планок
+очищаются от существующей штукатурки. Четверти в простенках сбиваются. Под
+металлические уголки обоймы наносится цементный раствор, в который втапливаются
+уголки. Поперечные планки перед установкой и приваркой к уголкам предварительно
+нагреваются.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Сечение уголков
+и пластин принимается по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между планками (</span><span  id=SID>h</span><span id=SJD>) выполняется согласно проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При отсутствии
+размера в проекте планки устанавливаются на расстоянии, равном толщине столба,
+простенка (</span><span  id=SID>b</span><span id=SJD>), т.е. </span><span  id=SEK1>h</span><span id=SB> = </span><span  id=SS5>b</span><span id=SB>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Горизонтальные
+планки привариваются к уголку по всему периметру нахлестки (фланговый шов).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Пластины должны
+привариваться перпендикулярно к уголкам.</span><span id=SS></span></p>

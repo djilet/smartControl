@@ -1,0 +1,76 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Технические требования<br>
+</span></b><span id=SB><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты"><span id=SU>СНиП 3.02.01-87</span></a> пп. 4.2, 4.4, 4.20,
+4.26</span><b><span id=SS></span></b></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=228 height=150 src="x014.jpg" v:shapes="_x0000_i1031"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- положения оси
+насыпей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- железных
+дорог - ±10 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SL8><span id=SB>- автомобильных
+дорог - ±20 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины
+насыпей по верху и по низу - ±15 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+поверхностей насыпей - ±5 см.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Высота
+насыпей, возводимых без уплотнения, принимается с запасом по высоте на осадку
+при отсыпке:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из скальных
+грунтов – 6 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из нескальных
+грунтов – 9 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гранулометрический
+состав грунта должен соответствовать проекту (отклонения допускаются не более
+чем в 20 % определений).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Содержание
+мерзлых комьев от общего объема отсыпаемого грунта не должно превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для насыпей,
+уплотняемых укаткой, - 20 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для насыпей,
+уплотняемых трамбованием, - 30 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для насыпей,
+возводимых без уплотнения, - 50 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размер твердых
+включений, в т.ч. мерзлых комьев, в насыпях не должен превышать 2/3 толщины
+уплотненного слоя, но не более 30 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средняя по
+принимаемому участку плотность сухого грунта должна быть не ниже проектной
+(допускается снижение плотности не более чем в 10 % определений при летней
+отсыпке и в 20 % - при зимней).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+грунта в теле насыпи должна быть в пределах, установленных проектом (отклонения
+допускаются не более чем в 10 % определений).</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- содержание в
+грунте древесины, волокнистых материалов, гниющего или легкосжимаемого
+строительного мусора;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие льда
+и снега;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- увеличение
+крутизны откосов насыпей;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- использование
+в одном слое грунтов разных типов.</span></p>

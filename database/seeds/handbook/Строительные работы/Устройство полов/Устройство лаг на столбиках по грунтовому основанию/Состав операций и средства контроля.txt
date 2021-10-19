@@ -1,0 +1,179 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=S0A1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" id=S1A1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="27%" id=S2A1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="24%" id=S3A1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=STR>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S4A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S5A1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=5 valign=top id=S6A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве материалов;</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество лаг, прокладок (размеры, влажность, антисептирование);</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение очистки основания от мусора, грязи;</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S9A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отметку опорной плоскости столбиков.</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SAA1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=SBA1>
+  <p class=MsoNormal id=SJ1><span id=SW>Уклада лаг</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S4A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S5A1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=6 valign=top id=SCA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- расстояние между лагами;</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее трех измерений на
+  каждые 50-70 м<sup>2</sup> поверхности пола</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величину зазора между лагами и стенами;</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- уровень верха лаг;</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность стыковки лаг между собой;</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность прилегания лаг к поверхности столбиков.</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SDA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SEA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SFA1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=4 valign=top id=SGA1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности лаг;</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие временного раскрепления лаг (отдельными досками);</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S7A1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество антисептирования лаг, прокладок, изоляции прокладок толем.</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S8A1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=ST51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, рулетка металлическая,
+  линейка металлическая, уровень строительный, двухметровая рейка, влагомер.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

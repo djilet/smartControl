@@ -1,0 +1,249 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" valign=top id=S85>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=S95>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SA5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SD5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SE5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SF5>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=4 valign=top id=SG5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение вертикальной планировки поверхности строительной площадки
+  (при необходимости);</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выноску разбивочных осей и надежность их закрепления;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SJ5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение работ по отводу поверхностных и подземных вод с помощью
+  временных или постоянных устройств (при необходимости).</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SK5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=SD5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Механизированная разработка грунта, зачистка дна траншей</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SE5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SF5>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=6 valign=top id=SG5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение отметок дна траншей при механизированной разработке от
+  проектных;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, точки измерений устанавливаются
+  случайным образом; на принимаемый участок - 10-20</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения отметок дна выемок при окончательной разработке
+  (доработке) от проектных;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, в местах поворотов,
+  примыканий, но не реже чем через 50 м и не менее 10 измерений на принимаемый
+  участок</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения от проектного уклона дна траншей;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, в местах поворотов,
+  примыканий, расположения колодцев, но не реже чем через 50 м;</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ширину траншей;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SJ5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крутизну откосов.</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SK5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=SL5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SE5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SF5>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=6 valign=top id=SM5>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие геометрических размеров траншей требованиям проекта;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величины отметок и уклонов дна траншей;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SH5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крутизну откосов траншей;</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=SI5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=SN5>
+  <td width="31%" rowspan=2 valign=top id=SO5>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество грунтов основания (при необходимости).</span><span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=2 valign=top id=SP5>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный всей поверхности основания.</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=SN5>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SX2>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, рулетка, шаблон крутизны
+  откосов.</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SG1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SY2>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб, геодезист, представители технадзора заказчика.</span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+</table>
+
+</div>

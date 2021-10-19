@@ -1,0 +1,72 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../1/1999/index.htm" title="Наружные сети и сооружения водоснабжения и канализации">СНиП 3.05.04-85</a>*</span>
+пп. 3.6, 3.45, 3.46, табл. 1<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=241 height=216 src="x214.jpg" v:shapes="_x0000_i1131"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Величину зазора
+торцами соединяемых труб следует принимать для труб диаметром:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 300 мм - 5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- свыше 300 мм
+- 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Максимальные
+отклонения от проектного положения осей напорных трубопроводов не должны
+превышать +100 мм в плане, а отметок верха + 30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3188/index.htm" title="Трубы и муфты асбестоцементные напорные. Технические условия">ГОСТ
+539-80*</a> Трубы и муфты асбестоцементные напорные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы и муфты
+не должны иметь трещин, обломов, расслоений.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Концы труб и
+внутренняя поверхность муфт должны быть обточены. На обточенных поверхностях
+труб не должно быть сдиров и вмятин.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы должны
+быть прямыми. Отклонение от прямолинейности труб не должно превышать следующих
+величин, для труб длиной:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>2950 и 3950 мм
+- 12 мм;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>5000 мм - 18
+мм;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>5950 мм - 24
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Торцы труб
+должны быть чисто обрезаны, перпендикулярно к оси трубы и обработаны под конус
+под углом 20-25°. Длина конусной части должна быть для труб с условным
+проходом:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 100-150 мм -
+6-10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 200 мм -
+12-18 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В сопряжении
+внутренней поверхности труб и торцов допускаются закругления или фаски не более
+5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы должны
+поставляться комплектно с муфтами и резиновыми кольцами по спецификации
+заказчика.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускается
+наличие в полученной партии не более 3 % укороченных труб, При этом длина таких
+труб условным проходом 100 и 150 мм должна быть не менее 2 м, а длина труб
+условным проходом 200 мм и более - не менее 3 м.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы и муфты
+должны храниться в штабелях уложенными на ровную площадку по диаметрам трубы в
+горизонтальном положении, а муфты - в вертикальном положении.</span><span id=SS></span></p>

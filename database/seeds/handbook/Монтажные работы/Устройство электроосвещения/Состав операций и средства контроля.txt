@@ -1,0 +1,234 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="30%" id=SF02>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="27%" id=S7D1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SG02>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="25%" id=SH02>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="30%" rowspan=7 valign=top id=SI02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SBD1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SJ02>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=7 valign=top id=SK02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт приемки, общий журнал работ</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве на материалы и электрооборудование;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- комплектность материалов;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие защиты от коррозии металлических частей;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие конструктивных элементов для крепления;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- готовность помещений для устройства электроосвещения;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SGD1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SM02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="30%" rowspan=3 valign=top id=SN02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Работы по устройству электропроводки и установке электроосветительной
+  арматуры, счетчиков</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SBD1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SJ02>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=3 valign=top id=SO02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акты освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- высоту установки электросчетчиков, выключателей, розеток;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество прокладки проводов и их крепления.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="30%" rowspan=5 valign=top id=SP02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=SQ02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SR02>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" valign=top id=SS02>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт проверки осветительной сети на зажигание.</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=SN5>
+  <td width="27%" rowspan=2 valign=top id=ST02>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество прокладки электропроводки и установки электрооборудования;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" rowspan=2 valign=top id=SU02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=4 valign=top id=SV02>
+  <p class=MsoNormal id=SX1><span id=S82>Акт
+  сдачи электроосвещения в эксплуатацию</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=SN5>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие актов измерения сопротивления изоляции;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="27%" valign=top id=SED1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность зажигания и горения ламп.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SL02>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=ST51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: металлический метр, микрометр
+  металлический, амперметр, контрольная лампа, омметр.</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), технадзор, представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+</table>
+
+</div>

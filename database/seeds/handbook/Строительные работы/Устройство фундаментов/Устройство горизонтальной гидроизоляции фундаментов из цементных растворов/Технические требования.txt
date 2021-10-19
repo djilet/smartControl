@@ -1,0 +1,94 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.31,
+табл. 4<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=233 height=232 src="x028.jpg" v:shapes="_x0000_i1038"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+при проверке двухметровой рейкой:</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+горизонтали - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+элемента покрытия от проектной - -50 </span><span id=SNB><span id=ST1>&cedil;</span></span><span id=SB> +10 %, но не более<b> </b>3,0
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Подвижность
+цементных растворов, см:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при нанесении
+вручную - 10-12;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при нанесении
+растворонасосами - 5-9;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- с применением
+пластификаторов - 10-12.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На устройство
+изоляции следует составлять акт освидетельствования скрытых работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3543/index.htm" title="Портландцемент и шлакопортландцемент. Технические условия">ГОСТ<b> </b>10178-85*</a>.
+Портландцемент и шлакопортландцемент. Технические условия.</span></p>
+
+<p class=MsoBodyTextIndent3 id=SW3><a href="../../5/5762/index.htm" title="Растворы строительные. Общие технические условия">ГОСТ 28013-98</a>.
+Растворы строительные. Общие технические требования.</p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3544/index.htm" title="Цемент гипсоглиноземистый расширяющийся">ГОСТ 11052-74</a>.
+Цемент гипсоглиноземистый расширяющийся. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3536/index.htm" title="Цементы глиноземистые и высокоглиноземистые. Технические условия">ГОСТ
+969-91</a>. Цементы глиноземистые и высокоглиноземистые. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Для
+гидроизоляционных покрытий должен использоваться цементно-песчаный раствор
+состава 1:2 - 1:4 на основе портландцемента марки 400 с уплотняющими и
+гидравлическими добавками, водонепроницаемого безусадочного цемента (ВБЦ) или
+водонепроницаемого расширяющегося цемента (ВРЦ).</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В качестве
+заполнителя используется мелкозернистый песок с крупностью не более 0,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При
+использовании портландцемента в состав раствора должны вводиться уплотняющие
+добавки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- церазит в виде
+церазитового молока 1:10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- алюминат
+натрия в количестве 1,5 % от массы цемента;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- хлористое
+железо в количестве 0,3-1 % от массы цемента в перерасчете на сухое вещество
+(вводится в виде водного раствора);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жидкое стекло
+в количестве 1,5-2,5 % от массы цемента в комбинации с 0,25 %
+сульфитно-дрожжевой бражки (плотность стекла - 1,425 г/см<sup>3</sup>).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+растворов, доставляемая с централизованных предприятий, должна иметь паспорт, в
+котором указывают дату и время приготовления, марку, подвижность.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Контроль
+качества применяемых растворов осуществляется путем освидетельствования их на
+месте производства работ, отбора проб и проведения испытаний.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Количественные
+характеристики качества раствора включают следующие показатели:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- подвижность,
+плотность, расслаиваемость;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- прочность,
+среднюю плотность, водопоглощение;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+морозостойкость.</span><span id=SS></span></p>

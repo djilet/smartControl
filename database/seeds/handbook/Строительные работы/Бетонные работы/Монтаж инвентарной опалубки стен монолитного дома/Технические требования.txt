@@ -1,0 +1,273 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 2.16, 3.7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=170 height=214 src="x032.jpg" v:shapes="_x0000_i1040"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от совмещения
+ориентиров (рисок геометрических осей, граней) в нижнем сечении опалубки с
+установочными ориентирами (рисками геометрических осей или граней, рисками
+разбивочных осей) - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+панели опалубки в верхнем сечении от вертикали - ±8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- люфт шарниров
+опалубки - 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Перепады
+поверхностей на стыках частей опалубки не должны превышать:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+предназначенных под окраску - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+предназначенных под оклейку обоями - 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прогиб
+собранной опалубки вертикальных поверхностей - 1/400 пролета.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальная
+прочность бетона при распалубке загруженных конструкций, в том числе от
+вышележащего бетона, определяется ППР и согласовывается с проектной
+организацией.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На устройство
+опалубки сборно-монолитных конструкций составляется акт освидетельствования
+скрытых работ с инструментальной проверкой отметок и осей.</span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39167/index.htm" title="Опалубка. Термины и определения">ГОСТ Р 52086-2003</a>.
+Опалубка. Термины и определения.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39166/index.htm" title="Опалубка. Общие технические условия">ГОСТ Р 52085-2003</a>.
+Опалубка. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Опалубка
+должна обладать прочностью, жесткостью, неизменяемостью формы и устойчивостью в
+рабочем положении, а также в условиях монтажа и транспортирования.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Для
+деревянной палубы должны применяться пиломатериалы хвойных пород по <a href="../../4/4363/index.htm" title="Пиломатериалы хвойных пород. Технические условия">ГОСТ
+8486-86*Е</a> и листовых пород по <a href="../../4/4340/index.htm" title="Пиломатериалы лиственных пород. Технические условия">ГОСТ 2695-83*</a>
+не ниже </span><span  id=S6B>II</span><span id=S51> сорта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доски опалубки
+должны иметь ширину не более 150 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины, применяемой для палубы, должна быть не более 18 %, для
+поддерживающих элементов - не более 22 %.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы
+опалубки должны плотно прилегать друг к другу при сборке. Щели в стыковых
+соединениях не должны быть более 2 мм. На палубе щитов из фанеры не допускаются
+трещины, заусенцы и местные отклонения глубиной более 2 мм, на палубе из
+древесины - более 3 мм в количестве не более 3 на 1 м<sup>2</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+опалубки необходимо проверить наличие паспорта с инструкцией по монтажу и
+эксплуатации опалубки, проверить геометрические размеры, качество рабочих
+поверхностей, защитной окраски поверхностей, не соприкасающихся с бетоном.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Типы
+опалубок должны применяться в соответствии с <a href="../../39/39166/index.htm" title="Опалубка. Общие технические условия">ГОСТ Р 52085-2003</a>.</span><span id=SS></span></p>
+
+<p class=a><b>Указания по производству работ<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 2.105, 2.109, табл. 10<span id=SI></span></p>
+
+<p class=MsoBodyTextIndent3 id=SXC>Числовые значения отклонений точности установки и
+изготовления инвентарных опалубок приведены в таблице.<span id=SI></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="57%" rowspan=2 id=S8C>
+  <p class=MsoNormal align=center id=S46><b>Интервалы
+  размеров инвентарной опалубки, мм</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="42%" colspan=2 id=S9C>
+  <p class=MsoNormal align=center id=S46><b><span id=S82>Значения отклонения точности, мм</span></b></p>
+  </td>
+ </tr>
+ <tr id=SN5>
+  <td width="23%" valign=top id=SYC>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>изготовления</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SZC>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>установки</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SCC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>50-80</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SDC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,37</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SEC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,85</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>80-120</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,44</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>120-180</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±</span><span id=SIC>0,50</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,25</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>180-250</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,58</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,45</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>230-315</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,65</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,60</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>315-400</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,70</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,80</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>400-500</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,78</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,00</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>500-630</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,88</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>630-800</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,00</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>800-1000</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,15</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,80</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>1000-1250</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,30</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,30</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>1250-1600</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,55</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3,80</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SFC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>1600-2000</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SGC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,85</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SHC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±4,60</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="57%" valign=top id=SJC>
+  <p class=MsoNormal align=center id=SA1><span id=SU>2000-2500</span><span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SKC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,20</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SLC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±5,50</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Точность установки инвентарной опалубки уникальных
+и специальных сооружений должна определяться проектом.<span id=SI></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Установка
+и приемка опалубки, распалубливание монолитных конструкций, очистка и смазка
+производятся по проекту производства работ.</span><span id=SS4></span></p>
+
+<h3><a name="i424643"><span ><b><span id=S42>Монтаж
+инвентарной опалубки перекрытий</span></b></span></a><span ></span><span ></span><b><span id=S75></span></b></h3>

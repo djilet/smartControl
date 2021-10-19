@@ -1,0 +1,130 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 3.7,
+табл. 9, 11,<b> </b>15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=242 height=193 src="x160.jpg" v:shapes="_x0000_i1104"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемая
+влажность:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных,
+оштукатуренных или прошпатлеванных поверхностей - не более 8 %;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+деревянных поверхностей - не более 12 %.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхность
+основания должна быть гладкой, без шероховатостей, местных неровностей высотой
+(глубиной) до 1 мм - не более 2 на площади 4 м<sup>2</sup> поверхности
+покрытий.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоев
+малярного покрытия:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- шпатлевки 0,5
+мм и не более 1,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- окрасочного
+покрытия - не менее 25 Мкм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Искривления
+линий, закраски высококачественной окраски (для других видов) на отдельных
+участках, в местах сопряжения поверхностей, окрашенных в различные цвета, не
+должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для простой
+окраски - 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для
+улучшенной окраски - 2.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Искривление
+линий филенок и закраска поверхностей при применении разных колеров - 1 мм на 1
+м длины.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку
+малярных работ необходимо производить после образования прочной пленки на
+поверхностях:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- окрашенные
+малярными безводными составами должны иметь однотонные глянцевые или матовые
+покрытия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- окрашенные
+лаками должны иметь глянцевые покрытия.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+пятна, морщины, потеки, видимые крупинки краски, сгустки пленки на поверхности,
+следы кисти и валика, неровности, отпечатки высохшей краски на приложенном
+тампоне;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- выполнение
+работ по окраске оснований, имеющих ржавчину, высолы, жировые и битумные пятна;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- просвечивание
+нижележащих слоев краски, отслоения.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../42/42118/index.htm" title="Краски масляные, готовые к применению. Общие технические условия">ГОСТ
+30884-2003</a>. Краски масляные, готовые к употреблению. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../9/9265/index.htm" title="Материалы лакокрасочные. Эмали. Общие технические условия">ГОСТ Р
+51691-2000</a>. Краски масляные, готовые к употреблению. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Материалы
+должны сопровождаться документом о качестве, в котором должно быть указано:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и его товарный знак;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование,
+марка и цвет материала;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- масса нетто;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии
+и дата изготовления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- результаты
+испытаний и подтверждение о соответствии материалов требованиям стандартов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид тары и
+количество единиц упаковок в партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- указания об
+особых свойствах материала (пожаровзрывоопасность, токсичность).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Материалы и
+полуфабрикаты, применяемые для малярных работ, должны проверяться в
+лабораторных условиях на вязкость, адгезию, консистенцию во всех случаях
+сомнения в их качестве (нарушение целостности упаковки, неясная маркировка,
+несоответствие условий хранения требованиям ГОСТ и ТУ). Вязкость окрасочных
+составов должна быть такой, чтобы окрасочный состав наносился на поверхность
+без потеков.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Шпатлевки,
+применяемые для выравнивания и подготовки поверхности под окраску, должны
+представлять собой однородную не расслаивающуюся массу, иметь консистенцию,
+соответствующую 12 см осадки стандартного конуса при механическом и 6-8 см при
+ручном нанесении на обрабатываемую поверхность, обладать свойством прочного
+сцепления с поверхностями оснований (1 кг/см<sup>2</sup> через 24 часа), не
+давать усадку при высыхании и не образовывать трещин.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Масляные
+краски должны храниться в несгораемых отдельных сухих помещениях,
+обеспечиваемых противопожарными средствами, в плотно закрытой таре. Тару
+устанавливать пробками и крышками вверх.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гарантийный
+срок хранения красок - 6 месяцев со дня изготовления.</span><span id=SS></span></p>

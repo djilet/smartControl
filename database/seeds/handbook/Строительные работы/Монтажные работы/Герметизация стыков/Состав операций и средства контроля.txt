@@ -1,0 +1,198 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SKW>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="35%" id=SLW>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SMW>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" id=SNW>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SNG>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SOW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SPW>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=6 valign=top id=SQW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ, акт освидетельствования
+  (приемки) работ, общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве на герметизирующие материалы;</span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- комплектность и качество герметизирующих материалов;</span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие акта освидетельствования (приемки) ранее выполненных работ
+  по сварке и антикоррозионной защите закладных изделий и сварных соединений;</span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество очистки поверхности стыков от пыли, грязи, снега и наледи;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество просушки поверхности стыков.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SUW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=8 valign=top id=SNG>
+  <p class=MsoNormal id=SJ1><span id=SD2>Герметизация стыков</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SOW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SPW>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=8 valign=top id=SQW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Журнал замоноличивания монтажных стыков и узлов, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- укладку уплотняющих прокладок;</span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку и закрепление в соответствии с проектом теплоизоляционных
+  вкладышей;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- устройство растворной постели;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- устройство воздухоизоляции стыков;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- изоляцию стыков мастиками;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- устройство защитного покрытия;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- устройство водоотбойного экрана.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SUW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SVG>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SOW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SPW>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" rowspan=3 valign=top id=SVW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SRW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид стыков;</span></p>
+  </td>
+  <td width="16%" valign=top id=SSW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SWW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество герметизации стыков.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SXW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: металлический щуп с делениями,
+  адгезиметр, линейка измерительная.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе выполнения работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

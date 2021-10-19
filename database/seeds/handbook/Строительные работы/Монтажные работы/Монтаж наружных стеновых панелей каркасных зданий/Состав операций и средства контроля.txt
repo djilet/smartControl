@@ -1,0 +1,170 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="18%" id=SCM>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="28%" id=SDM>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="19%" id=SEM>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="32%" id=SFM>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=7 valign=top id=SGM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SHM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIM>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="32%" rowspan=7 valign=top id=SJM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), ППР, акт освидетельствования скрытых работ
+  (акт приемки), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности, точность геометрических параметров, внешний
+  вид панелей;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие ППР;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие акта освидетельствования (приемки) ранее выполненных скрытых
+  работ;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие разметки, определяющей проектное положение панелей на
+  опорах;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SMM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие в местах установки панелей маяков.</span></p>
+  </td>
+  <td width="19%" valign=top id=SNM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SGM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж стеновых панелей</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SHM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="32%" rowspan=3 valign=top id=SJM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, журнал сварочных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку панелей в проектное положение;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SMM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполнения сварочных работ.</span></p>
+  </td>
+  <td width="19%" valign=top id=SNM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SGM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SHM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SIM>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="32%" rowspan=3 valign=top id=SJM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Исполнительная геодезическая схема, акт освидетельствования (приемки)
+  работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SKM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое положение смонтированных панелей;</span></p>
+  </td>
+  <td width="19%" valign=top id=SLM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=SMM>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполнения сварочных соединений.</span></p>
+  </td>
+  <td width="19%" valign=top id=SNM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: отвес строительный, рулетка,
+  линейка металлическая, нивелир, катетомер.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе выполнения работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

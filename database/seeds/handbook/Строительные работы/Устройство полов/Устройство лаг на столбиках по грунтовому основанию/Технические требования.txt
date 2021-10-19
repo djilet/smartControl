@@ -1,0 +1,121 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 4.29,
+4.31, 4.38, табл. 23<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=250 height=196 src="x142.jpg" v:shapes="_x0000_i1095"></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Все
+лаги, деревянные прокладки, укладываемые столбиком под лаги, Должны быть
+антисептированы.</span><span id=SY3></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Влажность
+материалов лаг и прокладок не должна превышать 18 %.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Длина
+стыкуемых лаг должна быть не менее 2 м;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>толщина - 40-50
+мм;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>ширина -
+100-120 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Деревянные
+прокладки, укладываемые по столбикам под лаги, должны быть следующих размеров:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширина-
+100-150 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длина -
+200-250 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщина не
+менее 25 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между осями лаг должно быть 0,4-0,5 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между опорами для лаг:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при толщине
+лаг 40 мм - 0,8-0,9м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при толщине
+лаг 50 мм - 1,0-1,1м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При больших
+эксплуатационных нагрузках на пол (более 500 кг/м<sup>2</sup>) расстояние между
+опорами для лаг, между лагами и их толщину следует принимать по проекту
+(расчету).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Под лаги,
+располагаемые на столбиках в полах на грунте, должны быть уложены деревянные
+прокладки по двум слоям толя, края которого следует выпустить из-под прокладок
+на 30-40 мм и закрепить к ним гвоздями. Стыки лаг должны располагаться на
+столбиках.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Между лагами и
+стенами (перегородками) необходимо оставлять зазор шириной 20-30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../4/4363/index.htm" title="Пиломатериалы хвойных пород. Технические условия">ГОСТ
+8486-86*Е</a>. Пиломатериалы хвойных пород. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3447/index.htm" title="Детали и изделия деревянные для малоэтажных жилых и общественных зданий. Технические условия">ГОСТ
+11047-90</a></span><span id=S74>. Детали и изделия деревянные для малоэтажных жилых зданий и
+общественных зданий. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3518/index.htm" title="Кирпич и камни керамические. Технические условия">ГОСТ
+530-95</a></span><span id=S74>. Кирпич и камни керамические.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для лаг и
+прокладок применяют нестроганные доски второго и третьего сорта из здоровой
+древесины хвойных и мягких лиственных пород, за исключением липы и тополя,
+доски могут иметь тупой обзол без коры.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>На приемке элементов пола
+следует проверить:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- внешний вид
+лаг и прокладок, их размеры;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие
+антисептирования лаг и прокладок;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие
+паспорта (сертификата) на каждую партию деталей, в котором должно быть указано:
+наименование предприятия-изготовителя; наименование деталей; размеры;
+количество в м<sup>3</sup> и шт.; порода древесины; обозначение
+соответствующего стандарта (ГОСТ).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Лаги и прокладки следует
+хранить:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в сухих
+закрытых помещениях, уложенными в штабеля по типам и размерам;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- под штабелями
+и между рядами деталей или пачек в 2-3 местах по их длине должны быть уложены
+деревянные прокладки одинаковой толщины.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Кирпич
+для устройства столбиков применяют полнотелый размерами 250</span><span id=SK41><span id=ST1>&acute;</span></span><span id=SX3>120</span><span id=SHA1><span id=SR1>&acute;</span></span><span id=SX3>65 мм или 250</span><span id=SIA1><span id=ST1>&acute;</span></span><span id=SX3>120</span><span id=SHA1><span id=SR1>&acute;</span></span><span id=SX3>88 мм;</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+размеров и показателей внешнего вида не должны превышать следующие значения:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - ±5
+мм; ширине - ±4 мм; толщине - ±3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по отбитости
+углов: глубина до 15 мм, не более 2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины по
+постели длиной до 30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предприятие-изготовитель
+обязано сопровождать партию кирпича документом, удостоверяющим качество. Кирпич
+должен храниться на поддонах или в контейнерах раздельно по маркам и видам.</span><span id=SS></span></p>

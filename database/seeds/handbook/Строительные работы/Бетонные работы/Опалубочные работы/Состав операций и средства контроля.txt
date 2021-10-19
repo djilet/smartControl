@@ -1,0 +1,174 @@
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SPB>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="41%" id=SQB>
+  <p class=MsoHeading7 id=SRB><span id=SSB>Контролируемые операции</span></p>
+  </td>
+  <td width="17%" id=STB>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" id=SUB>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SVB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SWB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SXB>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SYB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорт (сертификат), общий журнал работ (журнал бетонных работ)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на опалубку;</span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие ППР на установку и приемку опалубки;</span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество подготовки и отметки несущего основания;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S1C>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие и состояние крепежных элементов, средств подмащивания.</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S2C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SVB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Сборка опалубки</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SWB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SXB>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SYB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ (журнал бетонных работ)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение порядка сборки щитов опалубки, установки крепежных
+  элементов, средств подмащивания, закладных элементов;</span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность сопряжения щитов опалубки между собой и с ранее уложенным
+  бетоном;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, всех элементов</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение геометрических размеров и проектных наклонов плоскостей
+  опалубки;</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S1C>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления щитов опалубки.</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S2C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=S3C>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка опалубки</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SWB>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SXB>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=4 valign=top id=S4C>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ (журнал бетонных работ)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие геометрических размеров опалубки проектным;</span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, всех элементов</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=SZB>
+  <p class=MsoNormal id=SJ1><span id=SD2>- положение опалубки относительно разбивочных осей в плане и по
+  вертикали, в т.ч. обозначение проектных отметок верха бетонируемой
+  конструкции внутри поверхности опалубки;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S0C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S5C>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки и надежность крепления пробок и закладных
+  деталей, а также всей системы в целом.</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S6C>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка, отвес строительный,
+  нивелир, теодолит, линейка металлическая.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе выполнения</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SY2>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

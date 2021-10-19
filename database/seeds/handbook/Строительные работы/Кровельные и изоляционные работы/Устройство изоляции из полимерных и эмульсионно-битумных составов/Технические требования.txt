@@ -1,0 +1,121 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 3,
+7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=242 height=176 src="x110.jpg" v:shapes="_x0000_i1079"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемая влажность
+оснований не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных – 5 %.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Толщина
+одного слоя изоляции:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- эмульсий - 3
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- полимерных
+составов (типа «Кровлелит» и «Вента») - 1 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+готовой кровли необходимо проверять:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- соответствие
+проекту числа усилительных (дополнительных) слоев в сопряжениях (примыканиях);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- чаши
+водоприемной воронки внутренних водостоков не должны выступать над
+поверхностью;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- углы
+конструкций примыканий должны быть сглаженными и ровными, не иметь острых
+углов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- полный отвод
+воды по всей поверхности кровли, без застоя воды.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+пузыри, вздутия, разрывы, губчатое строение, потеки и наплывы на поверхности
+покрытия кровель;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- замена
+предусмотренных проектом материалов, составов без согласования с проектной
+организацией и заказчиком.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3678/index.htm" title="Мастика битумно-резиновая изоляционная. Технические условия">ГОСТ
+15836-79</a>. Мастика битумно-резиновая изоляционная. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>ТУ 21-27-39-77.
+Мастика «Вента».</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>ТУ 21-27-76-85.
+Битумно-полимерная мастика «Кровлелит».</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../7/7872/index.htm" title="Мастики кровельные и гидроизоляционные. Общие технические условия">ГОСТ
+30693-2000</a>. Мастики кровельные и гидроизоляционные.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Классификация
+и общие технические требования.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика
+битумно-резиновая должна быть упакована в бочки или бумажные мешки с внутренним
+покрытием от прилипания. На каждое упаковочное место должна быть приклеена
+этикетка, в которой указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и его адрес;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии
+и дата изготовления мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика,
+изготовленная в непосредственной близости от объекта строительства, может
+доставляться к месту производства изоляционных работ в разогретом виде в автогудронаторах.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика
+«Кровлелит» должна быть упакована в металлическую тару (основной компонент), а
+вулканизирующий компонент - в полиэтиленовую. Перед нанесением компоненты
+необходимо тщательно перемешивать.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика «Вента»
+поставляется в виде двух составов. Транспортируются и хранятся в металлических
+бочках и флягах. Хранение их должно осуществляться раздельно в помещениях, на
+расстоянии не ближе 2 м от теплоизлучающих приборов.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Срок хранения
+не должен превышать 2 месяца.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В документе о
+качестве материалов должно быть указано:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и его адрес;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата
+изготовления мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- результаты
+испытаний;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+соответствующего стандарта.</span><span id=SS></span></p>

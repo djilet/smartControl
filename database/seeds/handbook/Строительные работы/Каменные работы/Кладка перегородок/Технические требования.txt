@@ -1,0 +1,353 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 7.4, 7.6, 7.29, 7.90, табл. 34<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=248 height=180 src="x046.jpg" v:shapes="_x0000_i1047"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+конструкции - ±15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины
+простенков - -15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины
+проемов - ±15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещения осей
+конструкции от разбивочных осей - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхностей
+кладки от вертикали: на один этаж - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- рядов кладки
+от горизонтали на 10 м длины стены - 15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неровности на
+вертикальной поверхности кладки при наложении 1-метровой рейки - 10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина швов армированной
+кладки - не более 16 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина швов
+кладки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных - 12 мм; предельное отклонение - -2; +3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вертикальных
+- 10 мм; предельное отклонение - ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+ослабление конструкций бороздами, отверстиями, нишами, не предусмотренными
+проектом.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3518/index.htm" title="Кирпич и камни керамические. Технические условия">ГОСТ
+530-95</a></span><span id=S74>. Кирпич и камни керамические. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3522/index.htm" title="Кирпич и камни керамические лицевые. Технические условия">ГОСТ
+7484-78</a></span><span id=S74>. Кирпич и камни керамические лицевые. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3517/index.htm" title="Кирпич и камни силикатные. Технические условия">ГОСТ
+379-95</a></span><span id=S74>. Кирпич и камни силикатные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5762/index.htm" title="Растворы строительные. Общие технические условия">ГОСТ
+28013-98</a></span><span id=S74>. Растворы строительные. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Кирпич и камни керамические</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="43%" rowspan=2 id=SPF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Вид изделий</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" colspan=3 id=SQF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Геометрические размеры, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="27%" colspan=3 id=SRF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Отклонения от размеров, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="7%" valign=top id=SSF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>длина</span></b><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=STF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>ширина</span></b><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SUF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>толщина</span></b><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=SVF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>длина</span></b><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SWF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>ширина</span></b><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SXF>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>толщина</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=SYF>
+  <p class=MsoNormal id=SJ1><span id=SD2>Кирпич одинарный</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=SZF>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S0G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>120</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S1G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>65</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S2G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S3G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S4G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=S5G>
+  <p class=MsoNormal id=SJ1><span id=SD2>Кирпич утолщенный</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S7G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>120</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S8G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>88</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S9G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SAG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SBG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=S5G>
+  <p class=MsoNormal id=SJ1><span id=SD2>Кирпич модульных размеров</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>288</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S7G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>138</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S8G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>63</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S9G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SAG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SBG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=S5G>
+  <p class=MsoNormal id=SJ1><span id=SD2>Камень</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S7G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>120</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S8G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>138</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S9G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SAG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SBG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=S5G>
+  <p class=MsoNormal id=SJ1><span id=SD2>Камень модульных размеров</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>288</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S7G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>138</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S8G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>138</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S9G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SAG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SBG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=S5G>
+  <p class=MsoNormal id=SJ1><span id=SD2>Камень укрупненный</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S7G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=S8G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>138</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S9G>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SAG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>+4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SBG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=SCG>
+  <p class=MsoNormal id=SJ1><span id=SD2>Камни с горизонтальным расположением пустот</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=SDG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SEG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>250</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SFG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>120</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=SGG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SHG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SIG>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Непрямолинейность ребер и граней кирпича и камня,
+мм, не более:<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по постели -
+3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ложку - 4.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Отбитости
+углов и ребер глубиной от 10 до 15 мм - не более 2 шт.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трещины
+протяженностью по постели полнотелого кирпича - до 30 мм, пустотелых изделий не
+более чем до первого ряда пустот (на кирпиче - на всю толщину, на камнях - 1/2
+ложковой или тычковой граней) - не более 1 шт.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общее
+количество кирпича и камней в партии, не отвечающих вышеприведенным
+требованиям, не должно превышать 5 %. Количество половняка в партии не должно
+быть более 5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Кирпич и камни керамические
+лицевые</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21>Кирпич
+и камни по форме, размерам и расположению пустот в изделиях должны отвечать
+требованиям </span><span id=S11><a href="../../3/3518/index.htm" title="Кирпич и камни керамические. Технические условия">ГОСТ 530-95</a></span><span id=S21>.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Отклонения
+от размеров, мм, не более:</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±4;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
++3, -2.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Непрямолинейность
+лицевых поверхностей и ребер, мм, не более: по ложку - 3; по тычку - 2.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отбитость или
+притупленность углов и ребер длиной от 5 до 15 мм - не более 1 шт.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общее
+количество кирпича и камней в партии, не отвечающих вышеприведенным
+требованиям, включая парный половняк, не должно превышать 5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На
+глазурованной поверхности кирпича не допускается более 3 шт. мушек (темных
+точек) диаметром более 3 мм (на поверхности камня - не более 6 шт.).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Кирпич и камни силикатные</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отбитости углов
+и ребер глубиной от 10 до 15 мм - 1 шт. (для лицевых) - 3 шт. (для рядовых).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Недогас
+(дефекты от недогашенной смеси) не допускается.</span><span id=S2></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Трещины
+в рядовом кирпиче и камнях, пересекающие два смежных ребра одной ложковой грани
+и протяженностью до 40 мм по постелям, в количестве более одной на изделии не
+допускаются. Количество изделий с указанными трещинами в партии не должно быть
+более 10 %. Количество половняка в партии лицевых изделий не должно быть более
+2 %, а рядовых – 3 %.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общее
+количество кирпича и камней с недопустимыми по количеству и размерам
+отбитостями в партии не должно быть более 5 %.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Растворы строительные</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Подвижность
+растворной смеси:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при подаче
+растворонасосом - 14 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для кладки из
+обыкновенного кирпича - 9-13 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для кладки из
+пустотелого кирпича или керамических камней - 7-8 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Величина зерен
+песка в кладочных растворах должна быть не более 2,5 мм и не более 10 % по
+массе.</span><span id=SS></span></p>

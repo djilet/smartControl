@@ -1,0 +1,167 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="17%" id=SZ8>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="41%" id=S09>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="17%" id=S19>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="23%" id=S29>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="17%" rowspan=5 valign=top id=S39>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=S49>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S59>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=5 valign=top id=S69>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта на плиты и блоки, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности и внешнего вида блоков, точность их
+  геометрических размеров;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- перенос основных осей фундаментов на обноску;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S99>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку фундаментных блоков к монтажу, в том числе очистку
+  опорных поверхностей от загрязнений и наледи.</span></p>
+  </td>
+  <td width="17%" valign=top id=SA9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="17%" rowspan=4 valign=top id=S39>
+  <p class=MsoNormal id=SJ1><span id=SD2>Установка фундаментных блоков</span><span id=SI></span></p>
+  </td>
+  <td width="41%" valign=top id=S49>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S59>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=S69>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку фундаментных блоков, соответствие их положения в плане и
+  по высоте требованиям проекта;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность примыкания подошвы фундаментных блоков к поверхности
+  основания;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S99>
+  <p class=MsoNormal id=SJ1><span id=SD2>- заполнение швов цементным раствором согласно требованиям проекта.</span></p>
+  </td>
+  <td width="17%" valign=top id=SA9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="17%" rowspan=4 valign=top id=S39>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=S49>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S59>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=S69>
+  <p class=MsoNormal id=SJ1><span id=SD2>Исполнительная геодезическая схема, акт приемки работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение от вертикали плоскостей блоков стен;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S79>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение осей фундаментных блоков относительно разбивочных осей;</span></p>
+  </td>
+  <td width="17%" valign=top id=S89>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="41%" valign=top id=S99>
+  <p class=MsoNormal id=SJ1><span id=SD2>- заполнение швов между блоками раствором.</span></p>
+  </td>
+  <td width="17%" valign=top id=SA9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, рулетка, линейка
+  металлическая, отвес, правило.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе выполнения работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работник службы качества, мастер
+  (прораб), представитель технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

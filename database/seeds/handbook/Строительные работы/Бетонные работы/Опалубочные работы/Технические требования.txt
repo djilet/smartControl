@@ -1,0 +1,81 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 2.110, табл. 10<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=239 height=185 src="x030.jpg" v:shapes="_x0000_i1039"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прогиб
+собранной опалубки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вертикальных
+поверхностей - 1/400 пролета;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+перекрытий - 1/500 пролета.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальная
+прочность бетона, незагруженных монолитных конструкций при распалубке
+поверхностей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вертикальных
+из условия сохранения формы - 0,2-0,3 МПа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных и наклонных при пролете:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 6 м – 70 %
+проектной;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 6 м – 80
+% проектной.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальная
+прочность бетона при распалубке загруженных конструкций, в том числе от
+вышележащего бетона, определяется ППР и согласовывается с проектной
+организацией.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На устройство
+опалубки сборно-монолитных конструкций составляется акт освидетельствования
+скрытых работ с инструментальной проверкой отметок и осей.</span><span id=SS></span></p>
+
+<h3><a name="i408870"><span ><b><span id=S42>Монтаж
+инвентарной опалубки стен монолитного дома</span></b></span></a><span ></span><span ></span><b><span id=S75></span></b></h3>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39167/index.htm" title="Опалубка. Термины и определения">ГОСТ Р 52086-2003</a>.
+Опалубка. Термины и определения.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39166/index.htm" title="Опалубка. Общие технические условия">ГОСТ Р 52085-2003</a>.
+Опалубка. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Опалубка должна
+обладать прочностью, жесткостью, неизменяемостью формы и устойчивостью в рабочем
+положении, а также в условиях монтажа и транспортирования.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Для
+деревянной палубы должны применяться пиломатериалы хвойных пород по <a href="../../4/4363/index.htm" title="Пиломатериалы хвойных пород. Технические условия">ГОСТ
+8486-86*Е</a> и листовых пород по <a href="../../4/4340/index.htm" title="Пиломатериалы лиственных пород. Технические условия">ГОСТ 2695-83*</a>
+не ниже </span><span  id=S6B>II</span><span id=S51> сорта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доски опалубки
+должны иметь ширину не более 150 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины, применяемой для палубы, должна быть не более 18 %, для
+поддерживающих элементов - не более 22 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы
+опалубки должны плотно прилегать друг к другу при сборке. Щели в стыковых
+соединениях не должны быть более 2 мм. На палубе щитов из фанеры не допускаются
+трещины, заусенцы и местные отклонения глубиной более 2 мм, на палубе из
+древесины - более 3 мм в количестве не более 3 на 1 м<sup>2</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+опалубки необходимо проверить наличие паспорта с инструкцией по монтажу и
+эксплуатации опалубки, проверить геометрические размеры, качество рабочих
+поверхностей, защитной окраски поверхностей, не соприкасающихся с бетоном.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Типы
+опалубок должны применяться в соответствии с <a href="../../39/39166/index.htm" title="Опалубка. Общие технические условия">ГОСТ Р 52085-2003</a>.</span><span id=SS></span></p>

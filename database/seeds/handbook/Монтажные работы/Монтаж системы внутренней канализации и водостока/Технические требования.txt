@@ -1,0 +1,187 @@
+<p class=a><b>Технические требования</b><br>
+<a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3.4, 3.6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=231 height=168 src="x220.jpg" v:shapes="_x0000_i1134"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+канализационные стояки не должны отклоняться от вертикали более чем на 2 мм на
+1 м длинны;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- высота
+подъема канализационного стояка выше кровли здания не менее 0,7 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояния
+между средствами крепления:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+горизонтальной прокладке труб - не более 2 м;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для стояков -
+одно крепление на этаж, но не более 3 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средства
+крепления следует располагать под раструбами.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальные
+уклоны отводов канализации:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от унитазов -
+1,2 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от писсуаров,
+ванн, умывальников, раковин - 2,5 %.</span></p>
+
+<p class=MsoNormal id=SKD><span id=SB>Высота
+установки санитарных приборов от пола, мм.</span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="53%" id=SIW1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="29%" id=SJW1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>В жилых, общественных и производственных
+  зданиях</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" id=SKW1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>В школах, детских садах и яслях</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SLW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Умывальники (до верха борта)</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=SMW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>800</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SNW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>700 (в детских садах 600)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Раковины и мойки (до верха борта)</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>850</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>850</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Высокорасполагаемые смывные бачки к унитазам (до низа бачка)</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1800</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1800</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Писсуары настенные (до борта)</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>650</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>450</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Унитазы (до верха борта)</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>400 (в детских садах 300)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Ванны (до борта)</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600-650</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Питьевые фонтанчики (до борта)</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>900</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>750 (в детских садах 650)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Полотенцесушители:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>до низа не менее</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>до верха не более</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SPW1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1700</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQW1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SRW1>
+  <p class=MsoNormal id=SJ1><span id=SD2>В детских яслях и садах в помещениях для детей младшего возраста
+  расстояние от пола до борта умывальника принимается 0,5 м</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SSW1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=STW1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расположение
+средств крепления в местах соединения труб;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- заделка креплений
+с помощью деревянных пробок.</span><span id=SS></span></p>

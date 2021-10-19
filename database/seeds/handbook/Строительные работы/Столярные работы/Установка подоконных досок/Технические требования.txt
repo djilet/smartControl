@@ -1,0 +1,12 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 5.5<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=250 height=183 src="x116.jpg" v:shapes="_x0000_i1082"></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Верхняя
+поверхность подоконных досок должна иметь уклон внутрь помещения не менее 1 %.</span><span id=SY3></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>В
+пределах одного помещения подоконные доски должны быть установлены на одном
+уровне.</span><span id=SY3></span></p>

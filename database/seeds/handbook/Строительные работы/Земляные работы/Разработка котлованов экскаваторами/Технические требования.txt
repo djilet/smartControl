@@ -1,0 +1,142 @@
+</span></b><span class=MsoHyperlink><span id=S62><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты">СНиП
+3.02.01-87</a></span></span><span id=S62> пп. 1.11, 3.1, 3.2, 3.6, табл. 4.<b></b></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размеры
+котлованов по дну в натуре должны быть не менее установленных проектом.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальная
+ширина котлованов должна быть не менее ширины конструкции +0,2 м с каждой
+стороны, при необходимости передвижения людей в пазухе - не менее 0,6 м.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Котлованы
+следует разрабатывать, как правило, до проектной отметки с сохранением
+природного сложения грунтов основания.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+отметок дна котлованов в местах устройства фундаментов и укладки конструкций:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+окончательной разработке не должны превышать ±5 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при черновой
+разработке не должны превышать данные, приведенные в таблице.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=220 height=282 src="x006.jpg" v:shapes="_x0000_i1027"></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="69%" id=SU4>
+  <p class=MsoHeading9><span id=SV4>Вид
+  механизма для разработки грунта</span></p>
+  </td>
+  <td width="17%" id=SW4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Предельные отклонения, см</span></b><span id=SH></span></p>
+  </td>
+  <td width="12%" id=SX4>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Число измерений</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=SY4>
+  <p class=MsoNormal id=SJ1><span id=SD2>1)<b> </b>одноковшовыми экскаваторами, оснащенными</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SZ4>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=S05>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SJ1><span id=SD2>ковшами с зубьями:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SJ1><span id=SD2>а) с механическим приводом по видам оборудования:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SD3><span id=S82>- драглайн;</span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+25</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SD3><span id=S82>- прямая лопата;</span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+10</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SD3><span id=S82>- обратная лопата;</span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+15</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S15>
+  <p class=MsoNormal id=SJ1><span id=SD2>б) с гидравлическим приводом;</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S25>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+10</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S35>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="69%" valign=top id=S45>
+  <p class=MsoNormal id=SJ1><span id=SD2>2) Одноковшовыми экскаваторами, оснащенными планировочными ковшами,
+  зачистным оборудованием и др. специальным оборудованием для планировочных
+  работ, экскаваторами-планировщиками.</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S55>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S65>
+  <p class=MsoNormal align=center id=SA1><span id=SU>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>На устройство оснований под конструкции следует
+составлять акт освидетельствования скрытых работ.<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+размыв, размягчение, разрыхление или промерзание верхнего слоя грунта основания
+толщиной более 3 см.</span></p>

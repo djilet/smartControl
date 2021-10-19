@@ -1,0 +1,26 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.46,
+табл. 7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- участков труб
+от вертикали на 1 м - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- водосточные
+трубы на фасаде должны навешиваться строго вертикально, отступать от стены на
+120 мм и прикрепляться к стене через 1200 мм штырями, забитыми в стену на
+глубину 110 мм с ухватами;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- входное
+отверстие отмета должно располагаться не выше 400 мм и не ниже 200 мм над
+уровнем тротуара (отмостки).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обход выступающих
+частей фасада при помощи колен;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- крепление
+водосточных труб проволокой.</span><span id=SS></span></p>
+

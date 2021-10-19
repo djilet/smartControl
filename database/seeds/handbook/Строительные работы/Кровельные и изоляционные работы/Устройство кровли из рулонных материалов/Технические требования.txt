@@ -1,0 +1,144 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 2.16,
+2.17, табл. 3, 7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=236 height=183 src="x106.jpg" v:shapes="_x0000_i1077"></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>При
+наклейке полотнища укладываются внахлестку на 100 мм (70 мм по ширине полотнищ
+нижних слоев кровли крыш с уклоном более 1,5 %).</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность
+сцепления с основанием и между собой кровельного ковра по сплошной мастичной
+клеящей прослойке эмульсионных составов - не менее 0,5 МПа.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемая
+влажность оснований:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных – 5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+мастик, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- горячих
+битумных 2,0 - ±10 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- холодных
+битумных 0,8 - ±10 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура при
+нанесении мастик, °С:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- горячих
+битумных - +160, предельное отклонение - +20;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дегтевых -
++130, предельное отклонение - +10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+готовой кровли необходимо проверять:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- соответствие
+проекту числа усилительных (дополнительных) слоев в сопряжениях (примыканиях);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установку чаш
+водоприемных воронок внутренних водостоков: не должны выступать над
+поверхностью основания;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- конструкции
+примыканий (стяжек и бетона): должны быть сглаженными и ровными, не иметь
+острых углов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отвод воды по
+всей поверхности кровли по наружным или внутренним водостокам: полный, без
+застоя воды.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перекрестная
+наклейка полотнищ;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+наличие пузырей, вздутий, воздушных мешков, разрывов, вмятин, проколов,
+губчатого строения, потеков и наплывов на поверхности покрытия.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3676/index.htm" title="Рубероид. Технические условия">ГОСТ 10923-93*</a>.
+Рубероид. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3673/index.htm" title="Мастика битумная кровельная горячая. Технические условия">ГОСТ
+2889-80</a>. Мастика битумная кровельная горячая. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Рубероид
+выпускается в рулонах шириной 1000, 1025, 1050 мм, допускаемое отклонение по
+ширине - ±5 мм. Общая площадь рулона должна быть: 10,0 ±0,5 м<sup>2</sup>, 15,0
+±0,5 м<sup>2</sup>, 20,0 ± 0,5 м<sup>2</sup>.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Рубероид с
+крупнозернистой и чешуйчатой посыпкой должен иметь с одного края лицевой
+поверхности вдоль всего полотна чистую непосыпанную кромку шириной не менее 70
+и не более 100 мм. Минимальная длина полотна должна быть не менее 3 метров.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Полотно
+рубероида не должно иметь трещины, дыры, разрывы, складки. На кромках полотна
+не допускается более 2 надрывов длиной 15-30 мм. Надрывы до 15 мм не
+нормируются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+рулонных материалов должна сопровождаться документом о качестве, в котором
+указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+и адрес предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер и дата
+выдачи документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+рулонов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+материала;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата
+изготовления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- площадь
+рулона, вес рулона;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- результаты
+испытаний;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+настоящего стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Рубероид
+необходимо хранить рассортированным по маркам в сухом закрытом помещении в
+вертикальном положении не более чем в два ряда по высоте. Гарантийный срок
+хранения- 12 месяцев.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастики
+битумные кровельные горячие в зависимости от теплостойкости подразделяют на
+марки: МБК-Г-55, МБК-Г-65, МБК-Г-75, МБК-Г-85, МБК-100.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По внешнему
+виду мастика должна быть однородной, без посторонних включений и частиц
+наполнителя, не покрытых битумом.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика должна
+прочно склеивать рулонные материалы.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка и
+поставка мастики осуществляется партиями в бочках стальных или деревянных.
+Каждая партия мастики должна сопровождаться документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика должна
+храниться раздельно по маркам в закрытом помещении, гарантийный срок хранения -
+один год со дня изготовления. По истечении срока мастика должна быть проверена
+на соответствие стандарту.</span><span id=SS></span></p>

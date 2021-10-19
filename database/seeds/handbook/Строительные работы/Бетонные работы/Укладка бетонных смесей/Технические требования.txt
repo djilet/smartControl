@@ -1,0 +1,109 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 2.8, 2.10-2.14, табл. 2<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=223 height=169 src="x038.jpg" v:shapes="_x0000_i1043"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+свободного сбрасывания бетонной смеси в опалубку конструкции, м, не более:</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- колонн - 5,0
+м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перекрытий -
+1,0 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стен - 4,5 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+неармированных конструкций - 6,0 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Верхний уровень
+уложенной бетонной смеси должен быть на 50-70 мм ниже верха щитов опалубки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина
+укладываемых слоев бетонной смеси:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+уплотнении смеси тяжелыми подвесными вертикально расположенными вибраторами -
+на 5-10 см меньше длины рабочей части вибратора;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при уплотнении
+смеси подвесными вибраторами, расположенными под углом к вертикали (до 30°) -
+не более вертикальной проекции длины рабочей части вибратора;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+уплотнении смеси ручными глубинными вибраторами - не более 1,25 длины рабочей
+части вибратора;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+уплотнении смеси поверхностными вибраторами в конструкциях:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+неармированных - 70 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- с одиночной
+арматурой - 25 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- с двойной
+арматурой - 12 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a></span><span id=S21>. Смеси
+бетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Каждая
+партия бетонной смеси, отправляемая потребителю, должна иметь документ о
+качестве, в котором должны быть указаны:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- изготовитель,
+дата и время отправки бетонной смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид бетонной
+смеси и ее условное обозначение;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер состава
+бетонной смеси, класс или марка бетона по прочности на сжатие в проектном
+возрасте;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же по
+прочности на растяжение при изгибе;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- коэффициент
+вариаций прочности бетона, требуемая прочность бетона;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид и объем доставок;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наибольшая
+крупность заполнителя, удобоукладываемость бетонной смеси у места укладки;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер
+сопроводительного документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- гарантии
+изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- другие
+показатели (при необходимости).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Результаты
+испытаний контрольных образцов бетона в проектном или другом требуемом возрасте
+изготовитель обязан сообщить потребителю по его требованию не позднее чем через
+3 сут. после проведения испытаний.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При входном
+контроле бетонной смеси на строительной площадке необходимо:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проверить
+наличие документа о качестве на бетонную смесь и требуемых в нем данных;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- путем
+внешнего осмотра убедиться в отсутствии признаков расслоения бетонной смеси, в
+наличии в бетонной смеси требуемых фракций крупного заполнителя, в соответствии
+требуемой ее пластичности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при возникновении
+сомнений в качестве бетонной смеси потребовать контрольной проверки ее
+соответствия требованиям государственного стандарта и проекта.</span><span id=SS></span></p>

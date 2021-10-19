@@ -1,0 +1,200 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> п. 3.15, табл. 3<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=242 height=199 src="x226.jpg" v:shapes="_x0000_i1137"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- высоты
+установки санитарных приборов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для отдельно
+стоящих - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для группы
+однотипных - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Санитарные
+приборы должны быть установлены по отвесу и уровню.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Высота установки
+санитарных приборов от уровня чистого пола должна соответствовать размерам,
+указанным в таблице.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="4%" rowspan=2 id=SWX1>
+  <p class=MsoNormal align=center id=S46><b>№ пп</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="47%" rowspan=2 id=SXX1>
+  <p class=MsoNormal align=center id=S46><b>Санитарные
+  приборы</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="47%" colspan=2 id=SYX1>
+  <p class=MsoNormal align=center id=S46><b>Высота установки
+  от уровня чистого пола, мм</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" id=SZX1>
+  <p class=MsoNormal align=center id=S46><b>в жилых,
+  общественных и промышленных зданиях</b><b><span id=SI></span></b></p>
+  </td>
+  <td width="9%" id=S0Y1>
+  <p class=MsoNormal align=center id=S46><b>в школах</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S1Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=S2Y1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Умывальники (до верха борта)</span><span id=SI></span></p>
+  </td>
+  <td width="38%" valign=top id=S3Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>800</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S4Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>700</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S5Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=S6Y1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Раковины, мойки (до верха борта)</span><span id=SI></span></p>
+  </td>
+  <td width="38%" valign=top id=S7Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>850</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S8Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>850</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S5Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=S6Y1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Высокорасполагаемые смывные бачки к унитазам (до низа бачка)</span><span id=SH></span></p>
+  </td>
+  <td width="38%" valign=top id=S7Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1800</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S8Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1800</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S5Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=S6Y1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Писсуары настенные (до борта)</span><span id=SI></span></p>
+  </td>
+  <td width="38%" valign=top id=S7Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>650</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S8Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>450</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S5Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=S6Y1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Смывные трубы к лотковым писсуарам (от дна лотка до оси трубы)</span><span id=SH></span></p>
+  </td>
+  <td width="38%" valign=top id=S7Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1500</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S8Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1500</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="4%" valign=top id=S9Y1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span><span id=SI></span></p>
+  </td>
+  <td width="47%" valign=top id=SAY1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Питьевые фонтанчики подвесного типа (до борта)</span><span id=SH></span></p>
+  </td>
+  <td width="38%" valign=top id=SBY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>900</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SCY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>750</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3229/index.htm" title="Изделия санитарные керамические. Общие технические условия">ГОСТ
+15167-93*</a></span><span id=S74>. Изделия санитарные керамические. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5178/index.htm" title="Приборы санитарно-технические чугунные эмалированные. Технические условия">ГОСТ
+18297-96</a></span><span id=S74>. Приборы санитарно-технические чугунные эмалированные. Общие
+технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5181/index.htm" title="Изделия санитарные керамические. Типы и основные размеры">ГОСТ
+30493-96</a></span><span id=S74>. Изделия санитарные керамические. Основные типы, размеры.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Писсуары
+керамические настенные (фаянсовые, полуфарфоровые или фарфоровые) предназначены
+для установки в туалетах общественных или промышленных зданий.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Писсуары
+изготавливают трех типов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>1) писсуар с
+цельноотливным керамическим сифоном;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>2) писсуар без
+цельноотливного керамического сифона;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>3) писсуар удлиненный
+с цельноотливным керамическим сифоном.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Писсуары типов
+1 и 3 должны поставляться с установленными в сифонах латунными или
+пластмассовыми пробками, а писсуары типа 2 должны поставляться в комплекте с
+чугунными, пластмассовыми или латунными сифонами.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бачок смывной
+керамический с верхним пуском, с непосредственным присоединением к унитазу
+поставляется в комплекте с поплавковым клапаном, спускной арматурой и резиновой
+прокладкой для установки между бачком и унитазом.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бачок смывной керамический
+с боковым пуском, с непосредственным присоединением к унитазу поставляется
+заводами-изготовителями в комплекте.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Заводы-изготовители
+комплектуют каждый умывальник выпуском, сифоном (двухоборотным или бутылочным)
+и кронштейнами.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Умывальники
+керамические (фаянсовые, полуфарфоровые и фарфоровые) предназначаются для
+установки в жилых, общественных и производственных зданиях.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Полукруглые,
+овальные и прямоугольные умывальники изготовляются пяти величин: первой,
+второй, третьей, четвертой и пятой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Унитазы
+керамические (фаянсовые, полуфарфоровые и фарфоровые) предназначены для
+установки в санитарных узлах зданий различного назначения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Унитазы
+изготовляются тарельчатые, козырьковые, с цельноотливными или приставными
+полочками для присоединения высоко- и низкорасположенных смывных бачков с
+прямыми или косыми (под углом 60°) выпусками.</span><span id=S2></span></p>

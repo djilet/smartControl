@@ -1,0 +1,194 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="21%" id=SEQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="34%" id=SFQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" id=S481>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="24%" id=SGQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=7 valign=top id=SHQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SIQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=S881>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=7 valign=top id=SJQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Сертификат, паспорт; общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- лицевые поверхности лепных изделий соответственно проекту;</span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- защиту деталей (декора от атмосферных воздействий);</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- насечку и очистку поверхности;</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- влажность поверхности штукатурки;</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку мест установки;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный:</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SLQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие заложенной в конструкцию стен арматуры.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SD81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=7 valign=top id=SMQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Установка изделий</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SIQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=S881>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=7 valign=top id=SNQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наклейку изделий или навешивание их, прикрепление деталей;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- заделку и зачистку швов, стыков, мелких дефектов;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отсутствие переломов в местах соединения соседних элементов;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- совпадение плоскостей элементов сомкнутого рельефа;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- горизонтальность и вертикальность лепных деталей;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SLQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- смещение осей отдельно стоящих крупных деталей.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SD81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=3 valign=top id=SHQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SIQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=S881>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="24%" rowspan=3 valign=top id=SJQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SKQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое положение установленных лепных деталей;</span></p>
+  </td>
+  <td width="19%" valign=top id=SB81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SLQ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид элементов.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SD81>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, отвес,
+  линейка, уровень.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

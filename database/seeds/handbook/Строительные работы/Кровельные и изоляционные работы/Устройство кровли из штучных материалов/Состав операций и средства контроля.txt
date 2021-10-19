@@ -1,0 +1,176 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SJ01>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="40%" id=SK01>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="20%" id=SL01>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" id=SM01>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SN01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SO01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SP01>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=4 valign=top id=SQ01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты) общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность устройства обрешетки (расстояние между элементами
+  обрешеток, разбежки стыков обрешетки, сплошность обрешетки в местах покрытия
+  карнизных свесов, разжелобков и ендов);</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр всей площади</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=ST01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вил и качество материалов.</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SU01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, каждый лист</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SN01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство кровли</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SO01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SP01>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=5 valign=top id=SQ01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- размер карнизного свеса;</span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный (5 измерений на 10 м длины свеса)</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величину напуска вышележащего ряда листов на нижележащий;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления листов к обрешетке;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=ST01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение требований проекта по устройству примыканий к выступающим
+  над крышей конструкциям (стенам, трубам, шахтам и т. д.).</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SU01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр, измерительный, каждый
+  элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SV01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SO01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SP01>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=5 valign=top id=SW01>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления листов к обрешетке;</span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение размеров нахлестки вышележащих листов на нижележащие;</span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SR01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отсутствие околов, трещин на поверхности листов, а также просветов
+  при проверке из чердачных помещений;</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SS01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, вся площадь</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SX01>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение требований проекта по устройству примыканий к выступающим
+  над крышей конструкциям;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SY01>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр, каждый конструктивный
+  элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, линейка.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

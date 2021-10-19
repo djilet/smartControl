@@ -1,0 +1,141 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SD51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="31%" id=SE51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" id=SF51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="23%" id=SG51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SH51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SI51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SJ51>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=3 valign=top id=SK51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорт (сертификат), общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SL51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на звукоизоляционные прокладки;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SM51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SN51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку под укладку звукоизоляционных материалов.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SO51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SP51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство звукоизоляции</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SI51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SJ51>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=SQ51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SL51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность раскладки звукоизоляционных прокладок (под лаги или под
+  сборные стяжки);</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SM51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SL51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- точность геометрических параметров звукоизоляционных прокладок;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SM51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее трех измерений на
+  каждые 50-70 м<sup>2</sup> поверхности пола</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SN51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крупность и влажность сыпучего звукоизоляционного материала.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SO51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее трех измерений на
+  каждые 50-70 м<sup>2</sup> засыпки</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SR51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SI51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SJ51>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=3 valign=top id=SS51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SL51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое соблюдение заданных геометрических размеров;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SM51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SL51>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие материалов звукоизоляции проекту.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SM51>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=ST51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка, рулетка, влагомер.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб) - в
+  процессе работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

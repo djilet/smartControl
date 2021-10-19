@@ -1,0 +1,24 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 4.2,
+табл. 20<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=210 height=217 src="x122.jpg" v:shapes="_x0000_i1085"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+основания от горизонтали или заданного уклона 0,2 % от соответствующего размера
+помещения и не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+просветы между контрольной двухметровой рейкой и проверяемой поверхностью
+элемента пола не должны превышать, для:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- грунтовых
+оснований - 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+применение растительного грунта, торфа, ила, а также насыпных грунтов с примесью
+строительного мусора.</span><span id=SY3></span></p>

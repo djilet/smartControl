@@ -1,0 +1,92 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> табл. 12<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=212 height=326 src="x094.jpg" v:shapes="_x0000_i1071"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- от вертикали ствола
+мусоропровода:</span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- на 1 м высоты - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- на всю высоту ствола - 25
+мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Стыки
+стволов мусоропровода должны быть газоводонепроницаемыми.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Приемный
+клапан должен легко, без заеданий, открываться.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступы,
+наплывы, заусенцы на элементах мусоропроводов;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- щели в
+кожухах клапана.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке мусоропровода
+должно быть определено:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- соответствие
+выполненных работ проекту;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- надежность и
+плотность сопряжений элементов ствола и приемных клапанов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- надежность
+крепления элементов мусоропровода;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- легкость и
+бесшумность работы приемных клапанов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- качество
+отделки мусоропровода.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3193/index.htm" title="Трубы и муфты асбестоцементные для безнапорных трубопроводов. Технические условия">ГОСТ
+1839-80*</a>. Трубы и муфты асбестоцементные для безнапорных трубопроводов.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Асбестоцементные
+трубы, применяемые для устройства мусоропроводов, должны быть диаметром 300 мм
+и более, длиной 2950 мм и 3950 мм.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров асбестоцементных труб от номинальных не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по наружному
+диаметру обточенного конца трубы - -3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+трубы - -50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+стенки - +3 мм; -4 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров асбестоцементных муфт от номинальных не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - +5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+внутреннему диаметру и диаметру канавки - +3 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы и муфты
+не должны иметь трещин, обломов и расслоений.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Концы труб и
+внутренняя поверхность муфт должны быть обточены. Трубы должны быть прямыми,
+отклонение от прямолинейности не должно превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для труб
+длиной 2950 мм и 3950 мм - 12 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трубы должны
+поставляться комплектно с муфтами и резиновыми кольцами.</span><span id=SS></span></p>

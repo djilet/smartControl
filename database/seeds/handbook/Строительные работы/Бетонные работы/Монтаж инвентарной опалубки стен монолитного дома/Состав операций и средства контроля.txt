@@ -1,0 +1,171 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="18%" id=SMC>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="43%" id=SNC>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="17%" id=SOC>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="19%" id=SEA>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SPC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="43%" valign=top id=SQC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SRC>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=4 valign=top id=SSC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на опалубку;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие ППР на установку и приемку опалубки;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=SVC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие и состояние крепежных элементов, средств подмащивания.</span></p>
+  </td>
+  <td width="17%" valign=top id=SWC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SPC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Сборка опалубки</span><span id=SH></span></p>
+  </td>
+  <td width="43%" valign=top id=SQC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SRC>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=5 valign=top id=SSC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение порядка сборки щитов опалубки, установки крепежных
+  элементов, средств подмащивания, закладных элементов;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность сопряжения щитов опалубки между собой и с ранее уложенным
+  бетоном;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, всех элементов</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение геометрических размеров и проектных наклонов плоскостей
+  опалубки;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=SVC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления щитов опалубки.</span></p>
+  </td>
+  <td width="17%" valign=top id=SWC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SPC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка опалубки</span><span id=SH></span></p>
+  </td>
+  <td width="43%" valign=top id=SQC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SRC>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="19%" rowspan=4 valign=top id=SSC>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ (журнал бетонных работ)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие геометрических размеров опалубки проектным;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=STC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- положение опалубки относительно разбивочных осей в плане и по
+  вертикали, в т. ч. обозначение проектных отметок верха бетонируемой
+  конструкции внутри поверхности опалубки;</span></p>
+  </td>
+  <td width="17%" valign=top id=SUC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" valign=top id=SVC>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки и надежность крепления пробок и закладных
+  деталей, а также всей системы в целом.</span></p>
+  </td>
+  <td width="17%" valign=top id=SWC>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, теодолит, рулетка,
+  рейка-отвес.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), геодезист, представители заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

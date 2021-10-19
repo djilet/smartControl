@@ -1,0 +1,179 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SFE1>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="42%" id=SGE1>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="16%" id=SHE1>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="22%" id=SIE1>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=7 valign=top id=SJE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="42%" valign=top id=SKE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SLE1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=7 valign=top id=SME1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорт (сертификат), акт приемки ранее выполненных работ, общий
+  журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие паспорта (сертификата) на окрасочные составы и шпатлевки;</span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- акты приемки ранее выполненных работ;</span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- влажность поверхности и выполнение просушки влажных мест;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- температуру в помещении (в зимнее время);</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество обработки (безусадочной шпатлевки) мест примыкания
+  перегородок, дверных блоков, встроенных шкафов и антресолей к стенам и
+  потолкам, а также мест сопряжений конструкций из различных материалов;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SPE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество окрашиваемой поверхности.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SQE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SRE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Малярные работы</span><span id=SH></span></p>
+  </td>
+  <td width="42%" valign=top id=SKE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SLE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=4 valign=top id=SSE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение технологических режимов и последовательности нанесения
+  слоев красок;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- однотонность фактуры;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SPE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность филенок, линий закраски в сопряжениях поверхности,
+  окрашиваемых в разные цвета.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SQE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SRE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="42%" valign=top id=SKE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SLE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SSE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SNE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество окрашенных поверхностей, в т.ч. отсутствие полос, пятен,
+  потеков, морщин, просвечивание нижележащих слоев краски;</span></p>
+  </td>
+  <td width="16%" valign=top id=SOE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="42%" valign=top id=SPE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность филенок и линий закраски в сопряжениях поверхности,
+  окрашиваемых в разные цвета.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SQE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=STE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка, линейка металлическая,
+  влагомер, термометр.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SUE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SVE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

@@ -1,0 +1,142 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="19%" id=SL41>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="29%" id=SM41>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="28%" id=SN41>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="22%" id=SO41>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SP41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SQ41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SR41>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SS41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение очистки основания от мусора, грязи;</span></p>
+  </td>
+  <td width="28%" valign=top id=SU41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- проектную отметку основания;</span></p>
+  </td>
+  <td width="28%" valign=top id=SW41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SP41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство основания</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SQ41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SR41>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=4 valign=top id=SS41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- технологию выполнения; в том числе степень уплотнения основания;</span></p>
+  </td>
+  <td width="28%" valign=top id=SU41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение уклонов и профиля основания проектным;</span></p>
+  </td>
+  <td width="28%" valign=top id=SU41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на
+  каждые 50-70 м<sup>2</sup> поверхности</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- влажность фунта основания.</span></p>
+  </td>
+  <td width="28%" valign=top id=SW41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SP41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка основания</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SQ41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SR41>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SS41>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ (журнал бетонных работ)</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие уклонов и профиля основания проектным;</span></p>
+  </td>
+  <td width="28%" valign=top id=SU41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV41>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности и уплотнения основания.</span></p>
+  </td>
+  <td width="28%" valign=top id=SW41>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: двухметровая рейка, уровень
+  строительный, линейка металлическая, нивелир, плотномер ГРПТ-2, влагомер.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

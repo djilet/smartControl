@@ -1,0 +1,363 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 8.39, 8.42, 8.43, 8.49, <span id=SO9><a href="../../3/3308/index.htm" title="Арматурные и закладные изделия сварные, соединения сварные арматуры и закладных изделий железобетонных конструкций. Общие технические условия">ГОСТ
+10922-90</a></span>, <span id=SO9><a href="../../3/3323/index.htm" title="Соединения сварные арматуры и закладных изделий железобетонных конструкций. Типы, конструкции и размеры">ГОСТ
+14098-91</a></span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины всех
+видов и размеров в швах сварных соединений;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ожоги дуговой
+сваркой на поверхности стержней рабочей арматуры;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обрезка
+концов стержней из конструкций при монтаже или подготовка их кромок
+электродугой;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+вставки между стыкуемыми арматурными стержнями менее 80 мм и более одной.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения несоосности стыкуемых арматурных стержней, смещений и размеров
+элементов сварных соединений приведены в таблице 1 (рис. 1).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=220 height=180 src="x084.jpg" v:shapes="_x0000_i1066"></span></p>
+
+<p class=10 id=SDV><span id=SB9>Рис.
+1</span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="62%" rowspan=2 id=SEV>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Технические требования</span></b><span id=SH></span></p>
+  </td>
+  <td width="37%" colspan=3 id=SFV>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Допускаемые отклонения для свариваемых</span></b><b><span id=SU> стержней диаметром (</span></b><b><span  id=SZ>d</span></b><b><span id=SU>), мм</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SGV>
+  <p class=MsoNormal align=center id=SA1><b><span id=SU>10-28</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="12%" valign=top id=SGV>
+  <p class=MsoNormal align=center id=SA1><b><span id=SU>32-40</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="12%" valign=top id=SHV>
+  <p class=MsoNormal align=center id=SA1><b><span id=SU>45-80</span></b><b><span id=SI></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SIV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Смещение продольных осей стержней относительно друг друга в стыковых
+  соединениях, выполненных различными способами сварки</span><span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=SJV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,2</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SJV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,1</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SOP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,05</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SKV>
+  <p class=MsoNormal id=SJ1><span id=SD2>То же для соединений, выполненных дуговой сваркой швами с накладками
+  из стержней</span><span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,3</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,3</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SMV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SKV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Смещение линии, соединяющей центры сечений круглых накладок,
+  относительно стыкуемых стержней при сварке односторонними швами</span><span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SMV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SKV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение длины круглых накладок </span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SMV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SKV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение длины протяженных швов в стыковых соединениях с круглыми
+  накладками</span><span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SMV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SKV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение длины нахлестки при сварке стержней</span><span id=SH></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SLV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SMV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="62%" valign=top id=SNV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Уменьшение ширины протяженных швов</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SOV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,1</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=SOV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,1</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=STP>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Допускаемые
+количество и размеры наружных дефектов в сварных соединениях, выполненных
+дуговой, ванной и ванно-шовной сваркой, приведены в таблице 2 (рис. 2).</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=230 height=183 src="x086.jpg" v:shapes="_x0000_i1067"></span></p>
+
+<p class=MsoNormal align=center id=S1>Рис. 2</p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=SN5>
+  <td width="72%" rowspan=3 id=SPV>
+  <p class=MsoNormal align=center id=S46><b>Технические
+  требования</b></p>
+  </td>
+  <td width="27%" colspan=3 rowspan=2 id=SQV>
+  <p class=MsoNormal align=center id=S46><b>Допуски для
+  стержней диаметром (</b><b><span  >d</span>),
+  мм</b><b><span id=SH></span></b></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=SN5>
+  <![if !supportMisalignedRows]>
+  <td id=SQ5 width=0 height=19></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="6%" valign=top id=SRV>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>10-28</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="6%" valign=top id=SRV>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>32-40</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="15%" valign=top id=SSV>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>45-80</span></b><b><span id=SI></span></b></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=STV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Количество единичных сферических пор диаметром до 2 мм в стыковых
+  соединениях, выполненных дуговой сваркой протяженными швами, на длине шва 100
+  мм</span><span id=SH></span></p>
+  </td>
+  <td width="6%" valign=top id=SUV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SUV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SVV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>9 шт.</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SWV>
+  <p class=MsoNormal id=SJ1><span id=SD2>То же при других способах дуговой сварки</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>9 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SYV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>12 шт.</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SWV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Количество цепочек и скоплений сферических пор диаметром до 2 мм на
+  длине до 50 мм в соединениях, выполненных дуговой сваркой</span><span id=SH></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SYV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4 шт.</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SWV>
+  <p class=MsoNormal id=SJ1><span id=SD2>То же при других способах дуговой сварки</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SYV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2 шт.</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SWV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Глубина усадочных раковин наплавленного металла при стыковой ванной и
+  ванно-шовной сварке</span><span id=SH></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2 мм</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3 мм</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SYV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5 мм</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SWV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Глубина непровара венчика наплавленного металла с цилиндрической
+  поверхностью стержня при дуговой сварке</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1 мм</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=SXV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1 мм</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SYV>
+  <p class=MsoNormal align=center id=SA1><span id=S82>отсутствуют</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SZV>
+  <p class=MsoNormal id=SJ1><span id=SD2>Наплывы на сварном соединении</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=S0W>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5 мм</span><span id=SI></span></p>
+  </td>
+  <td width="6%" valign=top id=S0W>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7 мм</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=S1W>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10 мм</span><span id=SI></span></p>
+  </td>
+  <![if !supportMisalignedRows]>
+  <td id=SC5 width=0 height=2></td>
+  <![endif]>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3996/index.htm" title="Электроды покрытые металлические для ручной дуговой сварки сталей и наплавки. Классификация и общие технические условия">ГОСТ
+9466-75*</a>. Электроды покрытые металлические для ручной дуговой сварки сталей
+и наплавки. Классификация и общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Покрытие
+электродов должно быть плотным, прочным, без вздутий, пор, наплывов, трещин и
+местных сетчатых растрескиваний.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>На
+отдельных электродах, суммарное количество которых не должно превышать 10 %
+общего числа контролируемых электродов, допускается:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отклонение
+длины зачищенного от покрытия конца от номинального значения - до ±7 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие на
+покрытии каждого электрода не более двух поперечных надрывов размером не более
+половины длины окружности покрытия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Электроды
+должны быть упакованы в коробки или пачки, на которых должна иметься этикетка
+или маркировка, содержащая наряду с другими данные по режимам сварочного тока,
+прокаливания электродов. Каждая партия электродов должна сопровождаться
+сертификатом. При его отсутствии или истечении гарантийного срока хранения
+необходимо определять механические свойства стыков сварных соединений,
+выполненных с применением этих электродов.</span><span id=SS></span></p>

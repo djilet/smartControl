@@ -1,0 +1,186 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SYW>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="38%" id=SZW>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="16%" id=S0X>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="25%" id=S1X>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=S2X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="38%" valign=top id=S3X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S4X>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=6 valign=top id=S5X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта, акт освидетельствования скрытых работ, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве на бетонную смесь и строительный
+  раствор;</span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие акта приемки (освидетельствования) на ранее выполненные
+  работы;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку полостей стыков и швов от мусора, грязи, снега, наледи;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки и закрепления опалубки;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S8X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие в полном объеме оборудования и приспособлений для
+  производства работ, их исправность.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S9X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=S2X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Замоноличивание стыков и швов</span><span id=SI></span></p>
+  </td>
+  <td width="38%" valign=top id=S3X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S4X>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=6 valign=top id=S5X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие бетонной и растворной смеси требованиям проекта и
+  технологической карты по удобоукладываемости, крупности заполнителя,
+  отсутствию расслоения;</span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- состояние опалубки;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- укладку и уплотнение бетонной смеси;</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- температурно-влажностный режим твердения бетона и раствора;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S8X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическую прочность бетона и раствора и сроки распалубки.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S9X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SAX>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="38%" valign=top id=S3X>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S4X>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=3 valign=top id=SBX>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=S6X>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическую прочность бетона и раствора;</span></p>
+  </td>
+  <td width="16%" valign=top id=S7X>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="38%" valign=top id=SCX>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид замоноличенных стыков.</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SDX>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: отвес, рулетка металлическая,
+  линейка металлическая, уровень, правило.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

@@ -1,0 +1,115 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Технические требования<br>
+</span></b><span class=MsoHyperlink><span id=S62><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span></span><span id=S62> пп. 3.5, 3.6, 3.10, табл. 12<b></b></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=272 height=204 src="x016.jpg" v:shapes="_x0000_i1032"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от совмещения установочных ориентиров блоков фундаментов с рисками разбивочных
+осей - 12 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметки
+выравнивающего слоя песка под блоки от проектной - 15 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+блоков фундаментов на покрытые водой и снегом основания;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+раствора, процесс схватывания которого уже начался, а также восстановление его
+пластичности путем добавления воды;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- загрязнение
+опорных поверхностей блоков.</span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых конструкций</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3322/index.htm" title="Плиты железобетонные ленточных фундаментов. Технические условия">ГОСТ
+13580-85</a></span><span id=S74>. Плиты железобетонные ленточных фундаментов. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3321/index.htm" title="Блоки бетонные для стен подвалов. Технические условия">ГОСТ
+13579-78*</a></span><span id=S74>. Блоки бетонные для стен подвалов. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Плиты</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Категория
+поверхности: А7</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения длины и ширины:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 1000 мм -
+±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 1000 до
+1600 мм - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 1600 до
+3200 мм - ±15 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+положения монтажной петли над плоскостью плиты - +10; -5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+положения закладных изделий:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в плоскости
+плиты - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из плоскости
+плиты - 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Непрямолинейность
+верхней плоскости плиты в любом сечении на всей длине или ширине:</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 1000 мм -
+2,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- свыше 1000 до
+1600 мм - 3,0 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- свыше 1600 до
+3200 мм - 4,0 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+на поверхности плит раковины диаметром более 20 мм или сколы ребер глубиной
+более 20 мм.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Блоки</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения размеров блоков:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±13 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине и
+высоте - ±8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по размерам
+вырезов - ±5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямолинейности профиля поверхностей блока не должно превышать 3 мм на всю
+длину и ширину блока.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Категория
+поверхностей блоков: A3, А5, А6 и А7.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При категории
+поверхности А7 требования по качеству поверхности блоков такие же, как и для
+плит.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины, за
+исключением местных, поверхностных, усадочных шириной не более 0,1 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+обнажение арматуры, за исключением выпусков.</span><span id=SS4></span></p>

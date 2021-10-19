@@ -1,0 +1,200 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.7, 3.16, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=204 height=295 src="x054.jpg" v:shapes="_x0000_i1051"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от совмещения ориентиров (рисок геометрических осей, граней) в нижнем сечении
+колонн с установочными ориентирами (рисками разбивочных осей) - 8 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от совмещения
+ориентиров в верхнем сечении колонн с рисками разбивочных осей при длине
+колонн, м:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 4 - ±12
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 4 до 8 -
+±15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 8 до 16 -
+±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- св. 16 до 25
+- ±25 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разности
+отметок верха колонн каждого яруса зданий и сооружений в пределах выверяемого
+участка при:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- контактной
+установке - ±(12 + 2</span><span  id=SID>n</span><span id=SJD>) мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установке по
+маякам - 10 мм</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение не
+предусмотренных проектом прокладок в стыках колонн для выравнивания высотных
+отметок и приведения их в вертикальное положение без согласования с проектной
+организацией.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Результаты
+контроля монтажа колонн должны оформляться геодезической исполнительной схемой.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3329/index.htm" title="Колонны железобетонные для многоэтажных зданий. Технические условия">ГОСТ
+18979-90***</a></span><span id=S74>. Колонны железобетонные для многоэтажных зданий. Технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent3 id=SXC>Значения действительных геометрических параметров колонн
+не должны превышать предельные, указанные в таблице.<span id=SI></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="26%" id=SGI>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Отклонение геометрического
+  параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="56%" id=SHI>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Геометрический параметр</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=SII>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Предельные отклонения, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" rowspan=5 valign=top id=SJI>
+  <p class=MsoNormal id=SJ1><span id=SUH>1. От номинального линейного размера</span><span id=SH></span></p>
+  </td>
+  <td width="56%" valign=top id=SKI>
+  <p class=MsoNormal id=SJ1><span id=SUH>Длина колонн, расстояние от нижнего торца колонны до
+  опорной плоскости консоли, расстояние между опорными плоскостями консолей при
+  минимальном размере, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SLI>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>до 4000 </span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 4000 до 8000</span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>±6<sub></sub></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 8000</span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>±8<sub></sub></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SJ1><span id=SUH>Поперечное сечение колонны, размеры консолей, вырезов и
+  выступов</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>±</span><span id=SOI>5</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=SPI>
+  <td width="26%" rowspan=2 valign=top id=SQI>
+  <p class=MsoNormal id=SJ1><span id=SUH>2. От проектного положения закладных изделий</span><span id=SH></span></p>
+  </td>
+  <td width="56%" valign=top id=SRI>
+  <p class=MsoNormal id=SSI><span id=SSH>в плоскости колонны</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=STI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SUI>
+  <td width="56%" valign=top id=SVI>
+  <p class=MsoNormal id=SSI><span id=SSH>из плоскости колонны</span></p>
+  </td>
+  <td width="16%" valign=top id=SWI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>3</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" rowspan=4 valign=top id=SXI>
+  <p class=MsoNormal id=SJ1><span id=SUH>3. От прямолинейности</span><span id=SI></span></p>
+  </td>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SJ1><span id=SUH>Профиль лицевой поверхности колонны длиной, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>до 4000 </span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 4000 до 8000</span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>10</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="56%" valign=top id=SMI>
+  <p class=MsoNormal id=SD3><span id=SSH>св. 8000</span></p>
+  </td>
+  <td width="16%" valign=top id=SNI>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>12</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SYI>
+  <p class=MsoNormal id=SJ1><span id=SUH>4. От перпендикулярности</span><span id=SI></span></p>
+  </td>
+  <td width="56%" valign=top id=SZI>
+  <p class=MsoNormal id=SJ1><span id=SUH>Сечение колонны, мм</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S0J>
+  <p class=MsoNormal align=center id=SA1><span id=SO9>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Поставленные на монтаж колонны не должны иметь:<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жировых и
+ржавых пятен на лицевых поверхностях колонн;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+трещин на внешней поверхности колонн, за исключением местных поверхностных
+усадочных, ширина которых не должна превышать 0,1 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наплывов
+бетона на открытых поверхностях стальных закладочных изделий, выпусках арматуры
+и монтажных петлях.</span><span id=SS></span></p>

@@ -1,0 +1,161 @@
+<p class=a><b>Технические требования</b><br>
+<a href="../../1/1954/index.htm" title="Автомобильные дороги">СНиП 3.06.03-85</a> пп. 7.1,
+10.16<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=S13>Предельные
+отклонения:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименьшая
+толщина распределяемого слоя щебня должна быть не менее 10 см при укладке на
+прочное основание и не менее 15 см при укладке на песок;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- максимальная
+толщина слоя щебня не должна превышать значения, указанные в таблице;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщина
+устраиваемого слоя асфальтобетонной смеси должна быть не менее 4 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=213 height=251 src="x182.jpg" v:shapes="_x0000_i1115"></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="31%" rowspan=3 id=SBL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Вид материала</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="68%" colspan=4 id=SCL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Максимальная толщина уплотняемого слоя, см,
+  при применении катков</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="11%" rowspan=2 id=SDL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>с гладкими вальцами массой 10 т и более</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="18%" rowspan=2 id=SEL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>решетчатых и на пневматических шинах массой
+  15 т и более</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="19%" id=SFL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>вибрационных и комбинированных массой, т</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="19%" id=SFL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>вибрационных и комбинированных массой, т</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" id=SFL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>до 10</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="19%" id=SFL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>16 и более</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SGL1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Трудноуплотняемый (из изверженных и метаморфических пород марки по
+  прочности 1000 и более, гравий прочный, хорошо окатанный, шлаки остеклованной
+  структуры)</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SHL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>18</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SIL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>24</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SJL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>18</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SJL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>24</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SKL1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Легкоуплотняемый (из изверженных и метаморфических пород марки по
+  прочности менее 1000, осадочные, гравий неокатанный, шлаки с пористой
+  структурой)</span></p>
+  </td>
+  <td width="11%" valign=top id=SLL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>22</span></p>
+  </td>
+  <td width="18%" valign=top id=SML1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>30</span></p>
+  </td>
+  <td width="19%" valign=top id=SNL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>22</span></p>
+  </td>
+  <td width="19%" valign=top id=SNL1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>30</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Покрытия и основания
+из асфальтобетонных смесей следует устраивать в сухую погоду. Укладку горячих и
+холодных смесей следует производить весной и летом при температуре окружающего
+воздуха не ниже 5 °С, осенью - не ниже 10 °С; теплых смесей - при температуре
+не ниже 10 °С.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3620/index.htm" title="Песок для строительных работ. Технические условия">ГОСТ
+8736-93*</a></span><span id=S74>. Песок для строительных работ. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5693/index.htm" title="Смеси асфальтобетонные дорожные, аэродромные и асфальтобетон. Технические условия">ГОСТ
+9128-97</a></span><span id=S74>. Смеси асфальтобетонные дорожные, аэродромные и асфальтобетон.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предприятие-изготовитель
+каждую партию щебня и песка сопровождает документом о качестве, в котором
+указывает:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+и адрес предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер, дату
+выдачи документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+продукции и ее количество;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размер
+фракции;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плотность
+(истинную и среднюю);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- пористость;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- пустотность
+(объем межзерновых пустот);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+водопоглощение.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Асфальтобетонные
+смеси характеризуются следующими показателями:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- характер
+смеси в зависимости от ее температуры;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плотность
+асфальтобетона;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наибольший
+размер заполнителя смеси.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура
+горячих смесей при выпуске из смесителя должна быть не ниже 140 °С.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Контроль
+качества асфальтобетонных смесей производят на асфальтобетонных заводах при их
+изготовлении, а также при укладке в дело. Для контроля качества смеси отбирают
+и испытывают по одной пробе от каждой партии.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+смеси должна сопровождаться потребителю документом о качестве.</span><span id=SS></span></p>

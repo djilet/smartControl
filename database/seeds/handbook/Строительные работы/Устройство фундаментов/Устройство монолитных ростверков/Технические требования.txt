@@ -1,0 +1,110 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты">СНиП 3.02.01-87</a></span>
+табл. 18, <span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> табл. 11<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=228 height=256 src="x026.jpg" v:shapes="_x0000_i1037"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметки голов
+свай - ±3 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещений осей
+оголовка относительно осей свай - ±10 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных плоскостей на всю длину выверяемого участка - 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- местных
+неровностей поверхности бетона при проверке двухметровой рейкой - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размера
+поперечного сечения - +6 мм, -3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина зазора
+между поверхностью грунта и нижней плоскостью ростверка - не менее
+установленной проектом.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние в
+свету от сваи до края ростверка должно быть не менее 5 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к головам свай:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- торцы должны
+быть горизонтальными с отклонением ±5°;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширина сколов
+бетона по периметру сваи - не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- глубина
+сколов по углам - не более 35 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длина сколов
+- не менее чем на 30 мм короче глубины заделки.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку
+ростверков следует оформлять актом на приемку ответственных конструкций.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a>.
+Смеси бетонные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3308/index.htm" title="Арматурные и закладные изделия сварные, соединения сварные арматуры и закладных изделий железобетонных конструкций. Общие технические условия">ГОСТ
+10922-90</a></span><span id=S74>. Арматурные и закладные изделия сварные, соединения сварные
+арматуры и закладных изделий железобетонных конструкций. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../39/39166/index.htm" title="Опалубка. Общие технические условия">ГОСТ Р 52085-2003</a>
+Опалубка. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Для
+деревянной палубы должны применяться пиломатериалы хвойных пород по <a href="../../4/4363/index.htm" title="Пиломатериалы хвойных пород. Технические условия">ГОСТ
+8486-86*Е</a> и листовых пород по <a href="../../4/4340/index.htm" title="Пиломатериалы лиственных пород. Технические условия">ГОСТ 2695-83*</a>
+не ниже </span><span  id=S6B>II</span><span id=S51> сорта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доски палубы должны
+иметь ширину не более 150 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины, применяемой для палубы, должна быть не более 18 %, для
+поддерживающих элементов - не более 22 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы
+опалубки должны плотно прилегать друг к другу при сборке. Щели в стыковых
+соединениях не должны быть более 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения для сеток, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины,
+размеров ячеек, разницы в длине диагоналей плоских сеток, свободных концов
+стержней - ±10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длины плоских
+сеток - ±15.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от прямолинейности стержней сеток не должны превышать 6 мм на 1 м
+длины сетки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На элементах
+арматурных изделий и закладных деталей не должно быть отслаивающихся ржавчины и
+окалины, а также следов масла, битума и других загрязнений.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При входном
+контроле бетонной смеси на строительной площадке необходимо:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проверить
+наличие паспорта на бетонную смесь и требуемых в нем данных;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- путем
+внешнего осмотра убедиться в отсутствии признаков расслоения бетонной смеси, в
+наличии в бетонной смеси требуемых фракций крупного заполнителя, в соответствии
+требуемой ее пластичности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+возникновении сомнений в качестве бетонной смеси потребовать контрольной
+проверки ее соответствия требованиям государственного стандарта и проекта.</span><span id=SS></span></p>

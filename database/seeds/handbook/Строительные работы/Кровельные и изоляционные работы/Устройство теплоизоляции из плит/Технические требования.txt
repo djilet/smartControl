@@ -1,0 +1,122 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.38,
+табл. 5, 6, 7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=244 height=188 src="x100.jpg" v:shapes="_x0000_i1074"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- влажности
+оснований:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- сборных- 4 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- монолитных – 5 %;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+толщина слоя прослойки не должна превышать, мм:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- из клеев и холодных мастик
+- 0,8;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- из горячих мастик - 1,5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины швов
+между плитами, блоками, изделиями, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- при наклейке - не более 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- для жестких изделий - 3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- при укладке насухо - не
+более 2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+изоляции:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- от заданного уклона - 0,2
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- по горизонтали - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- по вертикали - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- величин
+уступов между плитами - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+теплоизоляции от проектной от –5 % до +10 %, но не более 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- механические
+повреждения, неплотности прилегания к, основанию</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../11/11710/index.htm" title="Плиты теплоизоляционные из минеральной ваты на битумном связующем. Технические условия">ГОСТ
+10140-2003</a></span><span id=S74>. Плиты теплоизоляционные из минеральной ваты на битумном
+связующем. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../11/11707/index.htm" title="Плиты перлитобитумные теплоизоляционные. Технические условия">ГОСТ
+16136-2003</a></span><span id=S74>. Плиты перлитобитумные теплоизоляционные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3648/index.htm" title="Плиты минераловатные повышенной жесткости на синтетическом связующем. Технические условия">ГОСТ
+22950-95</a>. Плиты минераловатные повышенной жесткости на синтетическом
+связующем. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Теплоизоляционные
+изделия должны удовлетворять следующим техническим требованиям:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- иметь
+плотность не более 600 кг/м<sup>3</sup>;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обладать
+стабильными теплотехническими свойствами;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- не выделять
+токсических веществ.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров плит от номинальных не должны превышать предельных величин:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине -
+±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
++5, -2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Разность длин
+диагоналей не должна превышать 10 мм, разнотолщинность - не более 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Не допускается
+расслоение плит.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для проверки
+качества должны отбираться пять плит из разных мест каждой партии.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты должны
+поставляться упакованными, на поддонах или в контейнерах. На каждой упаковке
+должна быть прикреплена этикетка, в которой указывают:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя,</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии
+и дату изготовления,</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+плит (шт. и м<sup>3</sup>),</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- условное
+обозначение плит.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая
+отгружаемая партия плит должна сопровождаться документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты должны
+храниться упакованными, в закрытых складах или под навесом.</span><span id=SS></span></p>

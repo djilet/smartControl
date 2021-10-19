@@ -1,0 +1,159 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SWP>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="40%" id=SXP>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="18%" id=SYP>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="21%" id=SZP>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=S0Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=S1Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S2Q>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=5 valign=top id=S3Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта, (сертификаты) общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности, точность геометрических параметров, внешний
+  вид блоков;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый блок</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку опорных поверхностей ранее смонтированных и поднимаемых
+  блоков от мусора, грязи, снега и наледи;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S6Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие ориентирных рисок на ранее смонтированных блоках,
+  определяющих проектное положение монтируемого блока</span></p>
+  </td>
+  <td width="18%" valign=top id=S7Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=S0Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж объемных блоков</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=S1Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S2Q>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=3 valign=top id=S3Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку блоков в проектное положение;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S6Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность закрепления блоков.</span></p>
+  </td>
+  <td width="18%" valign=top id=S7Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=S8Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=S1Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S2Q>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=4 valign=top id=S9Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое положение смонтированных блоков;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=S4Q>
+  <p class=MsoNormal id=SJ1><span id=SD2>- закрепление блоков в соответствии с требованиями проекта;</span></p>
+  </td>
+  <td width="18%" valign=top id=S5Q>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="40%" valign=top id=SAQ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество заделки стыков между смежными блоками.</span></p>
+  </td>
+  <td width="18%" valign=top id=SBQ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: отвес, рулетка, нивелир.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

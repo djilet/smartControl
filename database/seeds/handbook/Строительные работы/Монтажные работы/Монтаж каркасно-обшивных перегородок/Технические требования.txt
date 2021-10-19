@@ -1,0 +1,49 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 6.14-6.17, табл. 26<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=237 height=188 src="x080.jpg" v:shapes="_x0000_i1064"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещения
+направляющих от разбивочных осей - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- минимальной
+величины нахлеста листа обшивки на стойку:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в
+металлическом каркасе - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в деревянном
+каркасе - 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояния
+между деталями крепления направляющих к<b> </b>несущим конструкциям - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояния
+между осями стоек - ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступа между
+смежными листами вдоль шва - ±1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размера шва
+между стыкуемыми листами - -1; ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазора между
+звукоизоляционными плитами, а также между ними и элементами каркаса - не более
+2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- углубления головки
+винта или шурупа в обшивку каркаса - 0,5-1 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перегородок
+от вертикали - не более 2 мм на 1 м высоты и 10 мм на всю высоту помещения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхности
+перегородок, подготовленные для отделки, должны иметь не более двух неровностей
+глубиной или высотой 3 мм при накладывании двухметровой рейки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+следует проверять устойчивость каркаса, надежность крепления листов обшивки,
+отсутствие у листов надрывов, повреждений, масляных пятен и загрязнений.</span><span id=SS></span></p>

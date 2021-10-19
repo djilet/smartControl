@@ -1,0 +1,370 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.6, 3.7, 3.25, табл. 12<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=244 height=184 src="x064.jpg" v:shapes="_x0000_i1056"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от смещения ориентиров (рисок геометрических осей, граней) в нижнем сечении
+установленных панелей навесных стен с установочными ориентирами (рисками
+геометрических осей или гранями нижележащих элементов, рисками разбивочных
+осей) - 10 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+верха плоскостей навесных стеновых панелей - 12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разности
+отметок верха стеновых панелей в пределах выверяемого участка при:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установке по
+маякам - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- контактной
+установке - (12 + 2</span><span  id=SID>n</span><span id=SJD>) мм,</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>где </span><span  id=SS5>n</span><span id=SB> -
+число установленных по высоте панелей;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+маяков относительно монтажного горизонта - ±5 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- щели между
+торцом панели после ее выверки и растворной постелью;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+раствора, процесс схватывания которого уже начался;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+восстановление пластичности раствора путем добавления воды.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3309/index.htm" title="Панели стеновые наружные бетонные и железобетонные для жилых и общественных зданий. Общие технические условия">ГОСТ
+11024-84*</a></span><span id=S74>. Панели стеновые наружные бетонные и железобетонные для жилых и
+общественных зданий. Общие технические условия.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3310/index.htm" title="Панели из автоклавных ячеистых бетонов для наружных стен зданий. Технические требования">ГОСТ
+11118-73</a>. Панели из автоклавных ячеистых бетонов для наружных стен здания.
+Технические требования.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3320/index.htm" title="Панели из легких бетонов на пористых заполнителях для наружных стен производственных зданий. Технические требования">ГОСТ
+13578-68</a></span><span id=S74>. Панели из легких бетонов на пористых заполнителях для наружных стен
+производственных зданий. Технические требования.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставленные на
+монтаж панели наружных стен не должны иметь:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жировых и
+ржавых пятен на лицевой поверхности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещин, за
+исключением местных поверхностных усадочных и других технологических шириной не
+более 0,2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- сколов бетона
+ребер глубиной более 2 мм и длиной более 30 мм на 1 м ребра;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отслоившихся
+облицовочных плиток.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Значения
+действительных отклонений геометрических параметров панелей не должны превышать
+предельные, указанные в таблице 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="32%" id=SOM>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Наименование отклонения от геометрического
+  параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="49%" id=SPM>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Геометрический параметр, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SQM>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Предельное отклонение,</span></b><b><span id=S82> мм</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" rowspan=10 valign=top id=SRM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение линейного размера</span><span id=SI></span></p>
+  </td>
+  <td width="49%" valign=top id=SSM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Длина и высота панели:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=STM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>до 1000</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 1000 до 1600</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 1600 до 2500</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±6</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 2500 до 4000</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 4000 до 8000</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина панели:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>до 250</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 250 до 400</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SWM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Размер проемов и вырезов</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SXM>
+  <p class=MsoNormal align=center id=SA1><span id=S4B>+5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" rowspan=6 valign=top id=SRM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от плоскостности</span><span id=SI></span></p>
+  </td>
+  <td width="49%" valign=top id=SSM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Плоскостность лицевой поверхности панели относительно прилегающей
+  плоскости при длине (высоте) панели:</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=STM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>до 1000</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 1000 до 1600</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 1600 до 2500</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 2500 до 4000</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=SH>6</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SWM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 4000 до 8000</span></p>
+  </td>
+  <td width="18%" valign=top id=SXM>
+  <p class=MsoNormal align=center id=SA1><span id=SH>8</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" rowspan=3 valign=top id=SRM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от равенства диагоналей</span><span id=SI></span></p>
+  </td>
+  <td width="49%" valign=top id=SSM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Разность длин диагоналей лицевых поверхностей панели при длине
+  (высоте) панели:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=STM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>до 4000</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SWM>
+  <p class=MsoNormal id=SD3><span id=S82>св. 4000 до 8000</span></p>
+  </td>
+  <td width="18%" valign=top id=SXM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>12</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="32%" rowspan=4 valign=top id=SYM>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от проектного положения закладных изделий</span><span id=SH></span></p>
+  </td>
+  <td width="49%" valign=top id=SSM>
+  <p class=MsoNormal id=SJ1><span id=SD2>В плоскости панели для закладных изделий размером в этой плоскости:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=STM>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>до 100 мм</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SUM>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 100 м</span></p>
+  </td>
+  <td width="18%" valign=top id=SVM>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="49%" valign=top id=SZM>
+  <p class=MsoNormal id=SD3><span id=S82>из плоскости панели</span></p>
+  </td>
+  <td width="18%" valign=top id=S0N>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>3</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Качество поверхностей панелей должно
+соответствовать требованиям, приведенным в таблице 2.<span id=SI></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="26%" id=S1N>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Характеристика бетонной
+  поверхности</span></b><span id=SH></span></p>
+  </td>
+  <td width="10%" id=SQJ>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Категория</span></b><span id=SH></span></p>
+  </td>
+  <td width="13%" id=S2N>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Диаметр раковин, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="19%" id=S3N>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Высота (глубина) наплыва
+  (впадин)</span></b><span id=SH></span></p>
+  </td>
+  <td width="12%" id=S4N>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Глубина сколов, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="16%" id=S5N>
+  <p class=MsoNormal align=center id=SA1><b><span id=SPH>Длина сколов в мм на 1 м ребра</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=S6N>
+  <p class=MsoNormal id=SJ1><span id=SUH>Лицевая внутренняя, под окраску</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=STK>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А2</span><span id=SI></span></p>
+  </td>
+  <td width="13%" valign=top id=S7N>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>1</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S8N>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>1</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S9N>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SAN>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>50</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SBN>
+  <p class=MsoNormal id=SJ1><span id=SUH>Нелицевая, невидимая в условиях эксплуатации</span></p>
+  </td>
+  <td width="10%" valign=top id=S5L>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>А7</span></p>
+  </td>
+  <td width="13%" valign=top id=SCN>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="19%" valign=top id=SDN>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-</span></p>
+  </td>
+  <td width="12%" valign=top id=SEN>
+  <p class=MsoNormal align=center id=SA1><span id=SPH>20</span></p>
+  </td>
+  <td width="16%" valign=top id=SFN>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

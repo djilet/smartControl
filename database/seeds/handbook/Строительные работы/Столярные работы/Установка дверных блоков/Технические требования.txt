@@ -1,0 +1,121 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 5.6<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=251 height=175 src="x118.jpg" v:shapes="_x0000_i1083"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемое
+отклонение от вертикали дверных коробок 3 мм.</span><span id=S2></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>В
+пределах одного помещения дверные ручки должны быть установлены на одном
+уровне.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждый
+вертикальный брусок коробки следует крепить не менее чем в двух местах,
+расстояние между которыми не должно превышать 1 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Зазоры между
+дверными полотнами и полом должны составлять:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- у внутренних
+дверей - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+у дверей санитарных узлов- 12 мм.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Напуск
+наличников на стену или перегородку должен быть не менее 20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка дверных
+блоков вмонтированных в проемы, должна сопровождаться проверкой плотности
+пригонки полотен дверей между собой и к четвертям коробок, правильности
+установки и крепления уплотняющих прокладок, установки скобяных изделий, а
+также оформлением актов освидетельствования скрытых работ по креплению коробок,
+их теплоизоляции и защитной обработке.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3474/index.htm" title="Двери деревянные. Общие технические условия">ГОСТ 475-78</a></span><span id=S21>*. Двери
+деревянные. Общие технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3492/index.htm" title="Двери из алюминиевых сплавов. Общие технические условия">ГОСТ
+23747-88</a></span><span id=S74>. Двери из алюминиевых сплавов. Общие технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../7/7540/index.htm" title="Блоки оконные. Общие технические условия">ГОСТ 23166-99</a></span><span id=S21>. Окна и
+балконные двери деревянные. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+дверных блоков необходимо проверять породу и качество древесины, соответствие
+размеров изделий чертежам или проекту, а также качество обработки и сборки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+древесины должна быть:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для коробок
+наружных дверей - 12 ± 3 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для коробок
+внутренних дверей и полотен - 9 ± 3 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Блоки должны
+иметь правильную геометрическую форму. Наличие пороков и дефектов обработки
+древесины в дверях оценивают визуально.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от номинальных размеров не должны превышать, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- внутренних
+размеров коробок:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
++2,0;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте -
++2,5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- внешних
+размеров полотен:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+-2,0;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте -
+-2,5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщин
+брусков отвязки - ±0,3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщин
+брусков коробки - ±0,8.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Зазоры в
+притворах должны быть 2 мм, отклонения - +2 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+плоскости полотен - не более 2 мм по высоте, ширине и диагонали.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Дверные блоки
+должны поставляться собранными, с навеской полотен на петлях, врезкой замков в
+двери и окраской за один раз (проолифлены). Пласть коробки, примыкающая к
+стене, должна быть проантисептирована или окрашена.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+блоков должна сопровождаться документом о качестве, в котором указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и адрес;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+изделия;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+изделий, м<sup>2</sup> и шт.;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При приемке
+блоков на объекте для контрольной проверки отбирают 3 % от партии, но не менее
+3 штук.</span><span id=SH></span></p>

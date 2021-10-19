@@ -1,0 +1,183 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SU51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" id=SV51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" id=SW51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="23%" id=SX51>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=7 valign=top id=SSY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SY51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SZ51>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=7 valign=top id=SPU>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество материала (соответствие проекту);</span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- чистоту и влажность оснований;</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность выполнения выкружки (при необходимости);</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество огрунтовки;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, пробная наклейка рулонного
+  материала с отрывом</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S261>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку (нанесение меловой линии направления кромки укладываемого
+  полотнища).</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S361>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=S461>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство гидроизоляции</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SY51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SZ51>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=S561>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность нанесения мастики (толщину слоя, температуру мастики);</span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на
+  каждые 70-100 м<sup>2</sup> в местах, определяемых визуальным осмотром</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность прижатия полотнищ, тщательность проглаживания полотнищ в
+  местах стыков;</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S261>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность выполнения сопряжений.</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=S361>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=S461>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SY51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SZ51>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=S561>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- прочность приклейки рулонного материала;</span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S061>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение величины нахлеста полотнищ;</span><span id=SI></span></p>
+  </td>
+  <td width="29%" valign=top id=S161>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="28%" valign=top id=S261>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отсутствие пузырей, вздутий, разрывов, вмятин, воздушных мешков.</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=S361>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка, рулетка, влагомер,
+  двухметровая рейка.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

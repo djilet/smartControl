@@ -1,0 +1,283 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты">СНиП 3.02.01-87</a></span>
+п. 11.6, табл. 18</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=207 height=170 src="x022.jpg" v:shapes="_x0000_i1035"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установки на
+место погружения свай:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>а) с
+кондуктором, с размером свай по диагонали или диаметру (</span><span  id=SS5>d</span><span id=SB>):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- до 0,5 м - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- от 0,6 до 1 м - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- свыше 1 м - ±12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>б) без
+кондуктора, с размером свай по диагонали или диаметру (</span><span  id=SS5>d</span><span id=SB>):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- до 0,5 м - ±10 мм;</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- от 0,6 м до 1 м - ±20 мм;</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- свыше 1 м - ±30 мм.</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- от вертикали оси забивных
+свай, кроме свай-стоек, - ±2 %;</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- отметок голов свай:</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- с монолитным ростверком -
+±3 см;</span></p>
+
+<p class=MsoNormal id=S2A><span id=SB>- со сборным ростверком - ±1
+см;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- безростверковый
+фундамент со сборным оголовком - ±5 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- сваи-колонны
+- ±3 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Положения в
+плане забивных и набивных свай в соответствии с таблицей 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="72%" id=S3A>
+  <p class=MsoNormal align=center id=S46><b>Вид свай</b></p>
+  </td>
+  <td width="27%" id=S4A>
+  <p class=MsoNormal align=center id=S46><b>Предельные
+  отклонения</b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S5A>
+  <p class=MsoNormal id=SJ1><span id=SD2>1. Забивные сваи диаметром до 0,5 м включительно:</span><span id=SH></span></p>
+  </td>
+  <td width="27%" valign=top id=S6A>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>а) для однорядного расположения свай:</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>поперек оси свайного ряда</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,2</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>вдоль оси свайного ряда</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,3</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>б) для кустов и лент с расположением свай в два и три ряда:</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>крайних свай поперек оси свайного ряда</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,2</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>остальных свай и крайних свай вдоль свайного
+  ряда</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,3</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>в) для сплошного свайного поля под всем зданием или сооружением:</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>крайние сваи</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,2</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SD3><span id=S82>средние сваи</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,4</span><span  id=S06>d</span><span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>г) одиночные сваи</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±5 см</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>д) сваи-колонны</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3 см</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. Забивные и набивные сваи диаметром более 0,5 м:</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>а) поперек ряда</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±10 см</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S7A>
+  <p class=MsoNormal id=SJ1><span id=SD2>б) вдоль ряда при кустовом расположении свай</span></p>
+  </td>
+  <td width="27%" valign=top id=S8A>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±15 см</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=S9A>
+  <p class=MsoNormal id=SJ1><span id=SD2>в) для одиночных полых круглых свай под колонны</span></p>
+  </td>
+  <td width="27%" valign=top id=SAA>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±8 см</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>He допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+погружать сваи с трещинами более 0,3 мм.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых конструкций</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3336/index.htm" title="Сваи железобетонные. Технические условия">ГОСТ 19804-91</a></span><span id=S21>. Сваи
+железобетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+проектных размеров свай, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+призматической части сваи при длине:</span></p>
+
+<p class=MsoNormal id=SBA><span id=SB>до 10 м
+включительно - ±40;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SBA><span id=SB>более 10 м -
+±50;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по размерам
+поперечного сечения - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+защитного слоя бетона - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+острия сваи - ±30;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по смещению
+острия от центра поперечного сечения сваи - 15;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по расстоянию
+от центра подъемных петель до концов сваи - ±50;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+прямой линии боковых граней свай в мм при длине свай:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от 3 до 8 м -
+8;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от 9 до 16 м
+- 13.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+перпендикулярности торцевой плоскости не должно превышать 0,015 размера
+поперечного сечения.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>На поверхности свай не
+допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- раковины
+диаметром 15 мм и глубиной 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наплывы
+бетона высотой более 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- местные околы
+бетона на углах свай глубиной более 10 мм и общей длиной более 50 мм на 1 м
+свай;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- околы бетона
+и раковины в торце сваи;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины, за
+исключением усадочных, шириной более 0,1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Маркировка</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>На
+боковой поверхности сваи на расстоянии 50 см от торца или на торце должны быть
+нанесены несмываемой краской: товарный знак предприятия-изготовителя; марка
+сваи; дата изготовления сваи; штамп ОТК; масса сваи.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+свай должна сопровождаться установленной формы документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Сваи должны
+храниться рассортированными по маркам в штабелях высотой не более 2,5 м,
+горизонтальными рядами, остриями в одну сторону. Между горизонтальными рядами
+свай должны быть уложены деревянные прокладки, расположенные рядом с подъемными
+петлями или, в случае отсутствия петель, в местах, предусмотренных для захвата
+свай при их транспортировании. Прокладки должны быть расположены по вертикали
+одна над другой, толщина прокладок должна быть на 20 мм больше высоты петель.</span><span id=SS></span></p>

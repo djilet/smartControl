@@ -1,0 +1,70 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 3,
+19<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=235 height=181 src="x130.jpg" v:shapes="_x0000_i1089"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура
+битумной мастики при:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- нанесении -
++16° С, предельное отклонение - +20° С.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Температура
+песка - +50° С, предельное отклонение - +10° С.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+битумной мастики - 1,0 мм, предельное отклонение - +0,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка
+осуществляется с составлением акта освидетельствования скрытых работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемая
+влажность оснований:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных, гипсобетонных – 5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3673/index.htm" title="Мастика битумная кровельная горячая. Технические условия">ГОСТ
+2889-80</a>. Мастика битумная кровельная горячая. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастики
+битумные кровельные горячие в зависимости от теплостойкости подразделяют на
+марки: МБК-Г-55, МБК-Г-65, МБК-Г-75, МБК-Г-85, МБК-100.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>По
+внешнему виду мастика должна быть однородной, без посторонних включений и
+частиц наполнителя, не покрытых битумом.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика должна
+прочно склеивать рулонные материалы.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка и
+поставка мастики осуществляется партиями в бочках стальных или деревянных.
+Каждая партия мастики должна сопровождаться документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика должна
+храниться раздельно по маркам в закрытом помещении, гарантийный срок хранения -
+один год со дня изготовления. По истечении срока мастика должна быть проверена
+на соответствие стандарту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Свойства
+мастики должны отвечать требованиям:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+жизнеспособность готовой мастики при нагреве - не менее 1-2 ч.;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+продолжительность послойной сушки при температуре 15-20 °С - 3 ч.;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+теплостойкость - 55-100 °С;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+продолжительность выдерживания готового изоляционного покрытия - 24 ч.</span><span id=SS></span></p>

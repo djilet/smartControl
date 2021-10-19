@@ -1,0 +1,93 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.17,
+табл. 3,<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=249 height=180 src="x128.jpg" v:shapes="_x0000_i1088"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемая
+влажность оснований при нанесении клеящих составов не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных, гипсовых и гипсопесчаных – 5 %.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Нахлест любых
+полотнищ изоляции не менее 100 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность
+сцепления с основанием гидроизоляционного ковра по сплошной мастичной клеящей
+прослойке эмульсионных составив должна быть не менее 0,5 МПа.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура при
+нанесении горячих мастик:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- битумных -
+160 °С, предельное отклонение - +20 °С;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дегтевых- 130
+°С, предельное отклонение - +10 °С.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+мастик при наклейке рулонного ковра:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- горячих
+битумных - 2,0 мм, предельное отклонение - ±10 %;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- холодных
+битумных - 0,8 мм, предельное отклонение - ±10 %.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+пузыри, вздутия, воздушные мешки, разрывы, вмятины, проколы, губчатое строение,
+потеки и наплывы на поверхности покрытия изоляции;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перекрестная
+нахлестка полотнищ изоляции.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3673/index.htm" title="Мастика битумная кровельная горячая. Технические условия">ГОСТ
+2889-80</a>. Мастика битумная кровельная горячая. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3676/index.htm" title="Рубероид. Технические условия">ГОСТ 10923-93</a>*.
+Рубероид. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для
+гидроизоляции строительных конструкций применяют рубероид подкладочный марок
+РПП-300А, РПП-300Б.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Рубероид
+выпускают в рулонах шириной 1000, 1025 и 1050 мм, допускаемое отклонение по
+ширине полотна - ±5 мм. Общая площадь рулона должна быть 20 ± 0,5 м<sup>2</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гарантийный
+срок хранения составляет 12 месяцев со дня отгрузки потребителю (изготовления).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика по
+внешнему виду должна быть однородной, без посторонних включений и частиц
+наполнителя не покрытых битумом, прочно склеивать рулонные материалы и быть
+удобонаносимой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка и
+поставка мастики осуществляется партиями. Мастика может быть упакована в
+стальные бочки со съемным донцем, деревянные бочки и барабаны.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На упаковке
+должна быть нанесена маркировка:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+завода-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+наполнителя.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гарантийный
+срок хранения мастики - один год со дня изготовления. По истечении срока
+мастика должна быть проверена на качество.</span><span id=SS></span></p> 

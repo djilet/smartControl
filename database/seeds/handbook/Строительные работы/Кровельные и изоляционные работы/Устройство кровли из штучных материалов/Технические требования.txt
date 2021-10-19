@@ -1,0 +1,238 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.39,
+табл. 7<span  id=S101></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=243 height=184 src="x108.jpg" v:shapes="_x0000_i1078"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При устройстве
+деревянных оснований (обрешетки):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- стыки
+обрешетки следует располагать вразбежку;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояния
+между элементами обрешетки должны соответствовать проектным;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в местах
+покрытия карнизных свесов, разжелобков и ендов, а также под кровли из
+мелкоштучных элементов основания необходимо устраивать из досок (сплошными).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Напуск
+вышележащего ряда на нижележащий для асбестоцементных листов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ВО, СВ -
+120-140 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- УВ, ВУ - 200
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Крепление
+асбестоцементных листов к обрешетке:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- листы ВО и СВ
+следует крепить шиферными гвоздями с оцинкованной шляпкой;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- листы УВ и ВУ
+- винтами со специальными захватками;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоские листы
+- двумя гвоздями с противоветровой кнопкой.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отколы и
+трещины в асбестоцементных листах;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+видимые просветы в покрытии при осмотре кровли из чердачных помещений.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3745/index.htm" title="Листы асбестоцементные волнистые. Технические условия">ГОСТ
+30340-95</a></span><span id=S74>. Листы асбестоцементные волнистые. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3743/index.htm" title="Листы асбестоцементные плоские. Технические условия">ГОСТ
+18124-95</a></span><span id=S74>. Листы асбестоцементные плоские. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Листы и детали
+не должны иметь на лицевой поверхности трещины, сколы и посторонние включения.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые дефекты лицевой
+поверхности</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="48%" rowspan=2 id=SZ01>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Дефекты</span></b><span id=SI></span></p>
+  </td>
+  <td width="52%" colspan=4 id=S011>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Профиль</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" id=S111>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>обыкновенный</span></b><span id=SH></span></p>
+  </td>
+  <td width="9%" id=S211>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>средний</span></b><span id=SI></span></p>
+  </td>
+  <td width="9%" id=S311>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>высокий</span></b><span id=SI></span></p>
+  </td>
+  <td width="18%" id=S411>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>унифицированный</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S511>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от прямоугольности не более, мм</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=S611>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S711>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=S811>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SEU>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SJ1><span id=SD2>Отклонение от прямолинейности не более, мм</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SA11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SB11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SC11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SJ1><span id=SD2>Допускается наличие в партии 5 % листов, имеющих:</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SD11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SE11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SF11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SG11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SD3><span id=S82>откол одного из углов размерами, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SD11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SE11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SF11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SG11>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SR3><span id=S82>по длине не более</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SA11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>75</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SB11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>180</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SC11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>180</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>180</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SR3><span id=S82>по ширине не более</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SA11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>60</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SB11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>110</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SC11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>110</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>110</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S911>
+  <p class=MsoNormal id=SD3><span id=S82>неполное количество волн</span></p>
+  </td>
+  <td width="15%" valign=top id=SA11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5 и 4</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SB11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6 и 5</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SC11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6 и 5</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4 и 5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SUI>
+  <td width="48%" rowspan=3 valign=top id=SH11>
+  <p class=MsoNormal id=SD3><span id=S82>не более 1 % неполномерных листов, имеющих
+  длину не менее, мм</span></p>
+  </td>
+  <td width="15%" rowspan=3 valign=top id=SI11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SI></span></p>
+  </td>
+  <td width="9%" rowspan=3 valign=top id=SJ11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1200 1950</span><span id=SI></span></p>
+  </td>
+  <td width="9%" rowspan=3 valign=top id=SK11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1250</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SL11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1250</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=SM11>
+  <td width="18%" valign=top id=SN11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1500</span></p>
+  </td>
+ </tr>
+ <tr id=SM11>
+  <td width="18%" valign=top id=SO11>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2000</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

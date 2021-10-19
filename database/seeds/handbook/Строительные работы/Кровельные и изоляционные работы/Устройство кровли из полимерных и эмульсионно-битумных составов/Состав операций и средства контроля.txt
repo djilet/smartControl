@@ -1,0 +1,207 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SIZ>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="26%" id=SJZ>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="28%" id=SKZ>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="25%" id=SLZ>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=8 valign=top id=SMZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SNZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SOZ>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=8 valign=top id=SPZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- до огрунтовки поверхности:</span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность поверхности, правильность устранения острых углов в
+  примыканиях;</span><span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=2 valign=top id=SSZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, не менее 5
+  измерений равномерно на каждые 50-70 м<sup>2</sup> основания</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- чистота и влажность поверхности;</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- до нанесения изоляционных составов:</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество огрунтовки поверхности;</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность приготовления состава мастики;</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Лабораторный контроль</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=STZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие качества мастики паспортным данным.</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SUZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SVZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство изоляции</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SWZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SXZ>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=5 valign=top id=SYZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность выполнения окрасочной гидроизоляции, температуру
+  мастики;</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=S6O><span id=S82>Измерительный, периодический, не менее 4 раз
+  в смену</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- равномерность нанесения состава;</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение толщины слоя;</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на
+  каждые 70-100 м<sup>2</sup> в местах, определяемых визуальным осмотром</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SZZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность выполнения изоляции в примыканиях.</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=S001>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SMZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SNZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SOZ>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=5 valign=top id=SPZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение требований проекта по устройству изоляции;</span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество устройства примыканий (сопряжений);</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SQZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- прочность сцепления мастики с поверхностью основания;</span><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SRZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=STZ>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности изоляции.</span><span id=SI></span></p>
+  </td>
+  <td width="28%" valign=top id=SUZ>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка, рулетка, термометр,
+  влагомер.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

@@ -1,0 +1,110 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 20,
+<a href="../../1/1903/index.htm" title="Благоустройство территории">СНиП <span  >III</span>-10-75</a> п. 3.26<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=252 height=199 src="x178.jpg" v:shapes="_x0000_i1113"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уклона
+покрытия от заданного - 0,2 % от ширины отмостки;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+асфальтового или бетонного покрытия от плоскости при проверке двухметровой
+рейкой - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+щебеночной подготовки от плоскости при проверке двухметровой рейкой- 15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+покрытия отмостки от проектной - -5 % - +10 %.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отмостки по
+периметру здания должны плотно примыкать к цоколю.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Уклон отмостки
+от здания должен быть не менее 1 % и не более 10 %.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Ширина отмостки
+должна быть:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при глинистых
+грунтах - не менее 100 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при песчаных
+грунтах - не менее 70 см.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие
+трещин, раковин и впадин.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На подготовку
+основания (ровность, качество уплотнения) под отмостку следует оформлять акт
+освидетельствования скрытых, работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5693/index.htm" title="Смеси асфальтобетонные дорожные, аэродромные и асфальтобетон. Технические условия">ГОСТ
+9128-97</a></span><span id=S74>* Смеси асфальтобетонные дорожные, аэродромные и асфальтобетон.
+Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a></span><span id=S21>. Смеси
+бетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бетонные смеси
+должны характеризоваться следующими показателями:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- классом по
+прочности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+удобоукладываемостью;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- видом и
+количеством исходных материалов (вяжущие, заполнители, добавки);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- крупностью
+заполнителей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По согласованию
+с проектной организацией, осуществляющей авторский надзор, пробы бетонной смеси
+на месте укладки их в монолитную конструкцию допускается не отбирать, а
+оценивать прочность бетона по данным контроля предприятия-изготовителя бетонной
+смеси.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Удобоукладываемость
+бетонной смеси определяют для каждой партии не позднее чем через 20 минут после
+доставки смеси к месту укладки.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бетонные смеси
+на месте укладки принимают по объему.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Готовые
+бетонные смеси должны доставляться потребителю автобетоносмесителями,
+автобетоновозами. По согласованию изготовителя с потребителем допускается
+доставка бетонных смесей автосамосвалами и на автомашинах в бункерах (бадьях).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Асфальтобетонные
+смеси характеризуются следующими показателями:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- характер
+смеси в зависимости от ее температуры;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плотность
+асфальтобетона;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наибольший
+размер заполнителя смеси.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура
+горячих смесей при выпуске из смесителя должна быть не ниже 140 </span><span id=SB21><span id=SR1>°</span></span><span id=ST4>С.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Контроль
+качества асфальтобетонных смесей производят на асфальтобетонных заводах при их
+изготовлении, а также при укладке в дело. Для контроля качества смеси отбирают
+и испытывают по одной пробе от каждой партии.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+смеси при доставке потребителю должна сопровождаться документом о качестве.</span><span id=SS></span></p>

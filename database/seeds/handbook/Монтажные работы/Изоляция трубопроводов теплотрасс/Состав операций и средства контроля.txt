@@ -1,0 +1,136 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="19%" id=SM22>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="29%" id=SRL1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="23%" id=SN22>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" id=SO22>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SP22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SQ22>
+  <p class=MsoNormal id=SJ1>Проверить:<span id=SI></span></p>
+  </td>
+  <td width="23%" valign=top id=SR22>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=4 valign=top id=SS22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт приемки, акт испытания, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="23%" rowspan=3 valign=top id=SU22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный, выборочно, не
+  менее 5 % изделий</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество материалов, изделий;</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- обработку поверхностей трубопроводов под изоляцию.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SP22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Изоляция трубопроводов</span><span id=SH></span></p>
+  </td>
+  <td width="29%" valign=top id=SQ22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="23%" valign=top id=SR22>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=5 valign=top id=SS22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Журнал работ, акт освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество противокоррозионной изоляции;</span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=SU22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество теплоизоляции;</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- крепление основного теплоизоляционного слоя бандажами или сетками;</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество покровного слоя.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SP22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span></p>
+  </td>
+  <td width="29%" valign=top id=SQ22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span></p>
+  </td>
+  <td width="23%" valign=top id=SR22>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=S82></span></p>
+  </td>
+  <td width="28%" rowspan=3 valign=top id=SS22>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=ST22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполнения изоляции;</span></p>
+  </td>
+  <td width="23%" rowspan=2 valign=top id=SU22>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="29%" valign=top id=SV22>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие материалов требованиям проекта, стандартов.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка металлическая, щуп.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), лаборант, представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

@@ -1,0 +1,44 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 3.64,
+3.65, 3.66, табл. 14, 15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=234 height=186 src="x172.jpg" v:shapes="_x0000_i1110"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- величины
+уступов между панелями, листами - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+всего поля отделки по диагонали, вертикали и горизонтали (от проектной):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на 1 м длины
+- 1,5 мм, но не более 7 мм на всю поверхность;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- направления
+стыка элементов облицовки стен от вертикали на 1 м длины - 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плоскость
+поверхности, облицованная панелями и плитами, должна быть ровной без провесов в
+стыках, жесткой, без вибрации панелей и листов и отслоений от основания (при
+приклейке).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Швы должны быть
+равномерными, строго вертикальными.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Крепежные
+приборы и расстояние между ними, а также материал, размеры должны
+соответствовать проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Крепление
+листов и панелей к основанию должно быть прочным, без зыбкости (при легком
+простукивании деревянным молотком не должно наблюдаться коробления изделий,
+разрушения их кромок и смещения листов).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальные стыки панелей, листов, не предусмотренные проектом;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+царапины, пятна на поверхности листов и панелей.</span><span id=S2></span></p>

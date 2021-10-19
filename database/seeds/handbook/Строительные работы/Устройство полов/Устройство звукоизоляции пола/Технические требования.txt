@@ -1,0 +1,30 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 4.18,
+4.19, табл. 18<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=248 height=186 src="x126.jpg" v:shapes="_x0000_i1087"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Крупность
+сыпучего звукоизоляционного материала - 0,15-10 мм. Влажность сыпучего
+материала засыпки между лагами - не более Ширина звукоизоляционных прокладок мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- под лаги -
+100-120;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- под сборные
+стяжки размером «на комнату» по периметру - 200-220;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- внутри
+периметра - 100-120.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между осями полос звукоизоляционных прокладок внутри периметра сборных стяжек
+размером «на комнату» - 0,4 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- органические
+примеси в сыпучих звукоизоляционных материалах;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- пылевидные
+материалы.</span><span id=SS></span></p>

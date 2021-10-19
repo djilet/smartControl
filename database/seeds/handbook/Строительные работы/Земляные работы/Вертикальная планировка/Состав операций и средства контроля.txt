@@ -1,0 +1,159 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" valign=top id=SN7>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SO7>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SP7>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" valign=top id=SQ7>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SR7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SS7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=ST7>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=4 valign=top id=SU7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие геодезических разбивочных знаков, геодезической разбивочной
+  схе</span><span id=SU>мы;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение срезки плодородного слоя почвы;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SX7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение работ по отводу поверхностных и фунтовых вод с территории
+  планируемой поверхности (при необходимости).</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SY7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SR7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство планировки</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SZ7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=S08>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=S18>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величину уклонов;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SX7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величину отметок поверхности.</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SY7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=S28>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SS7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=S08>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=S18>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ, исполнительная геодезическая схема</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие фактических отметок спланированной поверхности
+  проектным;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, по сетке 50</span><span id=S38><span id=S48>&acute;</span></span><span id=S82>50 м</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие фактических уклонов спланированной поверхности
+  проектным;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal id=SJ1><span id=SD2>Визуальный (наблюдение за стоком атмосферных осадков) или
+  измерительный, по сетке 50</span><span id=S58><span id=ST1>&acute;</span></span><span id=S82>50 м</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SV7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- степень уплотнения грунта (при необходимости);</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SW7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Лабораторный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=SX7>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отсутствие переувлажненных участков и местных просадок грунта.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SY7>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка металлическая, правило, нивелир.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб),
+  геодезист - в процессе работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб, геодезист, представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

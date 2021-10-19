@@ -1,0 +1,254 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3.34, 3.35, 3.38-3.40<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=232 height=180 src="x230.jpg" v:shapes="_x0000_i1139"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Участки
+воздуховодов следует монтировать с уклоном 0,01-0,015 в сторону дренирующих
+устройств.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+воздуховодов от вертикали - не более 2 мм на 1 м длины воздуховода.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние между
+креплениями (хомуты, подвески, опоры) горизонтальных неизолированных
+воздуховодов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на
+бесфланцевом соединении:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при </span><span  id=SS5>D</span><span id=SB>, А или
+Б до 400 мм - не более 4 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при </span><span  id=SS5>D</span><span id=SB>, А или
+Б </span><span id=SNJ1><span id=SR1>&sup3;</span></span><span id=SB> 400 мм - не более 3 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на фланцевом
+соединении при </span><span  id=SID>D</span><span id=SJD>, А или Б до 2 м - не более 6 м, где </span><span  id=SS5>D</span><span  id=S62> </span><span id=SB>-
+диаметр воздуховода; А, Б - размеры сторон воздуховода.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между креплениями изолированных воздуховодов - по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между креплениями вертикальных воздуховодов - не более 4 м (при высоте этажа до
+4 м крепления следует выполнять в междуэтажных перекрытиях, при высоте этажа
+более 4 м - по проекту).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- передача веса
+воздуховодов на вентиляционное оборудование;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- крепление
+растяжек и подвесок к фланцам воздуховодов.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к материалам
+воздуховода</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП 3.05.01-85</a><span id=S31>. Внутренние санитарно-технические системы.</span></span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Воздуховоды и
+детали вентиляционных систем должны быть изготовлены в соответствии с рабочей
+документацией.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина стенок
+воздуховодов круглого сечения должна быть, мм:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при диаметре
+100; 125; 140; 160; 180; 200 - 0,5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при диаметре
+225; 250; 280; 315; 355; 400; 450 - 0,6;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при диаметре
+500; 560; 630; 710; 800 - 0,7;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при диаметре
+900; 1000; 1120; 1250; 1400; 1600 - 1,0;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при диаметре
+1800; 2000 - 1,4.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения наружных размеров поперечных сечений воздуховодов не должны
+превышать величины, указанные в таблице 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="15%" id=SVY1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Диаметр, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="65%" id=SWY1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Размер стороны воздуховода прямолинейного
+  сечения, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="19%" id=SXY1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Отклонение, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" valign=top id=SYY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100-250</span><span id=SI></span></p>
+  </td>
+  <td width="65%" valign=top id=SZY1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100-250</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S0Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-3,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" valign=top id=S1Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>280-500</span><span id=SI></span></p>
+  </td>
+  <td width="65%" valign=top id=S2Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>300-500</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S3Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-4,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" valign=top id=S1Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>560-1250</span><span id=SI></span></p>
+  </td>
+  <td width="65%" valign=top id=S2Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600-1200</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S3Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-6,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" valign=top id=S4Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1400-2000</span><span id=SI></span></p>
+  </td>
+  <td width="65%" valign=top id=S5Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1600-2000</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=S6Z1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-7,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Овальность
+воздуховодов круглого сечения не должна превышать величины, указанные в таблице
+2.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="58%" id=S7Z1>
+  <p class=MsoNormal align=center id=SZJ1><b><span id=S82>Наружный диаметр,
+  мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="41%" id=S8Z1>
+  <p class=MsoNormal align=center id=SZJ1><b><span id=S82>Овальность, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="58%" valign=top id=S9Z1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>100-250</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SAZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>5</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="58%" valign=top id=SBZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>280-500</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SCZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>10</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="58%" valign=top id=SBZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>560-1250</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SCZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>15</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="58%" valign=top id=SDZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>1400-2000</span><span id=SH></span></p>
+  </td>
+  <td width="41%" valign=top id=SEZ1>
+  <p class=MsoNormal align=center id=SZJ1><span id=S82>25</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Отклонение от
+плоскости стенок воздуховодов прямоугольного сечения не должно превышать
+величины, указанные в таблице 3.</span><span id=SM7></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 3</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="72%" id=SFZ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Наружный размер стороны поперечного сечения
+  прямоугольного воздуховода, мм</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="27%" id=SGZ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Отклонение от плоскости, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SHZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100-250</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SIZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SJZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>300-500</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SKZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SJZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600-1200</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SKZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="72%" valign=top id=SLZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1600-2000</span><span id=SI></span></p>
+  </td>
+  <td width="27%" valign=top id=SMZ1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Воздуховоды, предусмотренные
+для соединения на бандажах, рейках или иных бесфланцевых соединениях, должны
+иметь на торцевых сечениях устройства, предохраняющие их от деформации при
+транспортировке и хранении.</span><span id=SM7></span></p>

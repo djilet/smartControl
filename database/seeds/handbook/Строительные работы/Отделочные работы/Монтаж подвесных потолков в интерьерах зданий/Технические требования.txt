@@ -1,0 +1,173 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 3.65,
+табл. 14, 15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=224 height=183 src="x174.jpg" v:shapes="_x0000_i1111"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- величины
+уступов между плитами и панелями, а также рейками подвесных потолков - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+всего поля отделки по диагонали и горизонтали (от проектной):</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на 1 м длины
+- 1,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на всю
+поверхность - не более 7 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Крепление
+листов и панелей к основанию должно быть прочным, без зыбкости (при легком
+простукивании деревянным молотком не должно наблюдаться коробления изделий,
+разрушения их кромок и смещения листов).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Швы должны быть
+равномерными и строго прямолинейными.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плоскость
+облицованной поверхности должна быть ровной, без провесов в стыках.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+воздушные пузыри, царапины, пятна на поверхности облицовки.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>ТУ 400-1-283-82.
+Плиты перфорированные гипсокартонные звукопоглощающие. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>ТУ 21-31-10-86.
+Плиты гипсовые декоративные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>ОСТ 21-26-84.
+Плиты звукопоглощающие гипсовые литые.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><b><span id=SB>Плиты
+перфорированные гипсокартонные звукопоглощающие по ТУ 400-1-283-82</span></b><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты
+выпускаются следующих размеров, мм, с допускаемыми отклонениями, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине и
+ширине - 500 ± 1,0; 600 ± 1,0;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+8,5 ± 0,5.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+перпендикулярности смежных граней на длину измеряемой грани:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- не более 1,5
+мм для плит 500</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>500;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 2,0 мм для
+плит 600</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>600.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность плит
+- не более 1 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхность
+плит должна быть плоской. Отклонение лицевой поверхности плиты от
+прямолинейности не должно превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1,0 мм для
+плит 500</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>500;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1,5 мм для
+плит 600</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>600.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отбитости углов
+и ребер, а также трещины в гипсовом сердечнике не допускаются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На лицевых
+поверхностях плит не допускается наличие расслоения и сдира картона,
+загрязнений и жировых пятен.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На каждой пачке
+плит должна быть наклеена этикетка, в которой указывают: наименование и адрес
+предприятия-изготовителя, наименование продукции и ее условное обозначение,
+номер партии и дату изготовления, размеры плит, мм, количество, м<sup>2</sup>;
+краткие сведения о применении, гарантийный срок хранения.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+плит должна сопровождаться документом о качестве.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты следует
+хранить в закрытых сухих помещениях при относительной влажности воздуха не
+более 70 % на поддонах в штабелях высотой не более 1,8 м.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><b><span id=SB>Плиты
+гипсовые декоративные по ТУ 21-31-10</span></b><span id=SJD>-<b>86</b></span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размеры плит и
+допускаемые отклонения, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине и
+ширине - 300; 600 ±2 мм (1 сорт); ±3 мм (2 сорт);</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине-
+15; 20; 25; 30; 40 и более ±2 мм, -1 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+перпендикулярности смежных граней (по длине грани) - 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Загрязнения,
+пятна на лицевой поверхности и оголение арматуры не допускаются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускается
+изготовление плит со сколом кромок на глубину не более 5 мм или округленными
+углами радиусом не более 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+плит должна сопровождаться документом о качестве установленной формы, в котором
+указывается: наименование и адрес предприятия-изготовителя, наименование
+изделия и его условное обозначение, номер партии и дата изготовления, номер и
+дата выдачи документа, результаты испытаний.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плиты должны
+храниться в сухих складских помещениях установленными на ребро или плоскость
+боковой грани в пакетах или штабелях высотой не более 1,5 м на ровных
+горизонтальных площадках.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><b><span id=SB>Плиты
+звукопоглощающие гипсовые литые по ОСТ 21-26-84</span></b><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Номинальные
+размеры плит:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- основных -
+600</span><span id=SNJ1><span id=SR1>&acute;</span></span><span id=SB>600 при толщине 30 или 40
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- доборных -
+600</span><span id=SNJ1><span id=SR1>&acute;</span></span><span id=SB>300 при толщине 30 или 40
+мм.</span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допустимые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине и
+ширине - ±3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
++3; -1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+перпендикулярности и плоскостности смежных граней не более 4 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Повреждения
+(околы) ребер лицевой стороны плиты - не более трех на одном ребре длиной и
+шириной не более 5 мм, глубиной не более 3 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Раковины и
+наплывы на лицевой стороне плиты допускаются глубиной и высотой не более 3 мм,
+диаметром не более 6 мм. Трещины на поверхности плит не допускаются.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Отпускная
+влажность плит не должна превышать 5 %.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Изготовитель
+должен сопровождать каждую партию плит документом о качестве.</span><span id=SS></span></p>

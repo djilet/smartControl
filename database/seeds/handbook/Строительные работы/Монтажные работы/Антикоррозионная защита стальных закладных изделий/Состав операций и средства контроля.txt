@@ -1,0 +1,169 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="21%" id=S2W>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="37%" id=S3W>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="16%" id=S4W>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="23%" id=S5W>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=5 valign=top id=S6W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=S7W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S8W>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=5 valign=top id=S9W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на материалы, используемые для
+  антикоррозионной защиты;</span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество используемых материалов (внешним осмотром);</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку защищаемых поверхностей от остатков сварочного шлака, брызг
+  металла, ржавчины, копоти, пыли и подготовку поверхностей;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SCW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку материалов (порошка, проволоки, цинкового протекторного
+  грунта) к производству работ.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SDW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=4 valign=top id=SEW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство антикоррозионного покрытия</span><span id=SI></span></p>
+  </td>
+  <td width="37%" valign=top id=SFW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SGW>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=SHW>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- технологию нанесения антикоррозионных составов;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=S6O><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину отдельных слоев и общую толщину защитного покрытия;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SIW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид поверхности покрытия, прочность сцепления покрытия с
+  защищаемой поверхностью.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SJW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="21%" rowspan=4 valign=top id=S6W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="37%" valign=top id=S7W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S8W>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="23%" rowspan=4 valign=top id=S9W>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид покрытия;</span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SAW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину покрытия;</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SBW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="37%" valign=top id=SCW>
+  <p class=MsoNormal id=SJ1><span id=SD2>- прочность сцепления покрытия с защищаемой поверхностью.</span><span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=SDW>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: магнитный толщиномер типа ИТП-1,
+  толщиномер для лакокрасочных покрытий.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

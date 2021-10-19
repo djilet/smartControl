@@ -1,0 +1,163 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="20%" id=SBF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="33%" id=S8J1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SKX1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" id=SLX1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=5 valign=top id=SMX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SCJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SNX1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=5 valign=top id=SOX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт приемки выполненных работ, журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документов о качестве на сан. приборы;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество керамических унитазов, писсуаров и моек;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- готовность помещений для выполнения санитарно-технических работ;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку мест установки писсуаров и унитазов кронштейнов под мойки.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=5 valign=top id=SQX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Установка унитазов, писсуаров и моек</span><span id=SI></span></p>
+  </td>
+  <td width="33%" valign=top id=SIJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SRX1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=5 valign=top id=SSX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Журнал работ, акты на скрытые работы</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки унитазов и писсуаров с подключением их к
+  канализации;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность установки кронштейнов под мойки;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку моек с присоединением их к канализации;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=STX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку водоразборной арматуры.</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SUX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=3 valign=top id=SMX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="33%" valign=top id=SCJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SNX1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=3 valign=top id=SOX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество установки писсуаров, унитазов и моек;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="33%" valign=top id=SFJ1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество установки водоразборной арматуры.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SPX1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=ST51>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: металлический метр, строительный
+  уровень.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб).</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SVX1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер (прораб),
+  представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

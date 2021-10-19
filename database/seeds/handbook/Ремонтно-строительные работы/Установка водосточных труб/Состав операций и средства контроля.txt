@@ -1,0 +1,173 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="20%" id=SOQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="39%" id=SPQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SQQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="21%" id=SRQ1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=5 valign=top id=SSQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Подготовительные работы</span><span id=SI></span></p>
+  </td>
+  <td width="39%" valign=top id=STQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SUQ1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=5 valign=top id=SVQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Сертификат, паспорт, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие документов о качестве заготовок;</span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- проверка комплектности, маркировки и качества заготовок;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- вертикальность разметки;</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SYQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- прочность установки штырей с ухватами, шаг креплений
+  штырей.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SZQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=6 valign=top id=S0R1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Монтаж водосточных труб</span><span id=SI></span></p>
+  </td>
+  <td width="39%" valign=top id=STQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контролировать:</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SUQ1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=6 valign=top id=S1R1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- высоту крепления выпускного колена и угол наклона;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- монтаж стыков труб;</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- крепление звеньев труб хомутами;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- правильность соединения воронки с лотком и крепление к
+  свесу;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-»-</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SYQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- грунтовка, равномерность окраски.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SZQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>-»-</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="20%" rowspan=3 valign=top id=SSQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемка выполненных работ</span><span id=SI></span></p>
+  </td>
+  <td width="39%" valign=top id=STQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SUQ1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=3 valign=top id=SVQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SWQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- фактическое положение установленных водосточных труб,
+  правильность соединения воронки с лотком;</span></p>
+  </td>
+  <td width="18%" valign=top id=SXQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SYQ1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- внешний вид элементов.</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SZQ1>
+  <p class=MsoNormal align=center id=SA1><span id=SSH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контрольно-измерительный инструмент: рулетка
+  металлическая, линейка, шаблон, отвес.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Операционный контроль осуществляют: мастер (прораб).</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемочный контроль осуществляют: работники службы
+  качества, мастер (прораб), представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

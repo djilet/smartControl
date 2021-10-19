@@ -1,0 +1,207 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 22,
+25<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=252 height=192 src="x134.jpg" v:shapes="_x0000_i1091"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21>-
+поверхности покрытия от плоскости при проверке контрольной двухметровой рейкой
+- 4 </span><span id=SB>мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступов между
+смежными плитками - 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от заданного
+уклона покрытий - 0,2 % соответствующего размера помещения, но не более 50 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+покрытия - не более 10 % от проектной.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Ширина швов
+между плитками не должна превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 6 мм при
+втапливании плиток в прослойку вручную;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 3 мм при
+вибровтапливании плиток.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Уступы между
+покрытием и элементами окаймления не должны превышать 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При проверке
+сцепления плиток с нижележащими элементами пола простукиванием не должно быть
+изменения характера звучания.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры и щели
+между плинтусами и покрытием пола или стенами (перегородками);</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+волны, вздутия, выбоины, приподнятие кромок на поверхности покрытия.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../9/9425/index.htm" title="Плитки керамические для полов. Технические условия">ГОСТ
+6787-2001</a>. Плитки керамические для полов. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Отклонения формы и
+размеров керамических плиток от номинальных не должны превышать нижеследующих
+значений, мм.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="16%" rowspan=2 id=SG71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Для плиток длиной, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="83%" colspan=5 id=SH71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Отклонения, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="14%" id=SI71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по длине и ширине</span></b><span id=SH></span></p>
+  </td>
+  <td width="10%" id=SJ71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по толщине</span></b><span id=SI></span></p>
+  </td>
+  <td width="17%" id=SK71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по косоугольности</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" id=SL71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по искривлению поверхности</span></b><span id=SH></span></p>
+  </td>
+  <td width="18%" id=SM71>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по искривлению углов</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="16%" valign=top id=SN71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>до 48 вкл.</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SO71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SP71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,5</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SQ71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SR71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SIH>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="16%" valign=top id=SS71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>св. 48 до 100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=ST71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SU71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SV71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SW71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,75</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SLH>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="16%" valign=top id=SS71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>св. 100 до 150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=ST71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,0</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SU71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SV71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SW71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SLH>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="16%" valign=top id=SX71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>св. 150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SY71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±2,5</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SZ71>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S081>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,0</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=S181>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,8</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SNH>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Разница между наибольшим
+и наименьшим размерами плиток одной партии по длине и ширине не должна
+превышать 3 мм для плиток размерами до 150 мм и 4 мм - для плиток размерами
+свыше 150 мм.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Различие в
+толщине одной плитки не допускается более 1,0 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плитки в изломе
+должны иметь плотную структуру без посечек и раковин. Обратная (нелицевая)
+сторона плиток должна иметь поверхность, способствующую надежному сцеплению
+плиток с раствором.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждые
+контейнер, пакет, ящик и пачка плиток должны быть снабжены этикеткой, на
+которой указывают: наименование предприятия-изготовителя; наименование изделия;
+обозначение стандарта; тип и количество плиток. Этикетка должна быть прочно
+прикреплена (или вложена) к упаковке или напечатана на упаковочной бумаге.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+плиток должна сопровождаться документом, удостоверяющим их качество.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Растворная
+смесь, отпущенная в транспортное средство, должна сопровождаться документом о
+качестве, в котором должны быть указаны: наименование и адрес изготовителя,
+дата и время (часы, минуты) изготовления смеси, марка раствора, вид вяжущего,
+количество смеси, наименование и количество добавки, обозначение стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При входном
+контроле применяемых материалов на строительной площадке необходимо:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проверить
+наличие документа о качестве на поступающие материалы и требуемых в нем данных;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- путем
+внешнего осмотра убедиться в отсутствии дефектов внешнего вида материалов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+возникновении сомнений в качестве материалов потребовать контрольной проверки
+соответствия их требованиям нормативных документов.</span><span id=SS></span></p>

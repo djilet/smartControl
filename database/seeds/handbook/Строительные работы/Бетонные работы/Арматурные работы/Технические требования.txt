@@ -1,0 +1,289 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> табл. 9</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=237 height=139 src="x036.jpg" v:shapes="_x0000_i1042"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>1) В расстоянии
+между отдельно установленными рабочими стержнями для:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- колонн и
+балок - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плит и стен
+фундаментов - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- массивных
+конструкций - ±30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>2) В расстоянии
+между рядами арматуры для:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плит и балок
+толщиной до 1 м - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- конструкций
+толщиной более 1 м - ±20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>3) При
+армировании конструкций отдельными стержнями, установленными внахлестку без
+сварки, длина нахлестки определяется проектом</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>4) При
+армировании конструкции сварными сетками и каркасами допускается установка их
+без сварки путем перепуска на длину, указанную в проекте, но не менее 250 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>5) Суммарной
+длины сварных швов на стыке стержней внахлестку или на каждой половине стыка с
+накладками:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для стержней
+класса </span><span  id=SHD>A</span><span id=S62>-</span><span  id=SID>I</span><span id=SJD>:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+двухсторонних швах - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+односторонних швах - 6 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для стержней
+класса </span><span  id=SHD>A</span><span id=S62>-</span><span  id=SID>II</span><span id=SJD> и </span><span  id=SZ3>A</span><span id=SB>-</span><span  id=SS5>IV</span><span id=SB>:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+двухсторонних швах - 4 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+односторонних швах - 8 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SKD><span id=SB>6)
+От проекта толщины защитного слоя бетона - в соответствии с таблицей.</span><span id=SS></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="73%" id=SLD>
+  <p class=MsoNormal align=center id=S46><b>Технические
+  параметры</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="26%" id=SMD>
+  <p class=MsoNormal align=center id=S46><b>Предельные
+  отклонения, мм</b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SND>
+  <p class=MsoNormal>Толщина защитного слоя до 15 мм и размеры поперечного
+  сечения конструкции, мм:<span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SOD>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>до 100;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+4</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SRD>
+  <p class=MsoNormal id=SD3><span id=S82>от 101 до 200</span></p>
+  </td>
+  <td width="26%" valign=top id=SSD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SND>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина защитного слоя от 16 до 20 мм и размеры поперечного сечения
+  конструкции, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SOD>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>до 100;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+4; -3</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>от 101 до 200;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+8; -3</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>от 201 до 300;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+10; -3</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SRD>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 300</span></p>
+  </td>
+  <td width="26%" valign=top id=SSD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+15; -5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SND>
+  <p class=MsoNormal id=SJ1><span id=SD2>Толщина защитного слоя свыше 20 мм и размеры поперечного сечения
+  конструкции, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SOD>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>до 100;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+4; -5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>от 101 до 200;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+8; -5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SPD>
+  <p class=MsoNormal id=SD3><span id=S82>от 201 до 300;</span></p>
+  </td>
+  <td width="26%" valign=top id=SQD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+10; -5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="73%" valign=top id=SRD>
+  <p class=MsoNormal id=SD3><span id=S82>свыше 300</span></p>
+  </td>
+  <td width="26%" valign=top id=SSD>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+15; -5</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>На арматурные работы необходимо составлять акты
+освидетельствования скрытых работ.<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3308/index.htm" title="Арматурные и закладные изделия сварные, соединения сварные арматуры и закладных изделий железобетонных конструкций. Общие технические условия">ГОСТ
+10922-90</a></span><span id=S74>. Арматурные и закладные изделия сварные, соединения сварные арматуры
+и закладных изделий железобетонных конструкций. Общие технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3968/index.htm" title="Сетки сварные для железобетонных конструкций. Технические условия">ГОСТ
+8478-81</a>. Сетки сварные для железобетонных конструкций. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Предельные
+отклонения размеров арматурных изделий от проектных, мм:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- габаритный
+размер и расстояние между крайними стержнями по длине арматурного изделия:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>до 4500 мм -
+±10;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 4500 до
+9000 мм - ±15;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 9000 до
+15000 мм - ±20;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 15000 мм
+- ±25.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же по
+ширине:</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>до 1500 мм -
+±10;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 1500 мм -
+±10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же по
+высоте:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>до 100 мм - +3;
+-5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 100 до
+250 мм - +5; -7;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 250 до
+400 мм - +7; -10;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 400 мм -
++10; -15.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояние
+между стержнями:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>до 50 мм - ±2;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>свыше 50 до 100
+мм - ±5;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>выше 100 мм -
+±10.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения для сеток, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины,
+размеров ячеек, разницы в длине диагоналей плоских сеток, свободных концов
+стержней - ±10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длины плоских
+сеток - ±15.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения от прямолинейности стержней сеток:</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- не должны превышать
+6 мм на 1 м длины сетки.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров и параметров закладных деталей от проектных:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- не должны
+превышать ±5 мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения в отметках закладных элементов, служащих опорами для металлических
+или сборных железобетонных колонн и других сборных элементов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- не должны
+превышать 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Кромки плоских
+элементов закладных деталей не должны иметь заусенцев, завалов и
+шероховатостей, превышающих 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На элементах
+арматурных изделий и закладных деталей не должно быть отслаивающихся ржавчины и
+окалины, а также след<span id=S31>ов масла, битума и других
+загрязнений.</span></span><span id=SS></span></p>

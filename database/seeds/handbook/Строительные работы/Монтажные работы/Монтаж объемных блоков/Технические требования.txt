@@ -1,0 +1,15 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.5-3.7, 3.29, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от совмещения ориентиров (рисок геометрических осей, граней) в нижнем сечении
+установленных блоков с установочными ориентирами (рисками геометрических осей
+или гранями нижележащих элементов, рисками разбивочных осей) - 8 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+верха плоскостей объемных блоков- 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=250 height=192 src="x072.jpg" v:shapes="_x0000_i1060"></span></p>

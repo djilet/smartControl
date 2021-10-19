@@ -1,0 +1,33 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 6.19-6.21, табл. 27<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=275 height=208 src="x082.jpg" v:shapes="_x0000_i1065"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+кромок панелей - 0,001 длины панели (</span><i><span  id=SS5>l</span></i><span id=SB>);</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+разности отметок концов горизонтально установленных панелей при длине панели:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- до 6 м - 5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- свыше 6 м до
+12 м - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+наружной поверхности стенового ограждения - от вертикали - 0,002 высоты
+ограждений (</span><i><span  id=SID>h</span></i><span id=SJD>);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размеров карт
+укрупненной сборки по длине и ширине - ±6 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разности
+размеров диагоналей - 15 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Законченные
+монтажом конструкции стен следует принимать на все здание, температурный блок
+или по пролетам.</span><span id=SS></span></p>

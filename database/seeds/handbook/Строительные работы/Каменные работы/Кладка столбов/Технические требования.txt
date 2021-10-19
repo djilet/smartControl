@@ -1,0 +1,59 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 7.4, 7.6, 7.21, 7.29, 7.90, табл. 34</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=228 height=170 src="x050.jpg" v:shapes="_x0000_i1049"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- глубины не
+заполненных раствором вертикальных швов при впустошовку - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины
+конструкций - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+опорных поверхностей - -10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхностей
+и углов кладки от вертикали:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на один этаж
+- 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на здание
+высотой более двух этажей - 30 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- смещения осей
+конструкции от разбивочных осей - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неровностей
+на вертикальной поверхности кладки, обнаруженных при наложении 2-метровой
+рейки, - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина швов
+кладки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных - 12 мм; предельное отклонение - -2; +3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вертикальных
+- 10 мм; предельное отклонение - ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Толщина
+швов армированной кладки - не более 16 мм.</span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+ослабление каменных конструкций бороздами, отверстиями, нишами, не
+предусмотренными проектом;</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+битого кирпича для кладки.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>По
+аналогии со схемой операционного контроля качества кладки перегородок, стен.</span><span id=SY3></span></p>

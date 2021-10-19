@@ -1,0 +1,264 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.6, 3.7, 3.25, табл. 12<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=237 height=191 src="x066.jpg" v:shapes="_x0000_i1057"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+от смещения ориентиров (рисок геометрических осей, граней) в нижнем сечении
+установленных панелей, блоков с установочными ориентирами (рисками
+геометрических осей или гранями нижележащих элементов, рисками разбивочных
+осей) - 8 мм;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+верха плоскостей:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- панелей - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- блоков- 12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+маяков относительно монтажного горизонта - ±5 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина маяков
+при отсутствии в проекте специальных указаний должна составлять 10-30 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- щели между
+торцом панели после ее выверки и растворной постелью;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+применение раствора, процесс схватывания которого уже начался.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+восстановление пластичности раствора путем добавления воды.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3309/index.htm" title="Панели стеновые наружные бетонные и железобетонные для жилых и общественных зданий. Общие технические условия">ГОСТ
+11024-84*</a></span><span id=SB>.
+Панели стеновые наружные бетонные и железобетонные для жилых и общественных
+зданий. Общие технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3331/index.htm" title="Блоки стеновые бетонные и железобетонные для зданий. Общие технические условия">ГОСТ
+19010-82*</a></span><span id=S74>. Блоки стеновые бетонные и железобетонные для зданий. Общие
+технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent3 id=SXC>Значения предельных отклонений геометрических параметров
+панелей, блоков не должны превышать значения, приведенные в таблице.<span id=SH></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="22%" rowspan=2 id=S0O>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Наименование параметра</span></b><span id=SH></span></p>
+  </td>
+  <td width="36%" colspan=3 id=S1O>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Допуски, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="40%" rowspan=2 id=S2O>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Разность длин диагоналей лицевых
+  поверхностей</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" valign=top id=S3O>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по длине, ширине</span></b><span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=S4O>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>по высоте</span></b><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S5O>
+  <p class=MsoNormal align=center id=S6O><b><span id=S82>по толщине</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=S7O>
+  <p class=MsoNormal id=SJ1><span id=SD2>1. Длина и высота, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=S8O>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=S9O>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SAO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SBO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>до 500 св. 500 до </span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>1000 св. 1000 до </span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2,5</span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>1600 св. 1600 до </span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>2500 св. 2500 до </span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>4000 св. 4000 до </span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>8000</span></p>
+  </td>
+  <td width="15%" valign=top id=SEO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span></p>
+  </td>
+  <td width="9%" valign=top id=SFO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SHO>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. Толщина, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SIO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SJO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="40%" valign=top id=SKO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SCO>
+  <p class=MsoNormal id=SDO><span id=S82>до 250</span></p>
+  </td>
+  <td width="15%" valign=top id=SIO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SJO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SGO>
+  <p class=MsoNormal align=center id=S46><span id=SLO><span id=S48>±</span></span><span id=SH>4</span></p>
+  </td>
+  <td width="40%" valign=top id=SKO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" valign=top id=SMO>
+  <p class=MsoNormal id=SDO><span id=S82>св. 250</span></p>
+  </td>
+  <td width="15%" valign=top id=SNO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="9%" valign=top id=SOO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SPO>
+  <p class=MsoNormal align=center id=SA1><span id=SLO><span id=S48>±</span></span><span id=SH>5</span></p>
+  </td>
+  <td width="40%" valign=top id=SQO>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>На строительной площадке необходимо проверить:<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие
+паспорта на партию изделий, в котором должны быть указаны: номер и дата выдачи
+паспорта, номер партии, марка панелей, их число, дата изготовления, класс или
+марка бетона по прочности, отпускная прочность бетона (нормируемая, требуемая с
+учетом<span id=S31> фактической однородности бетона по </span><a href="../../3/3589/index.htm" title="Бетоны. Правила контроля прочности"><span id=SU>ГОСТ 18105-86*</span></a><span id=S31> и фактическая), марка бетона по </span>морозостойкости
+(при необходимости), обозначение стандарта;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наличие
+маркировки на торцевой поверхности панелей.</span><span id=SS></span></p>

@@ -1,0 +1,121 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 9,
+10<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=249 height=198 src="x152.jpg" v:shapes="_x0000_i1100"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхностей
+от вертикали на 1 м длины - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на всю высоту
+помещения - не более 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неровности
+поверхностей плавного очертания (на 4 м<sup>2</sup>) - не более 2 глубиной
+(высотой) до 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- оконных и
+дверных откосов, пилястр, столбов, лузг и т.п. от вертикали и горизонтали (мм
+на 1 м) - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- радиуса
+криволинейных поверхностей, проверяемого лекалом, от проектной величины (на
+весь элемент) - 7 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+от горизонтали на 1 м длины - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины откоса
+от проектной - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- тяг от прямой
+линии в пределах между углами - 3 мм.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+кирпичных и каменных поверхностей при оштукатуривании - не более 8 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина каждого
+слоя при устройстве многослойных штукатурок без полимерных добавок, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обрызга по
+каменным, кирпичным, бетонным поверхностям - до 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обрызга по
+деревянным поверхностям, включая толщину драни, - до 9;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- грунта из
+цементных растворов - до 5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- грунта из
+известковых, известково-гипсовых растворов - до 7;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- накрывочного
+слоя штукатурного покрытия - до 2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- накрывочного
+слоя декоративной отделки - до 7.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность
+сцепления штукатурных растворов, МПа, не менее:</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для
+внутренних работ - 0,1;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для наружных
+работ - 0,4.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+отслоения штукатурки, трещины, раковины, высолы, следы затирочного инструмента.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5762/index.htm" title="Растворы строительные. Общие технические условия">ГОСТ
+28013-98</a></span><span id=S74>. Растворы строительные. Общие технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a>.
+Изоляционные и отделочные покрытия (табл. 8).</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставленные на
+строительную площадку штукатурные растворы должны соответствовать следующим
+техническим требованиям:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проходить
+через сетку с размерами ячеек:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- растворы для
+обрызга и грунта - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- растворы для
+накрывочного слоя и однослойных покрытий <i>- </i>1,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- подвижность в
+пределах - 5</span><span id=SC21><span id=ST1>&cedil;</span></span><span id=SB>12 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+расслаиваемость не более 15 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+водоудерживающая способность - не менее 90 %;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- прочность -
+по проекту;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурный
+раствор должен приготовляться на песке с модулем крупности от 1 до 2; не
+содержать зерен размером свыше 2,5 мм в растворах для обрызга и грунта и свыше
+1,25 мм для отделочных слоев.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурный
+раствор должен сопровождаться документом о качестве, в котором должны быть
+указаны: дата и время (часы, мин.) приготовления смеси, марка раствора, вид
+вяжущего, количество смеси, подвижность смеси, обозначение стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доставленная на
+строительную площадку штукатурная растворная смесь должна быть разгружена в
+перегружатель-смеситель или в другие емкости при условии сохранения заданных
+свойств растворной смеси.</span><span id=SS></span></p>

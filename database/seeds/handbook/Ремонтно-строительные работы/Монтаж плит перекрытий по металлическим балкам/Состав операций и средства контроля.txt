@@ -1,0 +1,188 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" valign=top id=SUM1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="30%" valign=top id=SVM1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=SWM1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" valign=top id=SXM1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SSH>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SYM1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Подготовительные работы</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SZM1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S0N1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=4 valign=top id=S1N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие документа о качестве на металлические
+  конструкции и бетонные плиты;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Визуальный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- соответствие размеров конструкций проектным, наличие
+  окраски балок;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Визуальный, измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- соответствие отметок проектным, размеры гнезд, наличие
+  опорных подушек.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Измерительный, визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=S4N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Монтаж плит перекрытия</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S5N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контролировать:</span><span id=SI></span></p>
+  </td>
+  <td width="21%" valign=top id=S6N1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=6 valign=top id=S7N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Общий журнал работ, акт освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- размеры опирания балок на стены(опорные подушки),
+  размеры по осям;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Визуальный, измерительный, каждый элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие раствора под концами железобетонных плит,
+  замоноличивание гнезд;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Технический осмотр</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- наличие поперечных связей и их анкеровку в стены;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- правильность укладки толя при звукоизоляции;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Визуальный, измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S8N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- влажность и толщину слоя засыпки.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S9N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SAN1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемка выполненных работ</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SZM1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S0N1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=3 valign=top id=SBN1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S2N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- фактическое положение смонтированных балок плит;</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S3N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>Визуальный, измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="30%" valign=top id=S8N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>- внешний вид лицевых поверхностей.</span><span id=SH></span></p>
+  </td>
+  <td width="21%" valign=top id=S9N1>
+  <p class=MsoNormal id=SJ1><span id=SUH>То же</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Контрольно-измерительный инструмент: рулетка, линейка
+  металлическая, нивелир, двухметровая рейка.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SUH>Операционный контроль осуществляют: мастер (прораб), геодезист
+  - в процессе работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SUH>Приемочный контроль осуществляют: работники службы
+  качества, мастер (прораб), представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3314/index.htm" title="Плиты перекрытий железобетонные сплошные для крупнопанельных зданий. Общие технические условия">ГОСТ
+12767-94</a></span><span id=S74>. Плиты железобетонные сплошные для перекрытий жилых и
+общественных зданий. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения от
+номинальных размеров плит, указанных в рабочих чертежах, не должны превышать
+следующие значения:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине плит
+до 4 м - ±8 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+плит - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине
+плит до 2,5 м - ±6 мм.</span><span id=SS></span></p>

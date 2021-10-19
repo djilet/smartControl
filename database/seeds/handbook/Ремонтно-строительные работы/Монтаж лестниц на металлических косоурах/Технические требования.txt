@@ -1,0 +1,98 @@
+<p class=a><b>Технические требования<br>
+</b>Альбом 24-НТ-4 Ленжилпроекта<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=219 height=180 src="x196.jpg" v:shapes="_x0000_i1122"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- высоты
+подступенка от проекта - ±3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины
+проступи от проекта - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в просветах
+при наложении рейки длиной 2 м вдоль марша на свесы проступей - 4 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отклонения от
+горизонтали проступей - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от
+горизонтали площадок лестниц - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+подступенка - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- от вертикали
+металлических решеток - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстояниях
+между элементами ограждений (стойками) от проектных - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- зазоры между
+элементами поручня - 0,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Опирание балок
+на стены под лестничные площадки должно быть не менее 250 мм с опорной
+пластиной размером 200</span><span id=STK1><span id=ST1>&acute;</span></span><span id=SB>250 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству применяемых
+материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3302/index.htm" title="Ступени железобетонные и бетонные. Технические условия">ГОСТ
+8717.0-84*</a></span><span id=S74>. Ступени железобетонные и бетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3418/index.htm" title="Лестницы маршевые, площадки и ограждения стальные. Технические условия">ГОСТ
+23120-78</a></span><span id=S74>. Лестницы маршевые, площадки и ограждения стальные. Технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Значения
+действительных отклонений геометрических параметров ступеней не должны
+превышать предельные:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+ступени - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+ступени - ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине
+ступени - ±3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Верхняя лицевая
+поверхность ступеней одной партии должна иметь одинаковый цвет и тон окраски.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Маркировочные
+надписи и знаки должны быть нанесены на нелицевых поверхностях ступеней.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+ступеней должна сопровождаться документом о качестве. Ступени транспортируются
+и хранятся в контейнерах или пакетах.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каркасы
+ограждений лестниц должны изготовляться сварными. Отклонения от проектных
+размеров элементов каркаса ограждений не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте - 3
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - 5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по величине
+стрелки кривизны - 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предприятие-изготовитель
+должно поставлять металлические ограждения окрашенными масляной краской за один
+раз (за исключением участков, подлежащих заделке в бетон). Ограждения должны
+поставляться в виде укрупненных элементов (на марш, площадку) комплектно с
+крепежными деталями.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для выборочной
+проверки качества ограждений отбирают образцы в количестве 5 % от партии, но не
+менее 5 штук. Отобранные образцы подвергают осмотру и обмеру.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Ограждения
+должны храниться в штабелях высотой не более 1,5 м рассортированными по маркам.
+Между элементами (пачками) ограждения должны быть проложены деревянные
+прокладки толщиной не менее 30 мм на расстоянии не более 1<b> </b>м.</span><span id=SS></span></p>

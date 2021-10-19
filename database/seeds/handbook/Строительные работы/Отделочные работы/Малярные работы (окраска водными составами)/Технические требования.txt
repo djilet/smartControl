@@ -1,0 +1,102 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 3.7,
+табл. 9, 11, 15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=249 height=223 src="x158.jpg" v:shapes="_x0000_i1103"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- влажности
+поверхности:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных,
+оштукатуренных или прошпатлеванных - до появления капельно-жидкой влаги на
+поверхности;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- деревянных
+поверхностей - не более 12 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины слоев
+малярного покрытия - не менее 25 Мкм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- искривлений
+линий в местах сопряжений поверхностей, окрашенных в различные цвета:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для простой
+окраски - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для
+улучшенной окраски - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- искривлений
+линий филенок и закраска поверхностей при применении разных колеров - 1 мм на 1
+м длины.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку
+малярных работ необходимо производить после высыхания водных красок.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхности
+после высыхания водных составов должны быть однотонными, местные исправления,
+выделяющиеся на общем фоне (кроме простой окраски), не должны быть заметны на
+расстоянии 3 м от поверхности.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- пятна,
+полосы, подтеки, брызги, истирания (омелования) поверхности;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+выполнение работ по окраске оснований, имеющих ржавчину, высолы, жировые и
+битумные пятна.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3717/index.htm" title="Краски силикатные">ГОСТ 18958-73</a>. Краски силикатные.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../4/4528/index.htm" title="Краски водно-дисперсионные. Технические условия">ГОСТ
+28196-89</a>*. Краски водно-дисперсионные. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../11/11765/index.htm" title="Материалы лакокрасочные водно-дисперсионные. Общие технические условия">ГОСТ
+Р 52020-2003</a>. Материалы лакокрасочные водно-дисперсионные. Общие </span><span id=SB>технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Краски
+должны поставляться партиями. За партию принимают количество одной марки и
+цвета краски, полученной за один технологический цикл и сопровождаемой
+документом о качестве, в котором должно быть указано:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и его товарный знак;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование,
+марка и цвет материала;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- масса нетто;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата
+изготовления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+нормативно-технической документации;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- результаты
+проведенных испытаний и подтверждение о соответствии материалов требованиям
+нормативных документов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид тары и
+количество единиц упаковок в партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- указания об
+особых свойствах материала (пожаровзрывоопасность, токсичность).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Краски
+упаковывают в бочки деревянные, фляги, бочки стальные, банки металлические,
+полиэтиленовые бидоны различной емкости.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Краски хранят и
+транспортируют при температуре выше 0 </span><span id=SNB><span id=ST1>°</span></span><span id=SB>С.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гарантийный
+срок хранения красок - 6 месяцев со дня изготовления.</span><span id=SS></span></p>

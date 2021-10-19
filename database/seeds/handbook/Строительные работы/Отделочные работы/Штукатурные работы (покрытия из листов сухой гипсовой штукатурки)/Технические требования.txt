@@ -1,0 +1,381 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 9,
+15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=249 height=191 src="x156.jpg" v:shapes="_x0000_i1102"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхностей
+от вертикали:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на 1 м длины
+- 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на всю высоту
+помещения - не более 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неровности
+поверхностей плавного очертания (на 4 м<sup>2</sup>) - не более 2 глубиной
+(высотой) до 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+оконных и дверных откосов, пилястр, столбов, лузг и т.п. от вертикали и
+горизонтали (мм на 1 м) - 1 мм;</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- радиуса
+криволинейных поверхностей, проверяемого лекалом, от проектной величины (на
+весь элемент) - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+от горизонтали на 1 м длины - 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ширины откоса
+от проектной - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- тяг от прямой
+линии в пределах между углами - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- провесов в
+стыках листов - не более 1 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурные
+покрытия из листов сухой гипсовой штукатурки не должны быть зыбкими, при легком
+простукивании деревянным молотком в стыках не должны появляться трещины.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+отслоения штукатурки, трещины в стыках.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3702/index.htm" title="Листы гипсокартонные. Технические условия">ГОСТ 6266-97</a>.
+Листы гипсокартонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По средней
+плотности, точности изготовления и показателям внешнего вида листы подразделяют
+на две группы: А и Б.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>По форме
+поперечного сечения продольных кромок листы подразделяют на два типа:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- УК - с
+утоненными с лицевой стороны кромками;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- ПК - с
+прямыми кромками.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Средняя
+плотность листов должна быть, кг/м<sup>3</sup>, не более:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 850 - для
+группы А;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1050 - для
+группы Б.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Условное
+обозначение листов должно состоять из:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- аббревиатуры
+наименования листов - ГКЛ;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначения
+группы листов - А, Б;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначения
+типа листов - УК, ПК;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- цифр,
+обозначающих номинальную длину, ширину и<b> </b>толщину листа в мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначения
+настоящего стандарта.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Пример
+условного обозначения гипсокартонных листов группы А с утоненными кромками
+длиной 3000 мм, шириной 1200 мм, толщиной 14 мм:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>ГКЛ-А-УК-3000</span><span id=SKD1><span id=ST1>&acute;</span></span><span id=S21>1200</span><span id=SKD1><span id=ST1>&acute;</span></span><span id=S21>14 ГОСТ 6266-89</a>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Листы должны
+иметь в плане прямоугольную форму. Номинальные геометрические размеры листов
+должны соответствовать значениям, указанным в таблице 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i><i><span id=SS></span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="12%" id=SLD1>
+  <p class=MsoNormal align=center id=S46><b>Толщина</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="75%" id=SMD1>
+  <p class=MsoNormal align=center id=S46><b>Длина</b></p>
+  </td>
+  <td width="11%" id=SND1>
+  <p class=MsoNormal align=center id=S46><b>Ширина</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SOD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span><span id=SI></span></p>
+  </td>
+  <td width="75%" rowspan=5 id=SPD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2500, 2600, 2700, 2900, 3000</span><span id=SH></span></p>
+  </td>
+  <td width="11%" rowspan=8 id=SQD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1200</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SRD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SRD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>12</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SRD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>13</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SSD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>14</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SOD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>16</span><span id=SI></span></p>
+  </td>
+  <td width="75%" rowspan=3 id=SPD1>
+  <p class=MsoNormal align=center id=S6O><span id=S82>2500, 2600, 2700, 2900, 3000, 3300, 3600,
+  3900, 4200, 4500, 4800</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SRD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>18</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=SSD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=STD1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>24</span><span id=SI></span></p>
+  </td>
+  <td width="75%" id=SUD1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" id=SVD1>
+  <p class=MsoNormal align=center id=SA1><span id=SU>600</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SM><span id=SB>Действительные
+отклонения геометрических размеров листов не должны превышать предельные,
+указанные в таблице 2.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="12%" rowspan=3 id=SWD1>
+  <p class=MsoNormal align=center id=S46><b>Ширина</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="87%" colspan=6 id=SXD1>
+  <p class=MsoNormal align=center id=S46><b>Предельные
+  отклонения для группы</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="43%" colspan=3 id=SYD1>
+  <p class=MsoNormal align=center id=S46><b>А</b></p>
+  </td>
+  <td width="43%" colspan=3 id=SYD1>
+  <p class=MsoNormal align=center id=S46><b>Б</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" id=SZD1>
+  <p class=MsoNormal align=center id=S46><b>по длине</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="14%" id=S0E1>
+  <p class=MsoNormal align=center id=S46><b>по ширине</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" id=S1E1>
+  <p class=MsoNormal align=center id=S46><b>по толщине</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="12%" id=SZD1>
+  <p class=MsoNormal align=center id=S46><b>по длине</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="14%" id=S0E1>
+  <p class=MsoNormal align=center id=S46><b>по ширине</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" id=S1E1>
+  <p class=MsoNormal align=center id=S46><b>по толщине</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="12%" valign=top id=S2E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1200</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>600</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S3E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±4</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±4</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=S4E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±3</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-8</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S5E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,5</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+  <td width="12%" valign=top id=S3E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±8</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±8</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=S4E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±4</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>+2</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-10</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S5E1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,8</span></p>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±1,0</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Допускается в партии
+(за исключением случаев поставки в розничную торговлю) не более 5 % листов
+длиной и (или) шириной менее допускаемых настоящим стандартом размеров, а также
+без облицовки картоном продольных кромок.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На листе не
+допускаются повреждения углов и продольных кромок, размеры и количество которых
+превышают значения, указанные в таблице 3.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 3</span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="48%" rowspan=2 id=S6E1>
+  <p class=MsoNormal align=center id=S46><b>Наименование
+  показателя</b></p>
+  </td>
+  <td width="51%" colspan=2 id=S7E1>
+  <p class=MsoNormal align=center id=S46><b>Предельные
+  значения для группы</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="25%" id=S8E1>
+  <p class=MsoNormal align=center id=S46><b>А</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="25%" id=S8E1>
+  <p class=MsoNormal align=center id=S46><b>Б</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=S9E1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Повреждение углов:</span><span id=SH></span></p>
+  </td>
+  <td width="25%" valign=top id=SAE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" valign=top id=SAE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SBE1>
+  <p class=MsoNormal id=SD3><span id=S82>длина наибольшего катета, мм</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SBE1>
+  <p class=MsoNormal id=SD3><span id=S82>количество, шт.</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SBE1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Повреждение продольных кромок:</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=S82></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SBE1>
+  <p class=MsoNormal id=SD3><span id=S82>длина, мм</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>20</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SBE1>
+  <p class=MsoNormal id=SD3><span id=S82>глубина, мм</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span></p>
+  </td>
+  <td width="25%" valign=top id=SCE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="48%" valign=top id=SDE1>
+  <p class=MsoNormal id=SD3><span id=S82>количество, шт.</span></p>
+  </td>
+  <td width="25%" valign=top id=SEE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+  <td width="25%" valign=top id=SEE1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

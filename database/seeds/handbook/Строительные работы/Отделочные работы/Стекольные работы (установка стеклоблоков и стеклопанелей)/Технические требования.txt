@@ -1,0 +1,89 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=243 height=183 src="x168.jpg" v:shapes="_x0000_i1108"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения всей конструкции от вертикали:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на 1 м
+поверхности - 2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- на всю высоту
+- 10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Конструкция из
+стеклоблоков, установленных на растворе, должна иметь ровные, строго
+вертикальные и горизонтальные швы одинаковой ширины, заполненные заподлицо с
+поверхностями стеклопакетов.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+выколы, пробоины в стеклоблоках и стеклопанелях;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- следы
+замазки, раствора, краски, жировые пятна на поверхности стеклоконструкции.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству применяемых
+материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3764/index.htm" title="Блоки стеклянные пустотелые. Технические условия">ГОСТ
+9272-81</a></span><span id=S74>*. Блоки стекольные пустотелые. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../7/7541/index.htm" title="Стеклопакеты клееные строительного назначения. Технические условия">ГОСТ
+24866-99</a></span><span id=S74>. Стеклопакеты клееные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3765/index.htm" title="Стекло строительное профильное. Технические условия">ГОСТ
+21992-83</a></span><span id=S74>. Стекло строительное профильное. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Блоки
+стеклянные должны иметь квадратную или прямоугольную форму размером 194</span><span id=SB21><span id=SR1>&acute;</span></span><span id=SB>194 мм, 244</span><span id=SB21><span id=SR1>&acute;</span></span><span id=SB>244 мм, 194</span><span id=SB21><span id=SR1>&acute;</span></span><span id=SB>244 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров блоков по длине, ширине и толщине не должны превышать ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Наружные
+поверхности лицевых стенок блоков должны быть гладкими, а торцевых - рифлеными.</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Смещение
+полублоков, из которых состоит блок, не должно быть более 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Не допускаются
+на поверхности блоков пузыри открытые, инородные разрушающие включения,
+трещины.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размеры
+стеклопакетов должны быть, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+(длине) - от 400 до 2550;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+от 400 до 2950;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+не более 46.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+(длине) - ±2 мм при размерах стеклопакета до 1000 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+(длине) - ±3 мм при размерах стеклопакета более 1000 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине -
+±1,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стеклоблоки и
+стеклопакеты должны быть приняты техническим контролем
+предприятия-изготовителя.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку
+производят партиями. Размер партии не должен превышать 1200 шт. Партия
+сопровождается документом о качестве.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Потребитель
+производит контрольную проверку качества стекла.</span><span id=S2></span></p>

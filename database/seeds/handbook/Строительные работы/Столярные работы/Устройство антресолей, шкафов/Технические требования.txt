@@ -1,0 +1,20 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп.
+3.64-3.66, табл. 14<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=253 height=198 src="x120.jpg" v:shapes="_x0000_i1084"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- антресолей,
+шкафов от вертикали на 1 м высоты - 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- провесов в
+стыках листов обшивки - 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+поля обшивки на 1 м длины - 1,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Плоскость
+поверхности, обшитой листами, должна быть ровной, без провесов в стыках,
+жесткой.</span><span id=SY3></span></p>

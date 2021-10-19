@@ -1,0 +1,167 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=S8T1>
+  <p class=MsoNormal align=center id=S46><b>Этапы работ</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="34%" id=S9T1>
+  <p class=MsoNormal align=center id=S46><b>Контролируемые
+  операции</b></p>
+  </td>
+  <td width="20%" id=SIP>
+  <p class=MsoNormal align=center id=S46><b>Контроль (метод,
+  объем)</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="25%" id=SAT1>
+  <p class=MsoNormal align=center id=S46><b>Документация</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SBT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SCT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SNP>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=4 valign=top id=SDT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на материалы;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- проверка отметок, ширины подготовки основания, наличие приямков под
+  раструбами;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SGT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- выполнение очистки основания от мусора, грязи.</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SHT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=5 valign=top id=SIT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж трубопроводов</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SCT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SNP>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=5 valign=top id=SJT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество опирания труб на всем своем протяжении на основании;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность прокладки трубопровода согласно проекта;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- уклоны укладываемых труб;</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SGT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение технологии монтажа и выполнения уплотнения стыков.</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SHT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SKT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка трубопроводов</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SCT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SNP>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="25%" rowspan=4 valign=top id=SLT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ. Акт испытания трубопроводов. Акт
+  освидетельствования скрытых работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество выполненных работ;</span><span id=SI></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, технический осмотр</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SET1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- испытание трубопроводов;</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SFT1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="34%" valign=top id=SMT1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие засыпки трубопроводов проекту.</span><span id=SH></span></p>
+  </td>
+  <td width="20%" valign=top id=SNT1>
+  <p class=MsoNormal align=center id=SA1><span id=SOT1>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SZG>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: нивелир, уровень строительный,
+  линейка металлическая, плотномер ГРПТ-2, влагомер П</span><span  id=S06>HHB</span><span id=S82>-1.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SG1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют, мастер (прораб), геодезист - в
+  процессе выполнения работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S5S>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

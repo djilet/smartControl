@@ -1,0 +1,98 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 13,<b>
+</b>15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=184 height=216 src="x170.jpg" v:shapes="_x0000_i1109"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+стеклопанели в верхнем сечении по вертикали на всю высоту - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщина шва -
+±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прогиб в
+плоскости остекления элементов, на которые опирается профильное стекло, должен
+быть не более - 15 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+выколы, пробоины в стеклопанелях;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- следы
+замазки, мастики, раствора, краски, жировые пятна на поверхности
+стеклоконструкций;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- жесткое
+соединение элементов профильного стекла с несущими или ограждающими
+конструкциями зданий, а так же между собой, не допускается.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../7/7541/index.htm" title="Стеклопакеты клееные строительного назначения. Технические условия">ГОСТ
+24866-99</a></span><span id=S74>. Стеклопакеты клееные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3765/index.htm" title="Стекло строительное профильное. Технические условия">ГОСТ
+21992-83</a></span><span id=S74>. Стекло строительное профильное. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+размеров стекла не должно превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине и
+ширине - ±5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте - 3
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стекло может
+быть бесцветным и цветным, армированным и неармированным, с гладкой, рифленой
+или узорчатой поверхностью.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Бесцветное
+стекло может иметь желтоватый, голубоватый или зеленоватый оттенок.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямого угла, образуемого лицевыми и боковыми поверхностями, не должно
+превышать ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямого угла, образуемого плоскостью торцов стекла с его лицевыми и боковыми
+поверхностями, не должно превышать ±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Разность высот
+боковых поверхностей стекла не должна превышать 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение от
+прямолинейности в плоскости (выпуклость или вогнутость) лицевых поверхностей
+стекла не должно превышать на 1 мм длины:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине - 2
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - 4
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Качество
+поверхности и внешний вид.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Открытые пузыри
+не допускаются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Закрытые пузыри
+на лицевой поверхности размером до 3 мм включительно - не нормируются, размером
+свыше 3 до 8 мм допускаются не более 20 шт. на 1 м длины стекла; на боковой
+поверхности не нормируются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Инородные
+разрушающие включения (непроваренные частицы огнеупорных материалов) не
+допускаются.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Инородные
+неразрушающие включения (непроверенные частицы шихты) размером до 1 мм не
+нормируются; свыше 1 до 2 мм допускается не более 6 шт. на 1 м длины стекла.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Стекло должно
+поставляться в комплекте с уплотнителями и герметиками.</span><span id=SS></span></p>

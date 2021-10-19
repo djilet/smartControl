@@ -1,0 +1,364 @@
+</span></b><span id=SB><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты"><span id=SU>СНиП 3.02.01-87</span></a> пп. 3.1, 3.3,
+3.6-3.9, 3.11, 3.15, 3.17</span><b><span id=SS></span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Минимальная
+ширина траншей (А) должна приниматься наибольшей из величин, удовлетворяющих
+следующим требованиям:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- с откосами
+1:0,5 и круче - по таблице 1;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- с откосами
+положе 1:0,5 - не менее:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- </span><span  id=SS5>D</span><span id=SB> + 0,3 м при укладке
+плетями;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- </span><span  id=SS5>D</span><span id=SB> + 0,5 м при укладке
+отдельными трубами;</span><span id=SS></span></p>
+
+<p class=MsoNormal><span id=SB>-
+разрабатываемых одноковшовыми экскаваторами:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в песках и
+супесях - <i>в + </i>0,15 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в глинистых
+грунтах - <i>в</i> + 0,1 м;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в
+разрыхленных и мерзлых грунтах - <i>в + </i>0,4 м, где <i>в </i>- ширина
+режущей кромки ковша;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+разрабатываемых траншейными экскаваторами - не менее номинальной ширины
+копания.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Наибольшую
+крутизну откосов траншей, устраиваемых без крепления в грунтах,<span id=S31> находящихся выше уровня грунтовых вод, следует принимать
+по таблице 2 (<a href="../../1/1801/index.htm" title="Техника безопасности в строительстве">СНиП
+<span  >III</span>-4-80*</a>).</span></span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21>Максимальная
+глубина траншей с вертикальными незакрепленными стенками должна приниматься по
+таблице 3 (<a href="../../1/1801/index.htm" title="Техника безопасности в строительстве">СНиП <span  >III</span>-4-80*</a>).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i><i><span id=SS></span></i></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Минимальная ширина траншей с
+откосами 1:0,5 и круче</span></b><b><span id=SS></span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="45%" rowspan=2 id=SU5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Способ укладки трубопроводов</span></b><span id=SH></span></p>
+  </td>
+  <td width="54%" colspan=3 id=SV5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Ширина траншей, м, без учета креплений при
+  стыковом соединении</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="11%" id=SW5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>сварном</span></b><span id=SI></span></p>
+  </td>
+  <td width="11%" id=SX5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>раструбном</span></b><span id=SI></span></p>
+  </td>
+  <td width="30%" id=SY5>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>муфтовом, фланцевом, фальцевом для всех труб
+  и раструбном для керамических труб</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=SZ5>
+  <p class=MsoNormal id=SJ1><span id=SD2>1.<b> </b>Плетями или отдельными секциями при наружном диаметре труб, </span><span  id=S06>D</span><span id=S82>, м:</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S16>
+  <p class=10 id=S26>&nbsp;</p>
+  </td>
+  <td width="11%" valign=top id=S36>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" valign=top id=S56>
+  <p class=MsoNormal align=center id=S46>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=S66>
+  <p class=MsoNormal id=SJ1><span id=SD2>до 0,7 включительно</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=S76>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,3, но не менее 0,7</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=S86>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S96>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=SA6>
+  <p class=MsoNormal id=SJ1><span id=SD2>свыше 0,7</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SB6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span  id=SC6>D</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SD6>
+  <p class=MsoNormal align=center id=S46><span id=SH>-</span></p>
+  </td>
+  <td width="30%" valign=top id=SE6>
+  <p class=MsoNormal align=center id=S46><span id=SH>-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=SF6>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. То же на участках, разрабатываемых траншейными экскаваторами, под
+  трубопроводы диаметром до 219 мм, укладываемые без спуска людей в траншеи</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SG6>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,2</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SH6>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" valign=top id=SI6>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=SZ5>
+  <p class=MsoNormal id=SJ1><span id=SD2>3. Отдельными трубами </span><span  id=SC6>D</span><span id=S82>,
+  м: </span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SJ6>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SK6>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" valign=top id=SL6>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=S66>
+  <p class=MsoNormal id=SJ1><span id=SD2>до 0,5</span></p>
+  </td>
+  <td width="11%" valign=top id=S76>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,5</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S86>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,6</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S96>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,8</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=S66>
+  <p class=MsoNormal id=SJ1><span id=SD2>от 0,5 до 1,6</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=S76>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 0,8</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S86>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 1</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S96>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 1,2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="45%" valign=top id=SM6>
+  <p class=MsoNormal id=SJ1><span id=SD2>от 1,6 до 3,5</span><span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SN6>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 1,4</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SO6>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 1,4</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SP6>
+  <p class=MsoNormal align=center id=SA1><span  id=S06>D</span><span id=S82> + 1,4</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 2</span></i></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Наибольшая крутизна откосов
+траншей</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="26%" rowspan=2 id=SQ6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Виды грунтов</span></b></p>
+  </td>
+  <td width="73%" colspan=3 id=SR6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Крутизна откоса (отношение высоты к
+  заложению) при глубине выемки, м, не более</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="24%" id=SS6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>1,5</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="24%" id=SS6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>3</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="24%" id=SS6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>5</span></b><b><span id=SI></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=ST6>
+  <p class=MsoNormal id=SJ1><span id=SD2>1. Насыпные и неуплотненные</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,67</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1,25</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=ST6>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. Песчаные и гравийные</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=ST6>
+  <p class=MsoNormal id=SJ1><span id=SD2>3. Супесь</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,25</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,67</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,85</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=ST6>
+  <p class=MsoNormal id=SJ1><span id=SD2>4. Суглинок</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,75</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=ST6>
+  <p class=MsoNormal id=SJ1><span id=SD2>5. Глина</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,25</span></p>
+  </td>
+  <td width="24%" valign=top id=SU6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SV6>
+  <p class=MsoNormal id=SJ1><span id=SD2>6. Лессы и лессовидные</span></p>
+  </td>
+  <td width="24%" valign=top id=SW6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="24%" valign=top id=SW6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="24%" valign=top id=SW6>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 3</span></i></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Максимальная глубина траншей
+с вертикальными незакрепленными стенками</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="65%" valign=top id=SX6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Виды грунтов</span></b><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=SY6>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Глубина траншей, м</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=SZ6>
+  <p class=MsoNormal id=SJ1><span id=SD2>1.<b> </b>Насыпные, песчаные и крупноблочные</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=S07>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=S17>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. Супесь</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=S27>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,25</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=S37>
+  <p class=MsoNormal id=SJ1><span id=SD2>3. Суглинок и глина</span><span id=SH></span></p>
+  </td>
+  <td width="34%" valign=top id=S47>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent3>Разработку грунта следует производить, как правило,
+до проектной отметки с сохранением природного сложения грунтов основания.<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Восполнение
+переборов в местах укладки трубопроводов должно быть выполнено местным грунтом
+с уплотнением до плотности грунта естественного сложения основания или
+малосжимаемым грунтом (модуль деформации не менее 20 МПа).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Проектом
+производства работ должна быть установлена необходимость временного крепления
+вертикальных стенок траншей в зависимости от глубины, вида и состояния грунта,
+гидрогеологических условий, величины и характера временных нагрузок на бровке.</span><span id=SS></span></p>

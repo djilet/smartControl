@@ -1,0 +1,99 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 2.13,
+2.16, 2.17, 2.23, 2.46, табл. 3, 7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=232 height=183 src="x102.jpg" v:shapes="_x0000_i1075"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Полотнища
+изоляции должны укладываться внахлестку на 100 им.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+мастик при наклейке рулонного ковра, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- горячих
+битумных - 2,0;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+холодных битумных - 0,8.</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Предельные
+отклонения толщины каждого слоя мастик - ±10 %.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура при
+нанесении мастик, С°:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- горячих битумных
+- +160, предельное отклонение - +20;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дегтевых -
++130, предельное отклонение - +10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Прочность
+сцепления с основанием и между собой гидроизоляционного ковра при сплошной
+мастичной прослойке эмульсионных составов - не менее 0,5 МПа.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перекрестная
+наклейка полотнищ;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+наличие пузырей, вздутий, воздушных мешков, разрывов, вмятин, проколов,
+губчатого строения, потеков и наплывов на поверхности покрытия.</span><span id=SY3></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3674/index.htm" title="Гидроизол. Технические условия">ГОСТ 7415-86</a>.
+Гидроизол. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3675/index.htm" title="Изол. Технические условия">ГОСТ 10296-79*</a>. Изол.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Гидроизол
+выпускают в рулонах шириной полотна 950 ± 5 мм.</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общая площадь
+полотна в рулоне должна быть 20 ± 0,5 м<sup>2</sup>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Изол выпускают
+в рулонах шириной полотна 800 и 1000 мм, толщиной 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Полотна
+рулонных материалов не должны иметь дыр, разрывов, складок и надрывов кромок.
+Рулоны должны иметь ровные торцы. При раскатке рулонов полотна не должны быть
+слипшимися.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В одном рулоне
+не допускается более двух полотен. Минимальная длина полотна не должна быть
+менее 3 м. В партии допускается не более 5 % составных рулонов.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемка и
+поставка материалов производится партиями, количество рулонов в партии - не более
+1500. Каждый рулон должен быть обернут по всей ширине бумагой и снабжен
+этикеткой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На этикетке
+должно быть указано:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+материала и его марка;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- назначение
+материала;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии
+и дата выпуска;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+должна сопровождаться документом о качестве. Рулоны должны храниться в сухих
+помещениях в вертикальном положении не более чем в два ряда по высоте.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Гарантийный
+срок хранения - один год со дня изготовления.</span><span id=S2></span></p>

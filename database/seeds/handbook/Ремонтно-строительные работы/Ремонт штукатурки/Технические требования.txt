@@ -1,0 +1,298 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> пп. 3.12,
+3.21. табл. 9, 10<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=280 height=208 src="x200.jpg" v:shapes="_x0000_i1124"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина
+однослойной штукатурки, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из гипсовых
+растворов - 15;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из других
+видов растворов - до 20.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Влажность
+кирпичных и каменных поверхностей при оштукатуривании - не более 8 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отслоения
+штукатурки, трещины, раковины, высолы;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>- следы затирочного
+инструмента.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="53%" rowspan=2 id=SFP1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Допустимые отклонения</span></b><span id=SH></span></p>
+  </td>
+  <td width="46%" colspan=3 id=SGP1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Вид штукатурки</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="10%" id=SHP1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>простая, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="14%" id=SIP1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>улучшенная, мм</span></b><span id=SH></span></p>
+  </td>
+  <td width="22%" id=SJP1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>высококачественная, мм</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SKP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>поверхности от вертикали на 1 м длины</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SLP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SNP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>на всю высоту помещения не более</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>15</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>оконных и дверных откосов, пилястр, столбов, лузг и т.п. от вертикали
+  и горизонтали (мм на 1 м)</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>радиуса криволинейных поверхностей, проверяемого лекалом, от проектной
+  величины (на весь элемент) не должны превышать</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>10</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>7</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>поверхности от горизонтали на 1 м длины</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>ширины откоса от проектной</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>тяг от прямой линии в пределах между углами</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>6</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" valign=top id=SOP1>
+  <p class=MsoNormal id=SJ1><span id=SD2>неровности поверхностей плавного очертания (на 4 м<sup>2</sup>) не
+  более</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SPP1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>3 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQP1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>2 шт.</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SRP1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>2 шт.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="53%" id=SSP1>
+  <p class=MsoNormal><span id=S82>глубиной (высотой)
+  до</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=STP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SUP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="22%" valign=top id=SVP1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5762/index.htm" title="Растворы строительные. Общие технические условия">ГОСТ
+28013-98</a></span><span id=S74>. Растворы строительные. Общие технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a>.
+Изоляционные и отделочные покрытия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставленные на
+строительную площадку штукатурные растворы должны соответствовать следующим
+техническим требованиям:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проходить
+через сетку с размерами ячеек:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- растворы для
+обрызга и грунта - 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- растворы для
+накрывочного слоя и однослойных покрытий - 1,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- подвижность в
+пределах - 5</span><span id=SC21><span id=ST1>&cedil;</span></span><span id=SB>12 см;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+расслаиваемость - не более 15 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+водоудерживающая способность - не менее 90 %;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- прочность -
+по проекту.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурный
+раствор должен приготовляться на песке с модулем крупности от 1 до 2; не
+содержать зерен размером свыше 2,5 мм в растворах для обрызга и грунта и свыше
+1,25 мм - для отделочных слоев.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурный
+раствор должен сопровождаться документом о качестве, в котором должны быть
+указаны:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата и время
+(часы, мин.) приготовления смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+раствора, вид вяжущего;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- подвижность
+смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доставленная на
+строительную площадку штукатурная растворная смесь должна быть разгружена в
+перегружатель-смеситель или в другие емкости при условии сохранения заданных
+свойств растворной смеси.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Указания по производству
+работ</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поврежденную
+штукатурку деревянных конструкций, а при необходимости и дрань, полностью удаляют,
+поверхности тщательно очищают от пыли и остатков раствора. При толщине
+штукатурных наметов на вертикальных поверхностях до 30 мм и на горизонтальных
+до 25 мм деревянные поверхности должны обиваться штукатурной дранью с размерами
+ячеек в свету 15</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>45 мм, а участки, из которых
+необходимо нанести больший по толщине намет, обтягиваться прочным плетением или
+металлической сеткой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Места
+сопряжений отштукатуриваемых конструкций, выполненных из разных материалов,
+обивают металлической сеткой на 40-50 мм по обе стороны стыка.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Места
+примыкания старой штукатурки к новой, а также поверхность прочного грунта перед
+оштукатуриванием должны быть насечены и смочены водой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Трещины в
+штукатурке следует расчищать на полную глубину, промывать водой, после чего
+заполнять раствором с тщательной затиркой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Консистенция
+штукатурных растворов для обрызга должна соответствовать погружению конуса
+СтройЦНИИЛа на 80-120 мм, для грунта - на 60-80 мм, для накрывки - на 70-90 мм.
+Растворы для обрызга и грунта следует процеживать через сетку № 3, а для
+накрывки - через сетку № 1.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+обрызга при оштукатуривании деревянных поверхностей должна быть не более 9 мм,
+каменных и бетонных - 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина каждого
+слоя грунта не должна превышать 9 мм при известковых и известково-алебастровых
+растворах и 5 мм при цементных растворах (проверяется контрольным вскрытием).
+Каждый слой грунта сразу же после нанесения должен быть разровнен и уплотнен.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина слоя
+накрывки после разравнивания и затирки должна составлять 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Фактура новой
+штукатурки должна соответствовать фактуре старой. Свежеоштукатуренные
+поверхности следует предохранять от чрезмерно быстрой сушки, ударов,
+сотрясений, загрязнений и намокания.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Штукатурные
+работы могут производиться при температуре не ниже 5 °С (на высоте не более 0,5
+м от пола). Температура не ниже 5 °С должна поддерживаться после окончания
+работ в течение 15 дней (до снижения влажности штукатурки до 6 %).</span><span id=SS></span></p>

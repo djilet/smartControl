@@ -1,0 +1,21 @@
+<p class=a id=SRT><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> табл. 25</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=218 height=183 src="x078.jpg" v:shapes="_x0000_i1063"></span><span  ></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Предельные отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уступа между
+смещенными гранями панелей из их плоскости - 4 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскости
+панелей от вертикали - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- толщины шва
+между смежными панелями по длине - ±4 мм;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent3 id=SW3>При приемке следует
+проверять надежность закрепления панелей, отсутствие трещин, зыбкости,
+поврежденных мест, промежуточному контролю подлежит изоляция стыков между
+панелями.<span id=SH></span></p>

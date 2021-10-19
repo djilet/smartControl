@@ -1,0 +1,79 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../1/1999/index.htm" title="Наружные сети и сооружения водоснабжения и канализации">СНиП 3.05.04-85</a></span>
+п. 3.17, <span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 3.5, 3.6, табл. 12<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=170 height=213 src="x236.jpg" v:shapes="_x0000_i1142"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- относительно
+разбивочных осей - 12 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок днища
+колодцев - -20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+опорного кольца - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- перекоса
+верхней плоскости плиты - 10 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Марка раствора
+должна быть не ниже 50, подвижность должна составлять 5-7 см по глубине
+стандартного конуса. Толщина раствора в шве - 10 мм</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускается:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+раствора, процесс схватывания которого уже начался;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- омолаживание
+раствора водой.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3300/index.htm" title="Конструкции бетонные и железобетонные для колодцев канализационных, водоводных и газопроводных сетей. Технические условия">ГОСТ
+8020-90</a></span><span id=S74>*. Конструкции бетонные и железобетонные для колодцев
+канализационных, водопроводных и газопроводных сетей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+фактических размеров колодцев от номинальных не должны превышать:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+внутреннему диаметру колец от и по наружному диаметру плит перекрытий и днищ,
+мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>до 1500 - ±8;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>св. 1500 - ±10;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+внутреннему диаметру опорных колец - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+колец:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>стеновых - ±8;</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>опорных - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+стеновых и опорных колец, плит перекрытий и днищ - ±5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по диаметру
+лазов и отверстий для трубопроводов - ±5.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+положения отверстий и вырезов от проектного не должно превышать 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Непрямолинейность
+верхних и нижних поверхностей плит перекрытий и днищ не должна превышать 5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Закладные
+детали и монтажные петли должны быть очищены от наплывов бетона.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Скобы должны располагаться
+по высоте кольца через 300 мм и отступать от поверхности стенки на 120 мм и
+должны быть покрыты битумным лаком.</span><span id=SS></span></p>

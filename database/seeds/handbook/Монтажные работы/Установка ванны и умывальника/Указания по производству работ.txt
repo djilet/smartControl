@@ -1,0 +1,44 @@
+<p class=a><b>Указания по производству работ</b><br>
+<a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 1.4, 3.17<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общестроительные
+и санитарно-технические работы следует выполнять в санитарных узлах в следующей
+последовательности:</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+подготовка под полы, оштукатуривание стен и потолков, устройство маяков для
+установки трапов;</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+средств крепления, прокладка трубопроводов и проведение их гидростатического
+или монометрического испытания;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- гидроизоляция
+перекрытий;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- огрунтовка
+стен, устройство чистых полов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+ванн, кронштейнов под умывальники и деталей крепления;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- первая
+окраска стен и потолков, облицовка плитками;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+умывальников, унитазов, смывных бачков;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вторая
+окраска стен и потолков;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+водоразборной арматуры.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>До испытаний
+системы канализации в сифонах в целях предохранения их от загрязнения должны
+быть вывернуты нижние пробки, а у бутылочных сифонов - стаканчики.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Корпус ванны и
+трубы водопровода для уравнивания электрических потенциалов необходимо
+соединять специальным металлическим проводником.</span><span id=S2></span></p>

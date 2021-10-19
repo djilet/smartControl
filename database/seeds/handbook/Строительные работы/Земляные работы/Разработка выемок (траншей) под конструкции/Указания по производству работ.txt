@@ -1,0 +1,179 @@
+</span></b><span id=SB><a href="../../2/2019/index.htm" title="Земляные сооружения, основания и фундаменты"><span id=SU>СНиП 3.02.01-87</span></a> пп. 3.6-3.8, 3.11</span><b><span id=SS></span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Выемки в
+грунтах, кроме валунных, скальных, следует разрабатывать, как правило, до проектной
+отметки с сохранением природного слоя сложения грунтов основания, разрешается
+разработка выемок в два этапа: черновая - с отклонениями, приведенными в
+таблицах 1, 2, и окончательная (непосредственно перед возведением конструкции).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Доработку
+недоборов до проектной отметки следует производить с сохранением природного
+сложения грунтов оснований.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Восполнение
+переборов в местах устройства фундаментов и укладки конструкций должно быть
+выполнено местным грунтом с уплотнением до плотности грунта естественного
+сложения основания или малосжимаемым грунтом (модуль деформации не менее 20
+МПа). В просадочных грунтах </span><span  id=SZ3>II</span><span id=SB> типа не допускается
+применение дренирующего грунта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Наибольшую
+крутизну откосов траншей, котлованов и других временных выемок, устраиваемых
+без крепления в грунтах, находящихся выше уровня грунтовых вод, следует<span id=S31> принимать по таблице 3 (<a href="../../1/1801/index.htm" title="Техника безопасности в строительстве">СНиП <span  >III</span>-4-80*</a>).</span></span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=S23><i id=S9><span id=S33>Таблица 3</span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="52%" rowspan=2 id=S14>
+  <p class=MsoHeading9><span id=SX3>Виды грунтов</span><span id=SY3></span></p>
+  </td>
+  <td width="47%" colspan=3 id=S24>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Крутизна откоса (отношение высоты к
+  заложению) при глубине выемки, м не более</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>1,5</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>3</span></b><b><span id=SI></span></b></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>5</span></b><b><span id=SI></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Насыпные и неуплотненные</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,67</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1,25</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Песчаные и гравийные</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:1</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Супесь</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,25</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,67</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,85</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Суглинок</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,75</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Глина</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,25</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="52%" valign=top id=S64>
+  <p class=MsoNormal id=SJ1><span id=SD2>Лессы и лессовидные</span></p>
+  </td>
+  <td width="14%" valign=top id=S34>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0</span></p>
+  </td>
+  <td width="15%" valign=top id=S44>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+  <td width="17%" valign=top id=S54>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1:0,5</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SM><span id=S74>Максимальную глубину выемок с вертикальными незакрепленными
+стенками следует принимать по таблице 4 (</span><span class=MsoHyperlink><span id=SB><a href="../../1/1801/index.htm" title="Техника безопасности в строительстве">СНиП III-4-80*</a></span></span><span id=S21>).</span></p>
+
+<p class=MsoNormal align=right id=S23><i id=S9><span id=S33>Таблица 4</span></i></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="65%" valign=top id=S84>
+  <p class=MsoHeading9><span id=SX3>Виды грунтов</span><span id=SY3></span></p>
+  </td>
+  <td width="34%" valign=top id=S94>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Глубина выемок, м</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=SA4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Насыпные, песчаные и крупноблочные</span><span id=SI></span></p>
+  </td>
+  <td width="34%" valign=top id=SB4>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=SA4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Супесь</span></p>
+  </td>
+  <td width="34%" valign=top id=SB4>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1,25</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="65%" valign=top id=SA4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Суглинок и глина</span></p>
+  </td>
+  <td width="34%" valign=top id=SB4>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1,5</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

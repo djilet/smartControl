@@ -1,0 +1,90 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.27,
+табл. 3,<span  > 7</span><span  id=S101></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=244 height=183 src="x104.jpg" v:shapes="_x0000_i1076"></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Допускаемая
+влажность оснований при нанесении всех составов, кроме составов на водной
+основе, не должна превышать:</span><span id=SM7></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- бетонных – 4
+%;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+цементно-песчаных, гипсовых и гипсопесчаных – 5 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Температура при
+нанесении горячих мастик, °С:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- битумных -
++160, предельное отклонение - +20;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дегтевых -
++130, предельное отклонение - +10.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Толщина одного
+слоя изоляции, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- холодных
+асфальтовых мастик - 7;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- эмульсий - 3;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- полимерных
+составов (типа «Кровлелит» и<b> </b>«Вент») - 1</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- пузыри,
+вздутия, губчатое строение, разрывы, потеки и наплывы на поверхности изоляции;</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>-
+замена предусмотренных проектом материалов, составов без согласования с
+проектной организацией и заказчиком.</span><span id=SS4></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3678/index.htm" title="Мастика битумно-резиновая изоляционная. Технические условия">ГОСТ
+15836-79</a>. Мастика битумно-резиновая изоляционная. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../7/7872/index.htm" title="Мастики кровельные и гидроизоляционные. Общие технические условия">ГОСТ
+30693-2000</a>. Мастики кровельные и гидроизоляционные. Общие технические
+условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Мастики
+должны удовлетворять следующим требованиям:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- быть
+однородными, без видимых посторонних включений, примесей и частиц наполнителя,
+не покрытых вяжущим;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- быть
+удобонаносимыми.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастики должны
+быть упакованы в бочки или бумажные мешки с внутренним покрытием,
+препятствующим прилипанию мастики к таре.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>На каждом
+упаковочном месте должна быть приклеена этикетка или поставлен несмываемый
+штамп. На этикетке указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя и его адрес;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка
+мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер партии
+и дата изготовления мастики;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- обозначение
+стандарта.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+мастики должна сопровождаться документом о качестве.</span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Мастика должна
+храниться раздельно по маркам в помещениях или под навесом.</span><span id=SS></span></p>

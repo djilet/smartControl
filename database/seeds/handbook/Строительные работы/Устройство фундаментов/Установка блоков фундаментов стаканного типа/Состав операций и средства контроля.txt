@@ -1,0 +1,172 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="18%" id=SC9>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="36%" id=SD9>
+  <p class=MsoHeading9><span id=SV4>Контролируемые
+  операции</span></p>
+  </td>
+  <td width="17%" id=SE9>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="27%" id=SF9>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SG9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="36%" valign=top id=SH9>
+  <p class=MsoNormal id=SJ1>Проверить:<span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SI9>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=6 valign=top id=SJ9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт освидетельствования скрытых работ, общий
+  журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности и внешний вид блоков, точность их
+  геометрических параметров;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие акта освидетельствования работ по подготовке основания под
+  фундамент; наличие заключения лаборатории о качестве и состоянии фунтов (при
+  необходимости);</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- подготовку фундаментов к монтажу, в т.ч. очистку опорных
+  поверхностей от загрязнения;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SM9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- перенос осей на обноску.</span></p>
+  </td>
+  <td width="17%" valign=top id=SN9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=4 valign=top id=SG9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж фундаментных блоков</span><span id=SH></span></p>
+  </td>
+  <td width="36%" valign=top id=SH9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SI9>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=4 valign=top id=SJ9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Исполнительная геодезическая схема, общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- совмещение осей фундаментных блоков относительно разбивочных осей;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения отметок выравнивающего слоя песка под блоки и опорной
+  поверхности дна стаканов от проектных;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SM9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- плотность примыкания подошвы фундамента к поверхности основания.</span></p>
+  </td>
+  <td width="17%" valign=top id=SN9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=3 valign=top id=SG9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="36%" valign=top id=SH9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=SI9>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="27%" rowspan=3 valign=top id=SJ9>
+  <p class=MsoNormal id=SJ1><span id=SD2>Исполнительная геодезическая схема, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактические отклонения отметок опорных поверхностей дна стаканов от
+  проектных;</span></p>
+  </td>
+  <td width="17%" valign=top id=SL9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SM9>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие положения смонтированных фундаментов в плане
+  требованиям проекта.</span></p>
+  </td>
+  <td width="17%" valign=top id=SN9>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: отвес, шнур разметочный, линейка
+  металлическая, нивелир, рулетка, теодолит.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе выполнения работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), геодезист, представители технадзора заказчика.</span><span id=SH></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

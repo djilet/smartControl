@@ -1,0 +1,152 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SCA>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Этапы
+  работ</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="39%" id=SLI1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контролируемые
+  операции</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="19%" id=SMI1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контроль
+  (метод, объем)</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="21%" id=SNI1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Документация</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SGA>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SOI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SPI1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=4 valign=top id=SQI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SRI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на материалы;</span></p>
+  </td>
+  <td width="19%" valign=top id=SSI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SRI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество подготовки основания (очистку от мусора, грязи,
+  обезжиривание кромок стеклопрофилита и обрамления);</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SSI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- разметку установки конструкции.</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SUI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=4 valign=top id=SVI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство стеклопрофилита</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SOI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SPI1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=4 valign=top id=SWI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SRI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение плоскости конструкции от вертикали;</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SSI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, вся поверхность</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SRI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- толщину швов между стеклопанелями;</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SSI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- величину прогиба в плоскости остекления элементов, на которые
+  опираются стеклопанели.</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SUI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SGA>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="39%" valign=top id=SOI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="19%" valign=top id=SPI1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="21%" rowspan=3 valign=top id=SQI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=SRI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид поверхности (отсутствие пятен, сколов, трещин);</span></p>
+  </td>
+  <td width="19%" valign=top id=SSI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="39%" valign=top id=STI1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- ровность, вертикальность поверхности.</span><span id=SI></span></p>
+  </td>
+  <td width="19%" valign=top id=SUI1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рейка-отвес, уровень
+  строительный, линейка металлическая, рулетка.</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

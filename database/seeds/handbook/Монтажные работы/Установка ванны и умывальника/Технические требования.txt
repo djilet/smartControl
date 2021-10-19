@@ -1,0 +1,86 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 3.11, 3.15, табл. 3<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=270 height=214 src="x224.jpg" v:shapes="_x0000_i1136"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+установки умывальника (расстояние от уровня чистого пола до верха борта) при
+установке - 850 мм, допускаемое отклонение - +20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота
+установки душевых сеток (от низа сетки до уровня чистого пола) - 2100-2250 мм,
+допускаемое отклонение - ±20 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Ванны,
+устанавливаемые на ножках, должны иметь:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальное положение бортов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уклон дна к
+отверстию для выпуска не менее 0,02 %;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расстояние от
+нижней кромки отверстия до пола не менее 145 мм.</span><span id=S2></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3190/index.htm" title="Кронштейны для умывальников и моек. Технические условия">ГОСТ
+1153-76*</a>. Кронштейны для умывальников и моек. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5178/index.htm" title="Приборы санитарно-технические чугунные эмалированные. Технические условия">ГОСТ
+18297-96</a></span><span id=S74>. Приборы санитарно-технические. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3242/index.htm" title="Приборы санитарно-технические стальные эмалированные. Технические условия">ГОСТ
+23695-94</a></span><span id=S74>. Приборы санитарно-технические стальные эмалированные.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../5/5181/index.htm" title="Изделия санитарные керамические. Типы и основные размеры">ГОСТ
+30493-96</a></span><span id=S74>. Изделия санитарные керамические. Основные типы, размеры.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Ванны должны
+иметь четыре прилива для крепления ножек и по два прилива, расположенных на
+наружной поверхности днища ванны или под ее бортом в ребрах жесткости, со
+стороны слива, или по две ножки, залитые в корпус под бортом ванны в процессе
+ее отливки, стальные, сечением не менее 24 мм<sup>2</sup>, для присоединения
+электрических потенциалов между корпусом ванны и металлической водопроводной
+трубой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхности
+выпусков и переливов в ваннах должны быть ровными, без наплывов эмали.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Коробление
+бортов ванн (отклонение бортов от горизонтальной и вертикальной поверхностей)
+не должно превышать значений, мм, для ванн длиной:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1200 мм -
+2,4;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1500 мм -
+3,0;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1700 мм -
+3,4;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- 1800 мм -
+3,6.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонение
+габаритных размеров умывальников, а также других размеров более 50 мм не должно
+превышать +2,5 % и -3,0 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Деформация
+(коробление) поверхности умывальника в плоскости, прилегающей к стене, не
+должна превышать 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Умывальники
+должны выдерживать нагрузку не менее 150 кгс.</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Санитарные
+приборы, узлы и детали для них должны транспортироваться в контейнерах или
+пакетах и иметь сопроводительную документацию. К каждому контейнеру и пакету
+должна быть прикреплена табличка с маркировкой упакованных узлов.</span><span id=SS></span></p>

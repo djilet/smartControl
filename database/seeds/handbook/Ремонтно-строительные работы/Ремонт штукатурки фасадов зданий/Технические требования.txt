@@ -1,0 +1,18 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 9<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=255 height=225 src="x202.jpg" v:shapes="_x0000_i1125"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неровности
+поверхности новой штукатурки при накладывании 2-метровой рейки:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при простой
+штукатурке - не более 3 неровностей глубиной или высотой до 5 мм</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поверхности
+от вертикали при простой штукатурке - 3 мм, но не более 15 мм на этаж;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- лузг,
+усенков, оконных и дверных откосов, пилястр, столбов - 10 мм на весь элемент.</span><span id=SS></span></p>

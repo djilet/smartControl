@@ -1,0 +1,181 @@
+<p class=a><b>Технические требования<br>
+</b><span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> п. 2.45,
+табл. 7<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=442 height=264 src="x112.jpg" v:shapes="_x0000_i1080"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Соединение
+картин, располагаемых вдоль стока воды, осуществляется лежачим фальцем.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При уклоне
+крыш:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- &lt; 30° -
+двойной, с промазкой суриковой замазкой;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- </span><span id=SB21><span id=SR1>&sup3;</span></span><span id=SB> 30° - одинарный.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Соединение
+картин в ребрах, скатах и коньках осуществляется стоячими фальцами.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Величина
+отгибов картин для устройства фальцев:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для лежачих-
+15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для стоячих -
+20 мм для одной и 35 мм для другой смежной с ним стороны.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Высота стоячих
+фальцев - 25</span><span id=SC21><span id=ST1>±</span></span><span id=SB>2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Фальцы соседних
+картин на противоположных скатах крыши должны быть смещены не менее чем на 50
+мм. Высота борта желоба - не менее 150 мм. Должно быть жесткое крепление картин
+к обрешетке.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отступление
+от проекта по соединению картин, защите мест примыканий к конструкциям и
+сопряжений в разных плоскостях;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- видимые
+просветы в покрытии при осмотре кровли из чердачных помещений;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отсутствие
+промазки двойных лежачих фальцев в соединениях картин на покрытии с уклоном
+менее 30°;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- применение
+листовой неоцинкованной стали.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>ТУ
+401-11-21-89. Элементы металлической кровли.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SXC><span id=SX3>Размеры элементов кровли
+и их допускаемые отклонения не должны превышать данные, приведенные в таблице.</span><span id=SY3></span></p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" id=S04>
+ <tr id=S81>
+  <td width="36%" rowspan=2 id=SD21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Наименование</span></b><span id=SH></span></p>
+  </td>
+  <td width="31%" colspan=2 id=SE21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Длина</span></b><span id=SI></span></p>
+  </td>
+  <td width="31%" colspan=2 id=SE21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>Ширина</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="15%" id=SF21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>размер, </span></b><b><span id=S82>мм</span></b><span id=SI></span></p>
+  </td>
+  <td width="15%" id=SG21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>допуск, мм</span></b><span id=SI></span></p>
+  </td>
+  <td width="15%" id=SF21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>размер, </span></b><b><span id=SU>мм</span></b><span id=SI></span></p>
+  </td>
+  <td width="15%" id=SG21>
+  <p class=MsoNormal align=center id=SA1><b><span id=SI3>допуск, мм</span></b><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SH21>
+  <p class=MsoNormal id=SJ1><span id=SD2>Картина рядового покрытия</span><span id=SH></span></p>
+  </td>
+  <td width="15%" valign=top id=SI21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1940</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SJ21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SI21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>930</span><span id=SI></span></p>
+  </td>
+  <td width="15%" valign=top id=SJ21>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±10</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SK21>
+  <p class=MsoNormal id=SJ1><span id=SD2>Желоб надстенный</span></p>
+  </td>
+  <td width="15%" valign=top id=SL21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>2000</span></p>
+  </td>
+  <td width="15%" valign=top id=SM21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span></p>
+  </td>
+  <td width="15%" valign=top id=SL21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>955</span></p>
+  </td>
+  <td width="15%" valign=top id=SM21>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±10</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="36%" valign=top id=SN21>
+  <p class=MsoNormal id=SJ1><span id=SD2>Свес карнизный</span></p>
+  </td>
+  <td width="15%" valign=top id=SO21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>2000</span></p>
+  </td>
+  <td width="15%" valign=top id=SP21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±4</span></p>
+  </td>
+  <td width="15%" valign=top id=SO21>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>910</span></p>
+  </td>
+  <td width="15%" valign=top id=SP21>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±10</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoBodyTextIndent2><span id=SX3>Допускаемые
+отклонения по размерам фальцев всех элементов - ±2 мм.</span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Допускаемое
+коробление полотен:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине - ±5
+мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по ширине -
+±2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Разность длин
+диагоналей картин не должна превышать 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поставка
+изделий производится партиями, количество устанавливается в заказе. Каждая
+партия должна сопровождаться документом, удостоверяющим их качество, где
+указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+и адрес предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер и дата
+выдачи документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+элементов в партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- масса в кг.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы должны
+храниться под навесом: картины в пакетах по 100 шт., переложенными деревянными
+прокладками; желоба и свесы - в контейнерах.</span><span id=SS></span></p>

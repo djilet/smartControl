@@ -1,0 +1,118 @@
+<p class=a><b>Технические требования<br>
+</b><span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> пп. 2.112, 2.113, табл. 11<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=234 height=201 src="x044.jpg" v:shapes="_x0000_i1046"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- плоскостей от
+вертикали или проектного наклона на всю высоту фундаментов - 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- отметок
+поверхностей и закладных изделий, служащих опорами для сборных железобетонных
+колонн и других сборных элементов, - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+горизонтальных плоскостей на всю длину выверяемого участка - 20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- уклона
+опорных поверхностей фундаментов при опирании стальных колонн без подливки -
+0,0007;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- местных
+неровностей поверхности бетона при проверке двухметровой рейкой, кроме опорных
+поверхностей, - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- длины
+элементов - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- поперечного
+сечения элементов - +6 мм, -3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- расположения
+анкерных болтов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в плане
+внутри контура опоры - 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в плане вне
+контура опоры - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+контура опоры - +20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- разницы
+отметок по высоте на стыке двух смежных поверхностей - 3 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приемку
+конструкций следует оформлять в установленном порядке актом освидетельствования
+скрытых работ или актом на приемку ответственных конструкций.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3565/index.htm" title="Смеси бетонные. Технические условия">ГОСТ 7473-94</a></span><span id=S21>. Смеси
+бетонные. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3608/index.htm" title="Бетоны тяжелые и мелкозернистые. Технические условия">ГОСТ
+26633-91</a></span><span id=S74>. Бетоны тяжелые и мелкозернистые. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Каждая
+партия бетонной смеси, отправляемая потребителю, должна иметь документ о
+качестве, в котором должны быть указаны:</span><span id=SS4></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- изготовитель,
+дата и время отправки бетонной смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид бетонной
+смеси и ее условное обозначение;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер состава
+бетонной смеси, класс бетона по прочности на сжатие;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- марка по
+средней плотности (для легких бетонов);</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вид и объем
+добавок;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наибольшая
+крупность заполнителя, удобоукладываемость бетонной смеси;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- номер
+сопроводительного документа;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- гарантии
+изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- другие
+показатели при необходимости.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Применяемые
+способы транспортирования бетонной смеси должны исключать возможность попадания
+в смесь атмосферных осадков, нарушения однородности, потери цементного
+раствора, а также обеспечивать предохранение смеси в пути от вредного
+воздействия ветра и солнечных лучей.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Максимальная
+продолжительность транспортирования смесей - 90 минут. Расслоившаяся смесь
+должна быть перемешана на месте работ.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При входном
+контроле бетонной смеси на строительной площадке необходимо:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- проверить
+наличие паспорта на бетонную смесь и требуемых в нем данных;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- путем
+внешнего осмотра убедиться в отсутствии признаков расслоения бетонной смеси, в
+наличии в бетонной смеси требуемых фракций крупного заполнителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- при
+возникновении сомнений в качестве бетонной смеси потребовать контрольной<span id=S31> проверки по </span></span><span id=SX><a href="../../8/8404/index.htm" title="Смеси бетонные Общие требования">ГОСТ 10181</a>-2002</span><span id=S21>.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Транспортирование
+и подача бетонных смесей должны осуществляться специализированными средствами,
+обеспечивающими сохранение заданных свойств бетонной смеси. Запрещается
+добавлять воду на месте укладки бетонной смеси для компенсации ее подвижности.</span><span id=SS></span></p>

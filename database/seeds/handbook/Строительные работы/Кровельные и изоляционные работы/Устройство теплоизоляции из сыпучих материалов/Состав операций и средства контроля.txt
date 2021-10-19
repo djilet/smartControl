@@ -1,0 +1,172 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="18%" id=SAY>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" id=SBY>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контролируемые операции</span></b><span id=SH></span></p>
+  </td>
+  <td width="26%" id=SCY>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="28%" id=S7S>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=6 valign=top id=SDY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SEY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SFY>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=6 valign=top id=SGY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), акт освидетельствования (приемки) ранее
+  выполненных работ, общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoBodyText align=left id=SY><span id=SGD>- наличие документа о
+  качестве на теплоизоляционные материалы;</span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие акта освидетельствования (приемки) на ранее выполненные
+  работы;</span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- очистку основания от грязи, снега, наледи;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие рассортированных сыпучих материалов по фракциям
+  согласно проекту;</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SJY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку маячных реек.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SKY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=5 valign=top id=SDY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Устройство теплоизоляции</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SEY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SFY>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=5 valign=top id=SGY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- чистоту и просушку поверхности, влажность основания;</span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на
+  каждые 50-70 м<sup>2</sup> поверхности покрытия</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение толщины изоляции;</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 3 измерений на
+  каждые 70-100 м<sup>2 </sup>поверхности покрытия после сплошного визуального
+  осмотра</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SHY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонение коэффициента уплотнения;</span><span id=SI></span></p>
+  </td>
+  <td width="26%" valign=top id=SIY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, не менее 5 измерений на
+  каждые 100-150 м<sup>2</sup> поверхности покрытия</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SJY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- отклонения плоскости изоляции от заданного уклона.</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SKY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, на каждые 50-100 м<sup>2 </sup>поверхности
+  покрытия</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="18%" rowspan=2 valign=top id=SLY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SEY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="26%" valign=top id=SFY>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="28%" rowspan=2 valign=top id=SMY>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования (приемки) выполненных работ.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="26%" valign=top id=SNY>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соблюдение заданных толщин, плоскостей, отметок и уклонов.</span></p>
+  </td>
+  <td width="26%" valign=top id=SOY>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка, рулетка, отвес, уровень,
+  двухметровая рейка, влагомер.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб), инженер
+  (лаборант) - в процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

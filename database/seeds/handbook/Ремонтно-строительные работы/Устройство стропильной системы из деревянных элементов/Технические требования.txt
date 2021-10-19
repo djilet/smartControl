@@ -1,0 +1,109 @@
+<p class=a><b>Технические требования</b><br>
+<span id=SO9><a href="../../2/2027/index.htm" title="Несущие и ограждающие конструкции"><span id=S01>СНиП
+3.03.01-87</span></a></span> п. 5.7, табл. 24<span id=SI></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=239 height=194 src="x198.jpg" v:shapes="_x0000_i1123"></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстояниях
+между осями конструкций - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- конструкций
+от вертикали - ±0,5 % высоты элементов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине
+конструкций - ±20 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по высоте
+конструкций и опор - ±10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- глубины
+врубок - ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в размерах
+поперечных сечений - ±2,0 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- конька и
+свеса обрешетки от прямой линии - 10 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстояниях
+между центрами гвоздей со стороны забивки в гвоздевых соединениях - ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- в расстояниях
+между центрами рабочих болтов в соединениях относительно проектных:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для входных
+отверстий - ±2 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- для входных
+отверстий поперек волокон – 2 % толщины пакета, но не более 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- то же вдоль
+волокон – 4 % толщины пакета, но не более 10 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неплотности в
+стыках врубок не должны превышать 1 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Зазор между
+обрешеткой и стропилами от дымовых труб и вентиляционных блоков - не менее 130
+мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Расстояние
+между брусками обрешетки (по осям) - по проекту и не более 250 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../4/4340/index.htm" title="Пиломатериалы лиственных пород. Технические условия">ГОСТ
+2695-83*</a>. Пиломатериалы лиственных пород. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../4/4363/index.htm" title="Пиломатериалы хвойных пород. Технические условия">ГОСТ
+8486-86*Е</a>. Пиломатериалы хвойных пород. Технические условия.</span></p>
+
+<p class=MsoNormal id=SN><span id=ST><a href="../../3/3447/index.htm" title="Детали и изделия деревянные для малоэтажных жилых и общественных зданий. Технические условия">ГОСТ
+11047-90</a></span><span id=S74>. Детали и изделия деревянные для малоэтажных жилых и общественных
+зданий. Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Элементы
+стропильной системы изготовляются из хвойных и лиственных пород.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Качество
+древесины должно соответствовать требованиям 1, 2 и 3 сортов:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- сучки
+допускаются в количестве 3 шт. на однометровом участке длины, размером не более
+30 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины
+несквозные длиной не более 1/2 длины, при влажности материала не более 22 %.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- влажность
+древесины должна быть не более 18 % (измеряется влагомером).</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Каждая партия
+элементов стропильной системы должна сопровождаться документом о качестве, в
+котором указывается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- наименование
+предприятия-изготовителя;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- название
+изделия и номер стандарта;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- размер,
+порода древесины, влажность;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- количество
+элементов в партии;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- дата
+изготовления.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>При
+транспортировании в открытых транспортных средствах и хранении элементы
+стропильной системы должны быть защищены от атмосферных осадков и загрязнений.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Древесина
+элементов стропильной системы должна быть антисептирована и пропитана
+огнезащитными составами.</span><span id=SS></span></p>

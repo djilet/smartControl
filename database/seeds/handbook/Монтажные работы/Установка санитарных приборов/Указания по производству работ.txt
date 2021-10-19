@@ -1,0 +1,62 @@
+<p class=a><b>Указания по производству работ</b><br>
+<a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> пп. 1.4, 3.13, 3.14, 3.16<span id=SH></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Общестроительные
+и санитарно-технические работы следует выполнять в санитарных узлах в следующей
+очередности:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- подготовка
+под полы, оштукатуривание стен и потолков, устройство маяков для установки
+трапов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+средств крепления, прокладка трубопроводов и проведение их гидростатического
+или манометрического испытания;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- гидроизоляция
+перекрытий;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- огрунтовка
+стен, устройство чистых полов;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+ванн, кронштейнов под умывальники и деталей крепления смывных бачков;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- первая
+окраска стен и потолков, облицовка плитками;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+умывальников, унитазов и смывных бачков;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- вторая
+окраска стен и потолков;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- установка
+водоразборной арматуры.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>К деревянным
+конструкциям санитарные приборы следует крепить шурупами.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Выпуск унитаза
+следует соединять непосредственно с раструбом отводной трубы или с отводной
+трубой с помощью чугунного, полиэтиленового патрубка или резиновой муфты.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Раструб
+отводной трубы под унитаз с прямым выпуском должен быть установлен заподлицо с
+полом.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Унитазы следует
+крепить к полу шурупами или приклеивать клеем. При креплении шурупами под
+основание унитаза следует устанавливать резиновую прокладку.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Приклеивание
+должно производиться при температуре воздуха в помещении не ниже 5 </span><span id=SB21><span id=SR1>°</span></span><span id=ST4>С.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Для достижения
+необходимой прочности приклеенные унитазы должны выдерживаться без нагрузки в
+неподвижном положении до набора прочности клеевого соединения не менее 12 ч.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>В бытовых
+помещениях общественных и промышленных зданий установку группы умывальников
+следует предусматривать на общей подставке.</span><span id=SS></span></p>

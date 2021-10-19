@@ -1,0 +1,222 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="19%" id=SUT>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Этапы работ</span></b><span id=SH></span></p>
+  </td>
+  <td width="31%" id=SVT>
+  <p class=MsoHeading9><span id=SV4>Контролируемые
+  операции</span></p>
+  </td>
+  <td width="18%" id=SWT>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Контроль (метод, объем)</span></b><span id=SH></span></p>
+  </td>
+  <td width="30%" id=SXT>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Документация</span></b><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=6 valign=top id=SYT>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SZT>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S0U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" rowspan=6 valign=top id=S1U>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорта (сертификаты), общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве;</span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности, точность геометрических параметров, внешний
+  вид листов обшивки;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=S6O><span id=S82>Измерительный, каждый элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие разметки, определяющей проектное положение листов обшивки на
+  опорах;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- смешение направляющих от разбивочных осей;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S4U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- расстояние между осями стоек.</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S5U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=7 valign=top id=S6U>
+  <p class=MsoNormal id=SJ1><span id=SD2>Монтаж перегородок</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SZT>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S0U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" rowspan=2 valign=top id=S7U>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- правильность стыковки листов обшивки, величину нахлеста листа
+  обшивки на стойку;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=S6O><span id=S82>Измерительный, каждый элемент</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- расстояние между деталями крепления направляющих к несущим
+  конструкциям;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S8U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- зазоры между плитами, а также между ними и элементами каркаса;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S8U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- размеры шва между стыкуемыми листами;</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S8U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- углубление головки винта или шурупа в обшивку каркаса;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=S8U>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S9U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- уступ между смежными листами вдоль шва.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SAU>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SBU>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" rowspan=3 valign=top id=SCU>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=SDU>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SEU>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="30%" rowspan=3 valign=top id=SFU>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт освидетельствования скрытых работ, акт приемки выполненных работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие фактического положения смонтированных каркасно-обшивных
+  перегородок;</span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный, каждый элемент</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="31%" valign=top id=S2U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- надежность крепления;</span></p>
+  </td>
+  <td width="18%" valign=top id=S3U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Технический осмотр</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="19%" valign=top id=SGU>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="31%" valign=top id=S4U>
+  <p class=MsoNormal id=SJ1><span id=SD2>- качество поверхности.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=S5U>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+  <td width="30%" valign=top id=SHU>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SP4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: линейка измерительная, отвес
+  строительный, рулетка.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SQ4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Входной и операционный контроль осуществляют: мастер (прораб) - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SR4>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

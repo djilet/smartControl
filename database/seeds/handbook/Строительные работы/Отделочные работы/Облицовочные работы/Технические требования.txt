@@ -1,0 +1,287 @@
+<p class=a><b>Технические требования</b><br>
+<span id=S31><a href="../../1/1925/index.htm" title="Изоляционные и отделочные покрытия">СНиП 3.04.01-87</a></span> табл. 13,
+15<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=214 height=170 src="x162.jpg" v:shapes="_x0000_i1105"></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения облицовок не должны превышать нормы, приведенные в таблице 1.</span><span id=SS></span></p>
+
+<p class=MsoBodyTextIndent2 id=SW3><span id=SX3>Толщина
+клеящей прослойки:</span><span id=SY3></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из раствора -
+7 мм, но не более 15 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- из мастики -
+1 мм, но не более 2 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Поверхность
+всей облицовки должна быть жесткой.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Горизонтальные
+и вертикальные швы облицовки должны быть однотипны и равномерны по ширине.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Пространство
+между стеной и облицовкой должно быть заполнено раствором (табл. 1).</span><span id=SS></span></p>
+
+<p class=MsoNormal align=right id=ST5><i><span id=SB>Таблица 1</span></i></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="23%" rowspan=3 id=SOF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Виды облицованной поверхности</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="76%" colspan=6 id=SPF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>Допускаемые отклонения</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="14%" colspan=2 id=SQF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>от вертикали</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" rowspan=2 id=SRF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=SH>расположения швов от вертикали и
+  горизонтали, на 1 м длины, мм</span></b></p>
+  </td>
+  <td width="17%" rowspan=2 id=SSF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>несовпадения профиля на стыках архитектурных
+  деталей и швов, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="16%" rowspan=2 id=STF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>неровности плоскости (при контроле
+  двухметровой рейкой), мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="11%" rowspan=2 id=SUF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>ширины шва облицовки, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="7%" id=SVF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>на 1 м длины, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+  <td width="7%" id=SWF1>
+  <p class=MsoNormal align=center id=SA1><b><span id=S82>на этаж, не более, мм</span></b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=SXF1>
+  <p class=MsoNormal id=SJ1><span id=SD2>1. Зеркальная лощеная</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=SYF1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=SZF1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S0G1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1,5</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S1G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>0,5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S2G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=S3G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=S4G1>
+  <p class=MsoNormal id=SJ1><span id=SD2>2. Шлифованная, точечная, бугристая, бороздчатая</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S5G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>8</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S7G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S8G1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>1</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S9G1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>4</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SAG1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±1</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=S4G1>
+  <p class=MsoNormal id=SJ1><span id=SD2>3. Типа «Скала»</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S5G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S7G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S8G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S9G1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>-</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SAG1>
+  <p class=MsoNormal align=center id=SA1><span id=SI3>±2</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=S4G1>
+  <p class=MsoNormal id=SJ1><span id=SD2>4. Керамическими, стеклокерамическими и др. изделиями в облицовке:</span><span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S5G1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S7G1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="17%" valign=top id=S8G1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="16%" valign=top id=S9G1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="11%" valign=top id=SAG1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=S4G1>
+  <p class=MsoNormal id=SR3><span id=S82>наружной</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S5G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=S6G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>5</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S7G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=S8G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=S9G1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SAG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="23%" valign=top id=SBG1>
+  <p class=MsoNormal id=SR3><span id=S82>внутренней</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=SCG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+  <td width="7%" valign=top id=SDG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>4</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SEG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>1,5</span><span id=SI></span></p>
+  </td>
+  <td width="17%" valign=top id=SFG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>3</span><span id=SI></span></p>
+  </td>
+  <td width="16%" valign=top id=SGG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>2</span><span id=SI></span></p>
+  </td>
+  <td width="11%" valign=top id=SHG1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>±0,5</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal id=SIG1><span id=SJG1>Примечание</span>:<i> </i>отклонение ширины шва
+облицовки из гранита, мраморов и искусственного камня - ±0,5 мм.<span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Не допускаются:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>- сколы в швах
+более 0,5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+пятна, потеки раствора и высолы.</span><span id=SS></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Требования к качеству
+применяемых материалов</span></b></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../6/6392/index.htm" title="Плитки керамические глазурованные для внутренней облицовки стен. Технические условия">ГОСТ
+6141-91</a>. Плитки керамические глазурованные для внутренней облицовки стен.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3709/index.htm" title="Плиты облицовочные пиленые из природного камня. Технические условия">ГОСТ
+9480-89</a>. Плиты облицовочные пиленые из природного камня.</span></p>
+
+<p class=MsoNormal id=SN><span id=S21><a href="../../3/3714/index.htm" title="Плитки стеклянные облицовочные коврово-мозаичные и ковры из них. Технические условия">ГОСТ
+17057-89*</a>. Плитки стеклянные облицовочные коврово-мозаичные и ковры из них.
+Технические условия.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><b><span id=S21>Плитки
+</span></b><b><span id=SB>керамические<span id=S31> </span></span></b><span id=SKG1>по <a href="../../6/6392/index.htm" title="Плитки керамические глазурованные для внутренней облицовки стен. Технические условия">ГОСТ
+6141-91</a></span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Отклонения
+размеров, не более, мм:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по длине и
+ширине граней для плиток длиной:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- 100 мм - ±0,8;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- 150 мм - ±1,2;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- 200 мм - ±1,6;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по толщине
+плиток - ±0,5;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по
+косоугольности:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- для плиток длиной 100 и
+150 мм - 0,5;</span></p>
+
+<p class=MsoNormal id=SR5><span id=SB>- для плиток длиной 200 мм -
+1,0.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Плитки должны
+иметь четкие углы и ребра лицевой грани. Разнотонность плиток не допускается.
+Кривизна плиток не более 0,9 мм. Не допускаются мушки диаметром более 0,2 мм;
+отбитые углы; щербины и зазубрины на ребрах лицевой поверхности.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><b><span id=SB>Плитки<span id=S31> стеклянные </span></span></b><span id=SKG1>по <a href="../../3/3714/index.htm" title="Плитки стеклянные облицовочные коврово-мозаичные и ковры из них. Технические условия">ГОСТ
+17057-89*</a> размером 21</span><span id=SLG1><span id=ST1>&acute;</span></span><span id=S21>21</span><span id=SKD1><span id=ST1>&acute;</span></span><span id=S21>4,5 мм.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>Допускаемые
+отклонения по длине, ширине и толщине - ±0,5 мм. На поверхности плиток не
+допускается:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- более одного
+отбитого угла размером более 3 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- по стороне
+плитки более одной вмятины глубиной более 0,4 мм;</span><span id=S2></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- трещины,
+посечки в сосредоточенном виде, пузыри открытые вытянутые шириной до 1 мм,
+длиной более 5 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- неплоскостность
+более 0,5 мм.</span><span id=SS></span></p>

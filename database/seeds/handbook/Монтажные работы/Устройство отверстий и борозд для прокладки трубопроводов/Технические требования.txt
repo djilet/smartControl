@@ -1,0 +1,427 @@
+<p class=a><b>Технические требования<br>
+</b><a href="../../1/1998/index.htm" title="Внутренние санитарно-технические системы">СНиП
+3.05.01-85</a> п. 1.5, прилож. 5</p>
+
+<p class=MsoNormal align=center id=S1><span id=ST4><img border=0 width=210 height=172 src="x210.jpg" v:shapes="_x0000_i1129"></span><span id=SH></span></p>
+
+<p class=MsoNormal align=center id=S1><b><span id=SB>Допускаемые отклонения:</span></b></p>
+
+<p class=MsoNormal id=SN><span id=SB>Размеры
+отверстий в фундаментах зданий и сооружений для вводов и выпусков наружных
+сетей должны быть не менее:</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>-
+теплоснабжения - 600</span><span id=STK1><span id=ST1>&acute;</span></span><span id=SB>400 мм;</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SN><span id=SB>- водопровода и
+канализации - 400</span><span id=SC21><span id=ST1>&acute;</span></span><span id=SB>400 мм. После прокладки
+трубопроводов отверстия в перекрытиях, стенах и перегородках должны быть
+заделаны.</span><span id=SS></span></p>
+
+<p class=MsoNormal id=SKD><span id=SB>Размеры
+отверстий и борозд для прокладки трубопроводов в перекрытиях, стенах и
+перегородках зданий и сооружений принимаются в соответствии с рекомендуемыми в
+таблице, если другие размеры не предусмотрены проектом.</span><span id=SS></span></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="60%" rowspan=2 id=SCR1>
+  <p class=MsoNormal align=center id=S46><b>Назначение
+  трубопровода</b></p>
+  </td>
+  <td width="39%" colspan=3 id=SDR1>
+  <p class=MsoNormal align=center id=S46><b>Размер, мм</b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="10%" id=SER1>
+  <p class=MsoNormal align=center id=S46><b>отверстия</b><b><span id=SH></span></b></p>
+  </td>
+  <td width="28%" colspan=2 id=SFR1>
+  <p class=MsoNormal align=center id=S46><b>борозды для скрытой
+  прокладки</b><b><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SGR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>ОТОПЛЕНИЕ:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SHR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SIR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SJR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Стояк однотрубной системы</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Два стояка двухтрубной системы</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>150</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подводка к приборам и сцепки</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>60</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>60</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Главный стояк</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Магистраль</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>300</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>ВОДОПРОВОД И КАНАЛИЗАЦИЯ:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Водопроводный стояк:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>один</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>два</span><span id=SI></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Один водопроводный стояк и один канализационный стояк диаметром, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>50</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>100; 150</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>350</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>350</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Один канализационный стояк диаметром, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>50</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>150</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>100; 150</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Два водопроводных стояка и один канализационный стояк диаметром, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>50</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>100; 150</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>320</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>380</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Три водопроводных стояка и один канализационный стояк диаметром, мм:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>50</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>450</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>150</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>350</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>130</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>100; 150</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>500</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>480</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>250</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подводка водопроводная:</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>одна</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>100</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>60</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>60</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SD3><span id=S82>две</span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>100</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SKR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подводка канализационная, магистраль водопроводная</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SLR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>200</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>200</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SMR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SNR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="60%" valign=top id=SOR1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Канализационный коллектор</span><span id=SH></span></p>
+  </td>
+  <td width="10%" valign=top id=SPR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>230</span><span id=SXB1><span id=ST1>&acute;</span></span><span id=S82>300</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SQR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+  <td width="14%" valign=top id=SRR1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>

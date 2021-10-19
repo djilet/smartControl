@@ -1,0 +1,159 @@
+<p class=MsoNormal align=center id=S1><b><span id=SB>Состав операций и средства
+контроля</span></b></p>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%" id=S71>
+ <tr id=S81>
+  <td width="22%" id=SON1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Этапы
+  работ</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="35%" id=SPN1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контролируемые
+  операции</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="18%" id=SEH>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Контроль
+  (метол, объем)</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+  <td width="22%" id=SIK1>
+  <p class=MsoNormal align=center id=SA1><b id=S5><span id=S82>Документация</span></b><b id=S5><span id=SH></span></b></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=4 valign=top id=SQN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Подготовительные работы</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SRN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSN1>
+  <p class=MsoNormal id=SJ1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=4 valign=top id=SMK1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Паспорт (сертификат), общий журнал работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие документа о качестве на металлические изделия;</span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- соответствие размеров проектным, наличие антикоррозионной зашиты;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SVN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие разметки, определяющей проектное положение перемычек.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SWN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>-»-</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=5 valign=top id=SXN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Установка металлических перемычек</span><span id=SI></span></p>
+  </td>
+  <td width="35%" valign=top id=SRN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контролировать:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSN1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=5 valign=top id=SSK1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Общий журнал работ</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- поочередность пробивки борозды, отметку опорной площадки, глубину
+  борозды;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный, измерительный</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- размер опирания;</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- установку стягивающих болтов, полос;</span><span id=SI></span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SVN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- наличие на перемычке сетки «Рабица» под штукатурку.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SWN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>То же</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="22%" rowspan=3 valign=top id=SXN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемка выполненных работ</span><span id=SH></span></p>
+  </td>
+  <td width="35%" valign=top id=SRN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Проверить:</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SSN1>
+  <p class=MsoNormal align=center id=SA1>&nbsp;<span id=SH></span></p>
+  </td>
+  <td width="22%" rowspan=3 valign=top id=SSK1>
+  <p class=MsoNormal id=SJ1><span id=SD2>Акт приемки выполненных работ</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=STN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- фактическое положение смонтированных перемычек;</span></p>
+  </td>
+  <td width="18%" valign=top id=SUN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Измерительный</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="35%" valign=top id=SVN1>
+  <p class=MsoNormal id=SJ1><span id=SD2>- внешний вид элементов.</span><span id=SH></span></p>
+  </td>
+  <td width="18%" valign=top id=SWN1>
+  <p class=MsoNormal align=center id=SA1><span id=S82>Визуальный</span><span id=SI></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SJ8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Контрольно-измерительный инструмент: рулетка, линейка металлическая, отвес,
+  нивелир.</span><span id=SH></span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=SK8>
+  <p class=MsoNormal id=SJ1><span id=SD2>Операционный контроль осуществляют: мастер (прораб), геодезист - в
+  процессе работ.</span></p>
+  </td>
+ </tr>
+ <tr id=S81>
+  <td width="100%" colspan=4 valign=top id=S68>
+  <p class=MsoNormal id=SJ1><span id=SD2>Приемочный контроль осуществляют: работники службы качества, мастер
+  (прораб), представители технадзора заказчика.</span><span id=SI></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
